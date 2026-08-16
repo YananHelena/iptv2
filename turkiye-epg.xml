@@ -2723,6 +2723,765 @@
     <category lang="tr">Yaşam</category>
     <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/94/2204204958725eb8f42a.jpg" />
   </programme>
+  <channel id="360.tr">
+    <display-name>360</display-name>
+    <display-name lang="tr">360 HD</display-name>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/logo/202007/20200714/20200714014911873wjq_op.png" />
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/logo/202007/20200714/20200714014911873wjq_op.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838188.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838188.png" />
+    <url>http://www.tvplus.com.tr</url>
+  </channel>
+  <programme start="20260816004500 +0000" stop="20260816011500 +0000" channel="360.tr">
+    <title lang="tr">Ataman ile Devr-i Alem</title>
+    <desc lang="tr">Paris'in Eyfel'i, İtalya'nın Pissa Kulesi, Venedik'in gondolları... Farklı bir soluk, farklı bir macera Ataman Erkul'un gözünden dünya turuna ne dersiniz? Eğer siz de keyifli bir dünya turuna çıkmak isterseniz, Ataman ile Devri Alem 360'ta...</desc>
+    <category lang="tr">Gezi &amp; Seyahat</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/3/2204269579785eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816011500 +0000" stop="20260816014500 +0000" channel="360.tr">
+    <title lang="tr">Lezzet Peşinde</title>
+    <desc lang="tr">Lezzet Peşinde, muhteşem tatların ve lezzet sırlarının yanı sıra, işin ustalarının hayat hikayeleri ve başarı serüvenleriyle ekrana geliyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/70/2204269579865eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816014500 +0000" stop="20260816031500 +0000" channel="360.tr">
+    <title lang="tr">Yusuf ile Kenan</title>
+    <desc lang="tr">Babaları kan davasına kurban giden Yusuf ile Kenan çareyi İstanbul'a kaçmakta bulurlar. İstanbul'da tek akrabaları olan amcalarını bulamayan iki kardeş çaresiz kalırlar. Sokaklarda geçen günlerin ardından bir çocuk çetesiyle karşılaşırlar.</desc>
+    <credits>
+      <director>Ömer Kavur</director>
+      <actor>Cem Davran</actor>
+      <actor>Tamer Çeliker</actor>
+      <actor>Hakan Tanfer</actor>
+      <actor>Yalçn Avşar</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/24/2204269589945eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260816031500 +0000" stop="20260816034500 +0000" channel="360.tr">
+    <title lang="tr">Gökyüzünden</title>
+    <desc lang="tr">Türkiye'ye hiç bu gözden bakmadınız. Anadolu'nun eşsiz güzellikleri, doğa manzaraları, tarihi kentleri ve çok daha fazlası drone ile çekildi. Ortaya harika bir belgesel çıktı. Cennet vatanı bir de 'Gökyüzünden' izlemek isteyenler ekran başına...</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/37/2204269580025eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816034500 +0000" stop="20260816041500 +0000" channel="360.tr">
+    <title lang="tr">Lezzet Peşinde</title>
+    <desc lang="tr">Lezzet Peşinde, muhteşem tatların ve lezzet sırlarının yanı sıra, işin ustalarının hayat hikayeleri ve başarı serüvenleriyle ekrana geliyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/1/2204269590105eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816041500 +0000" stop="20260816053000 +0000" channel="360.tr">
+    <title lang="tr">Ben Bilirim</title>
+    <desc lang="tr">Stüdyodaki yarışmacılar ve ekran başındaki seyirciler farklı kategorilerle ilgili soruları yanıtlamaya çalışıyor. Siz de 'Ben Bilirim' diyorsanız, bu yarışma size göre...</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/65/2204269590185eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816053000 +0000" stop="20260816071500 +0000" channel="360.tr">
+    <title lang="tr">Kanun Gücü</title>
+    <desc lang="tr">Ahmet, kanun çiğneyenlerle savaşan başarılı bir polistir. Kendini işine adayan Ahmet, yeni ortağı ile birlikte 'akrep' adlı azılı bir suçlunun peşine düşer. Bu arada bir cinayetin ardından Zeynep adlı bir kadınla tanışır ve aralarında bir yakınlık başlar.</desc>
+    <credits>
+      <director>Cüneyt Arkın</director>
+      <actor>Cüneyt Arkın</actor>
+      <actor>Deniz Akbulut</actor>
+      <actor>Orçun Sonat</actor>
+      <actor>Necla Fide</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/6/2204269590265eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260816071500 +0000" stop="20260816090000 +0000" channel="360.tr">
+    <title lang="tr">Mavi Eşarp</title>
+    <desc lang="tr">Bir kaza sonucu sakat kalan bir pilotla çok hızlı ve renkli bir yaşam süren, zengin ama hastalıklı bir kadının aşk öyküsü konu ediliyor.</desc>
+    <credits>
+      <director>Nejat Saydam</director>
+      <actor>Türkan Şoray</actor>
+      <actor>Ediz Hun</actor>
+      <actor>Leman Akçatepe</actor>
+      <actor>Yıldırım Önal</actor>
+      <actor>Nermin Denizci</actor>
+      <actor>Hayri Caner</actor>
+      <actor>Nezihe Güler</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/67/2204269600345eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260816090000 +0000" stop="20260816094500 +0000" channel="360.tr">
+    <title lang="tr">Ataman ile Devr-i Alem</title>
+    <desc lang="tr">Paris'in Eyfel'i, İtalya'nın Pissa Kulesi, Venedik'in gondolları... Farklı bir soluk, farklı bir macera Ataman Erkul'un gözünden dünya turuna ne dersiniz? Eğer siz de keyifli bir dünya turuna çıkmak isterseniz, Ataman ile Devri Alem 360'ta...</desc>
+    <category lang="tr">Gezi &amp; Seyahat</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/0/2204269600425eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816094500 +0000" stop="20260816124500 +0000" channel="360.tr">
+    <title lang="tr">Seksenler</title>
+    <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com'u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk...  Çocuklar; sobayı, merdaneli makineyi, pul yapıştırıp yolladığımız mektupları, anket defterlerini, siyah önlükleri, kolalı yakaları, sokaklarda koşturarak sürdüğümüz telli arabaları ve misket dolu torbaları ilk defa bu dizide görüyor.</desc>
+    <credits>
+      <director>Bora Tekay</director>
+      <actor>Rasim Öztekin</actor>
+      <actor>Özlem Türkad</actor>
+      <actor>Şoray Uzun</actor>
+      <actor>Yasemin Çonka</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/5/2204269600505eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260816124500 +0000" stop="20260816140000 +0000" channel="360.tr">
+    <title lang="tr">Öykü Cengiz ile O An'ın Öykü'sü</title>
+    <desc lang="tr">Ünlü konuklar, o anın perde arkasını ilk kez anlatıyor. Nostalji, samimiyet ve sürprizlerle dolu bir yolculuk için “Öykü Cengiz ile O An’ın Öykü’sü” 360’ta!</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/18/2204269610585eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816140000 +0000" stop="20260816143000 +0000" channel="360.tr">
+    <title lang="tr">Lezzet Peşinde</title>
+    <desc lang="tr">Lezzet Peşinde, muhteşem tatların ve lezzet sırlarının yanı sıra, işin ustalarının hayat hikayeleri ve başarı serüvenleriyle ekrana geliyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/85/2204269610665eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816143000 +0000" stop="20260816163000 +0000" channel="360.tr">
+    <title lang="tr">Yusuf ile Kenan</title>
+    <desc lang="tr">Babaları kan davasına kurban giden Yusuf ile Kenan çareyi İstanbul'a kaçmakta bulurlar. İstanbul'da tek akrabaları olan amcalarını bulamayan iki kardeş çaresiz kalırlar. Sokaklarda geçen günlerin ardından bir çocuk çetesiyle karşılaşırlar.</desc>
+    <credits>
+      <director>Ömer Kavur</director>
+      <actor>Cem Davran</actor>
+      <actor>Tamer Çeliker</actor>
+      <actor>Hakan Tanfer</actor>
+      <actor>Yalçn Avşar</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/88/2204269610745eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260816163000 +0000" stop="20260816180000 +0000" channel="360.tr">
+    <title lang="tr">Ben Bilirim</title>
+    <desc lang="tr">Stüdyodaki yarışmacılar ve ekran başındaki seyirciler farklı kategorilerle ilgili soruları yanıtlamaya çalışıyor. Siz de 'Ben Bilirim' diyorsanız, bu yarışma size göre...</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/9/2204269620825eb9b42e.jpg" />
+    <episode-num system="onscreen">S7 E228</episode-num>
+  </programme>
+  <programme start="20260816180000 +0000" stop="20260816200000 +0000" channel="360.tr">
+    <title lang="tr">Davaro</title>
+    <desc lang="tr">Sevgilisi Cano'yla evlenmek isteyen saf Memo, başlık parası biriktirmek için Almanya'ya gider. Birkaç yıl çalıştıktan sonra da köye döner ve Cano'yla evlenme hazırlıklarına başlar.  Memo'nun ailesinin kan davalı olduğu Sülo da hapisten çıkarak, karısı Ayşo'nun yanına gelir. Bunu duyan Hamo, düğünü durdurur ve oğlu Memo'nun, Sülo'yu öldürmesini ister. Ancak Memo buna pek yanaşmaz.  Öldürüleceğini anlayan Sülo, Memo'ya bir teklifte bulunur. Memo'nun kendisini öldürmemesi durumunda köyden uzaklaşacağını söyler.  Evlenmek için başka çaresi kalmayan Memo, Sülo'nun planını kabul eder ve köy meydanında Sülo'yu yalandan vurur. Köy halkı da bu numaraya inanır.</desc>
+    <credits>
+      <director>Kartal Tibet</director>
+      <actor>Kemal Sunal</actor>
+      <actor>Pembe Mutlu</actor>
+      <actor>Şener Şen</actor>
+      <actor>Adile Naşit</actor>
+      <actor>Ayşen Gruda</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/66/2204269620925eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260816200000 +0000" stop="20260816220000 +0000" channel="360.tr">
+    <title lang="tr">Seksenler</title>
+    <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com'u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk...  Çocuklar; sobayı, merdaneli makineyi, pul yapıştırıp yolladığımız mektupları, anket defterlerini, siyah önlükleri, kolalı yakaları, sokaklarda koşturarak sürdüğümüz telli arabaları ve misket dolu torbaları ilk defa bu dizide görüyor.</desc>
+    <credits>
+      <director>Bora Tekay</director>
+      <actor>Rasim Öztekin</actor>
+      <actor>Özlem Türkad</actor>
+      <actor>Şoray Uzun</actor>
+      <actor>Yasemin Çonka</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/43/2204269631095eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260816220000 +0000" stop="20260816231500 +0000" channel="360.tr">
+    <title lang="tr">Pınar Altuğ Atacan ile Kim O?</title>
+    <desc lang="tr">Pınar Altuğ Atacan, ünlü konuklarıyla sohbetin en doğal ve en keyifli hâlini ekrana taşıyor. Konukların bilinmeyen yönleri, hayatlarına dair özel hikâyeleri ve merak edilen anıları 360 ekranında...</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/0/2204244150805eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816231500 +0000" stop="20260817004500 +0000" channel="360.tr">
+    <title lang="tr">Mavi Eşarp</title>
+    <desc lang="tr">Bir kaza sonucu sakat kalan bir pilotla çok hızlı ve renkli bir yaşam süren, zengin ama hastalıklı bir kadının aşk öyküsü konu ediliyor.</desc>
+    <credits>
+      <director>Nejat Saydam</director>
+      <actor>Türkan Şoray</actor>
+      <actor>Ediz Hun</actor>
+      <actor>Leman Akçatepe</actor>
+      <actor>Yıldırım Önal</actor>
+      <actor>Nermin Denizci</actor>
+      <actor>Hayri Caner</actor>
+      <actor>Nezihe Güler</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/50/2204244150885eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260817004500 +0000" stop="20260817011500 +0000" channel="360.tr">
+    <title lang="tr">Ataman ile Devr-i Alem</title>
+    <desc lang="tr">Paris'in Eyfel'i, İtalya'nın Pissa Kulesi, Venedik'in gondolları... Farklı bir soluk, farklı bir macera Ataman Erkul'un gözünden dünya turuna ne dersiniz? Eğer siz de keyifli bir dünya turuna çıkmak isterseniz, Ataman ile Devri Alem 360'ta...</desc>
+    <category lang="tr">Gezi &amp; Seyahat</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/16/2204244160965eb9b42e.jpg" />
+  </programme>
+  <programme start="20260817011500 +0000" stop="20260817020000 +0000" channel="360.tr">
+    <title lang="tr">Seren'le Mutfakta Buluşalım</title>
+    <desc lang="tr">Seren Fosforoğlu, her hafta mutfakta uzman isimleri, ünlü konukları ve ilham veren yazarları ağırlıyor. Birlikte hem nefis tarifler hazırlanıyor hem de hayatın içinden hikâyeler, deneyimler ve anılar paylaşılıyor. Samimi sohbetler, mutfak tüyoları ve sürpriz konuklarla keyif dolu dakikalar bu programda...</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/43/2204244161045eb9b42e.jpg" />
+  </programme>
+  <programme start="20260817020000 +0000" stop="20260817023000 +0000" channel="360.tr">
+    <title lang="tr">Lezzet Peşinde</title>
+    <desc lang="tr">Lezzet Peşinde, muhteşem tatların ve lezzet sırlarının yanı sıra, işin ustalarının hayat hikayeleri ve başarı serüvenleriyle ekrana geliyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/28/2204244171125eb9b42e.jpg" />
+  </programme>
+  <programme start="20260817023000 +0000" stop="20260817033000 +0000" channel="360.tr">
+    <title lang="tr">Öykü Cengiz ile O An'ın Öykü'sü</title>
+    <desc lang="tr">Ünlü konuklar, o anın perde arkasını ilk kez anlatıyor. Nostalji, samimiyet ve sürprizlerle dolu bir yolculuk için “Öykü Cengiz ile O An’ın Öykü’sü” 360’ta!</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/87/2204244171205eb9b42e.jpg" />
+  </programme>
+  <programme start="20260817033000 +0000" stop="20260817040000 +0000" channel="360.tr">
+    <title lang="tr">Gökyüzünden</title>
+    <desc lang="tr">Türkiye'ye hiç bu gözden bakmadınız. Anadolu'nun eşsiz güzellikleri, doğa manzaraları, tarihi kentleri ve çok daha fazlası drone ile çekildi. Ortaya harika bir belgesel çıktı. Cennet vatanı bir de 'Gökyüzünden' izlemek isteyenler ekran başına...</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/52/2204244171285eb9b42e.jpg" />
+  </programme>
+  <programme start="20260817040000 +0000" stop="20260817054500 +0000" channel="360.tr">
+    <title lang="tr">Mavi Eşarp</title>
+    <desc lang="tr">Bir kaza sonucu sakat kalan bir pilotla çok hızlı ve renkli bir yaşam süren, zengin ama hastalıklı bir kadının aşk öyküsü konu ediliyor.</desc>
+    <credits>
+      <director>Nejat Saydam</director>
+      <actor>Türkan Şoray</actor>
+      <actor>Ediz Hun</actor>
+      <actor>Leman Akçatepe</actor>
+      <actor>Yıldırım Önal</actor>
+      <actor>Nermin Denizci</actor>
+      <actor>Hayri Caner</actor>
+      <actor>Nezihe Güler</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/80/2204321862005eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260817054500 +0000" stop="20260817074500 +0000" channel="360.tr">
+    <title lang="tr">Davaro</title>
+    <desc lang="tr">Sevgilisi Cano'yla evlenmek isteyen saf Memo, başlık parası biriktirmek için Almanya'ya gider. Birkaç yıl çalıştıktan sonra da köye döner ve Cano'yla evlenme hazırlıklarına başlar.  Memo'nun ailesinin kan davalı olduğu Sülo da hapisten çıkarak, karısı Ayşo'nun yanına gelir. Bunu duyan Hamo, düğünü durdurur ve oğlu Memo'nun, Sülo'yu öldürmesini ister. Ancak Memo buna pek yanaşmaz.  Öldürüleceğini anlayan Sülo, Memo'ya bir teklifte bulunur. Memo'nun kendisini öldürmemesi durumunda köyden uzaklaşacağını söyler.  Evlenmek için başka çaresi kalmayan Memo, Sülo'nun planını kabul eder ve köy meydanında Sülo'yu yalandan vurur. Köy halkı da bu numaraya inanır.</desc>
+    <credits>
+      <director>Kartal Tibet</director>
+      <actor>Kemal Sunal</actor>
+      <actor>Pembe Mutlu</actor>
+      <actor>Şener Şen</actor>
+      <actor>Adile Naşit</actor>
+      <actor>Ayşen Gruda</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/23/2204321872085eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260817074500 +0000" stop="20260817093000 +0000" channel="360.tr">
+    <title lang="tr">Seksenler</title>
+    <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com'u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk...  Çocuklar; sobayı, merdaneli makineyi, pul yapıştırıp yolladığımız mektupları, anket defterlerini, siyah önlükleri, kolalı yakaları, sokaklarda koşturarak sürdüğümüz telli arabaları ve misket dolu torbaları ilk defa bu dizide görüyor.</desc>
+    <credits>
+      <director>Bora Tekay</director>
+      <actor>Rasim Öztekin</actor>
+      <actor>Özlem Türkad</actor>
+      <actor>Şoray Uzun</actor>
+      <actor>Yasemin Çonka</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/15/2204244181365eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260817093000 +0000" stop="20260817103000 +0000" channel="360.tr">
+    <title lang="tr">Seren'le Mutfakta Buluşalım</title>
+    <desc lang="tr">Seren Fosforoğlu, her hafta mutfakta uzman isimleri, ünlü konukları ve ilham veren yazarları ağırlıyor. Birlikte hem nefis tarifler hazırlanıyor hem de hayatın içinden hikâyeler, deneyimler ve anılar paylaşılıyor. Samimi sohbetler, mutfak tüyoları ve sürpriz konuklarla keyif dolu dakikalar bu programda...</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/88/2204244181445eb9b42e.jpg" />
+  </programme>
+  <programme start="20260817103000 +0000" stop="20260817123000 +0000" channel="360.tr">
+    <title lang="tr">Sarmaşık Gülleri</title>
+    <desc lang="tr">Gülseren'in babası, karısının ölümü üzerine Ümran ile evlenir. Ümran ve kızı, Gülseren'e kötü davranır onun hatıralarıyla dolu köşkü satıp villaya taşınırlar. Köşkü alan Necip, Gülseren'in hatıra defterini bulur ve çektiği sıkıntıları öğrenir.</desc>
+    <credits>
+      <director>Nejat Saydam</director>
+      <actor>Hülya Koçyiğit</actor>
+      <actor>Kartal Tibet</actor>
+      <actor>Renan Fosforoğlu</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/32/2204321872165eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260817123000 +0000" stop="20260817143000 +0000" channel="360.tr">
+    <title lang="tr">Kaptan</title>
+    <desc lang="tr">Uçarı, biraz da hovarda Orhan Kaptan'ın gemisine, geç ödenen bir senet yüzünden haciz gelir. Borçlandığı adam kasabanın zengin eşrafından biridir. Orhan Kaptan gemisini hacizden kurtarmak için kamyonetiyle yola çıkar.  Yolda Melek adında bir kıza rastlar ve kızı kamyonetine alır ve bu kız yüzünden fazlasıyla aksilik yaşar. Fakat Orhan senet için acele etmektedir. Sonunda zengin alacaklının villasına ulaşır. Fakat alacaklı adam Orhan'ı tersler ve villasından kovar. Bu sırada Melek'in bu adamın kızı olduğunu öğrenir. Dönüşte intikam için Melek'i kaçırır. Yolculuk esnasında Orhan'la Melek arasında bir aşk başlar.</desc>
+    <credits>
+      <director>Zeki Alasya</director>
+      <actor>Hülya Avsar</actor>
+      <actor>Ünsal Emre</actor>
+      <actor>Orhan Gencebay</actor>
+      <actor>Filiz Ersürer</actor>
+      <actor>Mahmut Gürses</actor>
+      <actor>Suat Sungur</actor>
+      <actor>Ali Yalaz</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/51/2204321872245eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260817143000 +0000" stop="20260817160000 +0000" channel="360.tr">
+    <title lang="tr">Seksenler</title>
+    <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com'u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk...  Çocuklar; sobayı, merdaneli makineyi, pul yapıştırıp yolladığımız mektupları, anket defterlerini, siyah önlükleri, kolalı yakaları, sokaklarda koşturarak sürdüğümüz telli arabaları ve misket dolu torbaları ilk defa bu dizide görüyor.</desc>
+    <credits>
+      <director>Bora Tekay</director>
+      <actor>Rasim Öztekin</actor>
+      <actor>Özlem Türkad</actor>
+      <actor>Şoray Uzun</actor>
+      <actor>Yasemin Çonka</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/75/2204244191525eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260817160000 +0000" stop="20260817180000 +0000" channel="360.tr">
+    <title lang="tr">Ben Bilirim</title>
+    <desc lang="tr">Stüdyodaki yarışmacılar ve ekran başındaki seyirciler farklı kategorilerle ilgili soruları yanıtlamaya çalışıyor. Siz de 'Ben Bilirim' diyorsanız, bu yarışma size göre...</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/85/2204244191605eb9b42e.jpg" />
+    <episode-num system="onscreen">S7 E228</episode-num>
+  </programme>
+  <programme start="20260817180000 +0000" stop="20260817200000 +0000" channel="360.tr">
+    <title lang="tr">Almanya'da Bir Türk Kızı</title>
+    <desc lang="tr">Köyde yaşayan Murat ve Zeynep, severek evlenmiştir. Ancak ekonomik nedenlerden dolayı Murat, Almanya'ya çalışmaya gider. Kısa süre içinde de Türkiye'yi ve Zeynep'i unutur. Zeynep ise yıllarca onun yolunu bekler.  Bir gün köye bir turist kafilesi gelir. Başlarında da Murat vardır. Ancak Zeynep'in onu tanıması biraz zaman alır. Murat, birkaç gün kaldıktan sonra tekrar Almanya'ya döner. Zeynep, hamile olduğunu söylemek için Murat'ın arkasından Almanya'ya gider. Bu arada günlerce, hatta aylarca Murat'ı arar ama bir türlü onu bulamaz. Bir gün sesinin güzelliği fark edilir ve çok ünlü bir şarkıcı olur. Murat'la tekrar karşılaştığında artık çok farklı bir kadın olmuştur.</desc>
+    <credits>
+      <director>Oksal Pekmezoğlu</director>
+      <actor>Neşe Karaböcek</actor>
+      <actor>Engin Çağlar</actor>
+      <actor>Ceyda Karahan</actor>
+      <actor>Osman Alyanak</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/3/2204321882325eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260817200000 +0000" stop="20260817213000 +0000" channel="360.tr">
+    <title lang="tr">Kaptan</title>
+    <desc lang="tr">Uçarı, biraz da hovarda Orhan Kaptan'ın gemisine, geç ödenen bir senet yüzünden haciz gelir. Borçlandığı adam kasabanın zengin eşrafından biridir. Orhan Kaptan gemisini hacizden kurtarmak için kamyonetiyle yola çıkar.  Yolda Melek adında bir kıza rastlar ve kızı kamyonetine alır ve bu kız yüzünden fazlasıyla aksilik yaşar. Fakat Orhan senet için acele etmektedir. Sonunda zengin alacaklının villasına ulaşır. Fakat alacaklı adam Orhan'ı tersler ve villasından kovar. Bu sırada Melek'in bu adamın kızı olduğunu öğrenir. Dönüşte intikam için Melek'i kaçırır. Yolculuk esnasında Orhan'la Melek arasında bir aşk başlar.</desc>
+    <credits>
+      <director>Zeki Alasya</director>
+      <actor>Hülya Avsar</actor>
+      <actor>Ünsal Emre</actor>
+      <actor>Orhan Gencebay</actor>
+      <actor>Filiz Ersürer</actor>
+      <actor>Mahmut Gürses</actor>
+      <actor>Suat Sungur</actor>
+      <actor>Ali Yalaz</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/24/2204321892405eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260817213000 +0000" stop="20260817224500 +0000" channel="360.tr">
+    <title lang="tr">Ben Bilirim</title>
+    <desc lang="tr">Stüdyodaki yarışmacılar ve ekran başındaki seyirciler farklı kategorilerle ilgili soruları yanıtlamaya çalışıyor. Siz de 'Ben Bilirim' diyorsanız, bu yarışma size göre...</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/17/2204239556735eb7f426.jpg" />
+  </programme>
+  <programme start="20260817224500 +0000" stop="20260818001500 +0000" channel="360.tr">
+    <title lang="tr">Almanya'da Bir Türk Kızı</title>
+    <desc lang="tr">Köyde yaşayan Murat ve Zeynep, severek evlenmiştir. Ancak ekonomik nedenlerden dolayı Murat, Almanya'ya çalışmaya gider. Kısa süre içinde de Türkiye'yi ve Zeynep'i unutur. Zeynep ise yıllarca onun yolunu bekler.  Bir gün köye bir turist kafilesi gelir. Başlarında da Murat vardır. Ancak Zeynep'in onu tanıması biraz zaman alır. Murat, birkaç gün kaldıktan sonra tekrar Almanya'ya döner. Zeynep, hamile olduğunu söylemek için Murat'ın arkasından Almanya'ya gider. Bu arada günlerce, hatta aylarca Murat'ı arar ama bir türlü onu bulamaz. Bir gün sesinin güzelliği fark edilir ve çok ünlü bir şarkıcı olur. Murat'la tekrar karşılaştığında artık çok farklı bir kadın olmuştur.</desc>
+    <credits>
+      <director>Oksal Pekmezoğlu</director>
+      <actor>Neşe Karaböcek</actor>
+      <actor>Engin Çağlar</actor>
+      <actor>Ceyda Karahan</actor>
+      <actor>Osman Alyanak</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/41/2204321892485eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260818001500 +0000" stop="20260818014500 +0000" channel="360.tr">
+    <title lang="tr">Sarmaşık Gülleri</title>
+    <desc lang="tr">Gülseren'in babası, karısının ölümü üzerine Ümran ile evlenir. Ümran ve kızı, Gülseren'e kötü davranır onun hatıralarıyla dolu köşkü satıp villaya taşınırlar. Köşkü alan Necip, Gülseren'in hatıra defterini bulur ve çektiği sıkıntıları öğrenir.</desc>
+    <credits>
+      <director>Nejat Saydam</director>
+      <actor>Hülya Koçyiğit</actor>
+      <actor>Kartal Tibet</actor>
+      <actor>Renan Fosforoğlu</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/40/2204321892565eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260818014500 +0000" stop="20260818021500 +0000" channel="360.tr">
+    <title lang="tr">Ataman ile Devr-i Alem</title>
+    <desc lang="tr">Paris'in Eyfel'i, İtalya'nın Pissa Kulesi, Venedik'in gondolları... Farklı bir soluk, farklı bir macera Ataman Erkul'un gözünden dünya turuna ne dersiniz? Eğer siz de keyifli bir dünya turuna çıkmak isterseniz, Ataman ile Devri Alem 360'ta...</desc>
+    <category lang="tr">Gezi &amp; Seyahat</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/47/2204239556815eb7f426.jpg" />
+  </programme>
+  <programme start="20260818021500 +0000" stop="20260818034500 +0000" channel="360.tr">
+    <title lang="tr">Kaptan</title>
+    <desc lang="tr">Uçarı, biraz da hovarda Orhan Kaptan'ın gemisine, geç ödenen bir senet yüzünden haciz gelir. Borçlandığı adam kasabanın zengin eşrafından biridir. Orhan Kaptan gemisini hacizden kurtarmak için kamyonetiyle yola çıkar.  Yolda Melek adında bir kıza rastlar ve kızı kamyonetine alır ve bu kız yüzünden fazlasıyla aksilik yaşar. Fakat Orhan senet için acele etmektedir. Sonunda zengin alacaklının villasına ulaşır. Fakat alacaklı adam Orhan'ı tersler ve villasından kovar. Bu sırada Melek'in bu adamın kızı olduğunu öğrenir. Dönüşte intikam için Melek'i kaçırır. Yolculuk esnasında Orhan'la Melek arasında bir aşk başlar.</desc>
+    <credits>
+      <director>Zeki Alasya</director>
+      <actor>Hülya Avsar</actor>
+      <actor>Ünsal Emre</actor>
+      <actor>Orhan Gencebay</actor>
+      <actor>Filiz Ersürer</actor>
+      <actor>Mahmut Gürses</actor>
+      <actor>Suat Sungur</actor>
+      <actor>Ali Yalaz</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/99/2204321902645eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260818034500 +0000" stop="20260818040000 +0000" channel="360.tr">
+    <title lang="tr">Lezzet Peşinde</title>
+    <desc lang="tr">Lezzet Peşinde, muhteşem tatların ve lezzet sırlarının yanı sıra, işin ustalarının hayat hikayeleri ve başarı serüvenleriyle ekrana geliyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/12/2204239566895eb7f426.jpg" />
+  </programme>
+  <programme start="20260818040000 +0000" stop="20260818054500 +0000" channel="360.tr">
+    <title lang="tr">Sarmaşık Gülleri</title>
+    <desc lang="tr">Gülseren'in babası, karısının ölümü üzerine Ümran ile evlenir. Ümran ve kızı, Gülseren'e kötü davranır onun hatıralarıyla dolu köşkü satıp villaya taşınırlar. Köşkü alan Necip, Gülseren'in hatıra defterini bulur ve çektiği sıkıntıları öğrenir.</desc>
+    <credits>
+      <director>Nejat Saydam</director>
+      <actor>Hülya Koçyiğit</actor>
+      <actor>Kartal Tibet</actor>
+      <actor>Renan Fosforoğlu</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/9/2204321902725eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260818054500 +0000" stop="20260818074500 +0000" channel="360.tr">
+    <title lang="tr">Almanya'da Bir Türk Kızı</title>
+    <desc lang="tr">Köyde yaşayan Murat ve Zeynep, severek evlenmiştir. Ancak ekonomik nedenlerden dolayı Murat, Almanya'ya çalışmaya gider. Kısa süre içinde de Türkiye'yi ve Zeynep'i unutur. Zeynep ise yıllarca onun yolunu bekler.  Bir gün köye bir turist kafilesi gelir. Başlarında da Murat vardır. Ancak Zeynep'in onu tanıması biraz zaman alır. Murat, birkaç gün kaldıktan sonra tekrar Almanya'ya döner. Zeynep, hamile olduğunu söylemek için Murat'ın arkasından Almanya'ya gider. Bu arada günlerce, hatta aylarca Murat'ı arar ama bir türlü onu bulamaz. Bir gün sesinin güzelliği fark edilir ve çok ünlü bir şarkıcı olur. Murat'la tekrar karşılaştığında artık çok farklı bir kadın olmuştur.</desc>
+    <credits>
+      <director>Oksal Pekmezoğlu</director>
+      <actor>Neşe Karaböcek</actor>
+      <actor>Engin Çağlar</actor>
+      <actor>Ceyda Karahan</actor>
+      <actor>Osman Alyanak</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/78/2204321902805eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260818074500 +0000" stop="20260818093000 +0000" channel="360.tr">
+    <title lang="tr">Seksenler</title>
+    <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com'u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk...  Çocuklar; sobayı, merdaneli makineyi, pul yapıştırıp yolladığımız mektupları, anket defterlerini, siyah önlükleri, kolalı yakaları, sokaklarda koşturarak sürdüğümüz telli arabaları ve misket dolu torbaları ilk defa bu dizide görüyor.</desc>
+    <credits>
+      <director>Bora Tekay</director>
+      <actor>Rasim Öztekin</actor>
+      <actor>Özlem Türkad</actor>
+      <actor>Şoray Uzun</actor>
+      <actor>Yasemin Çonka</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/5/2204239566975eb7f426.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260818093000 +0000" stop="20260818103000 +0000" channel="360.tr">
+    <title lang="tr">Seren'le Mutfakta Buluşalım</title>
+    <desc lang="tr">Seren Fosforoğlu, her hafta mutfakta uzman isimleri, ünlü konukları ve ilham veren yazarları ağırlıyor. Birlikte hem nefis tarifler hazırlanıyor hem de hayatın içinden hikâyeler, deneyimler ve anılar paylaşılıyor. Samimi sohbetler, mutfak tüyoları ve sürpriz konuklarla keyif dolu dakikalar bu programda...</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/41/2204239577055eb7f426.jpg" />
+  </programme>
+  <programme start="20260818103000 +0000" stop="20260818123000 +0000" channel="360.tr">
+    <title lang="tr">Bebek Yüzlü</title>
+    <desc lang="tr">Engelli olan kız kardeşini tedavi ettirebilmek için bir çete ile birlikte kirli işler çevirip, sonunda pişmanlık duyan bir gencin öyküsü konu ediliyor.</desc>
+    <credits>
+      <director>Vural Pakel</director>
+      <actor>Tarık Akan</actor>
+      <actor>Perihan Savaş</actor>
+      <actor>Erol Taş</actor>
+      <actor>Ahmet Mekin</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/90/2204321912885eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260818123000 +0000" stop="20260818143000 +0000" channel="360.tr">
+    <title lang="tr">Sokaklardan Bir Kız</title>
+    <desc lang="tr">Nuran'ın babası, yıllar önce namus davası yüzünden adam öldürmüş ve cezaevine girmiştir. Amcasının evinde yaşamaya başlayan Nuran, adeta hizmetçi muamelesi görür. Yaşadığı hayattan bıkan genç kız evden kaçma düşüncesindeyken annesi onu yanına alır. Fakat annesi de bir bar kadınıdır ve kızını başka erkeklere satmayı düşünmektedir. Nuran, kendi namusunu korumak için bir denizci ile evlenir.</desc>
+    <credits>
+      <director>Nejat Saydam</director>
+      <actor>Hülya Koçyiğit</actor>
+      <actor>Orçun Sonat</actor>
+      <actor>Tuncer Necmioğlu</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/97/2204321912965eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260818143000 +0000" stop="20260818160000 +0000" channel="360.tr">
+    <title lang="tr">Seksenler</title>
+    <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com'u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk...  Çocuklar; sobayı, merdaneli makineyi, pul yapıştırıp yolladığımız mektupları, anket defterlerini, siyah önlükleri, kolalı yakaları, sokaklarda koşturarak sürdüğümüz telli arabaları ve misket dolu torbaları ilk defa bu dizide görüyor.</desc>
+    <credits>
+      <director>Bora Tekay</director>
+      <actor>Rasim Öztekin</actor>
+      <actor>Özlem Türkad</actor>
+      <actor>Şoray Uzun</actor>
+      <actor>Yasemin Çonka</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/53/2204239577135eb7f426.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260818160000 +0000" stop="20260818180000 +0000" channel="360.tr">
+    <title lang="tr">Ben Bilirim</title>
+    <desc lang="tr">Stüdyodaki yarışmacılar ve ekran başındaki seyirciler farklı kategorilerle ilgili soruları yanıtlamaya çalışıyor. Siz de 'Ben Bilirim' diyorsanız, bu yarışma size göre...</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/29/2204239577215eb7f426.jpg" />
+    <episode-num system="onscreen">S7 E228</episode-num>
+  </programme>
+  <programme start="20260818180000 +0000" stop="20260818200000 +0000" channel="360.tr">
+    <title lang="tr">Satın Alınan Koca</title>
+    <desc lang="tr">Genç bir yazar olan Murat, kendisiyle aynı pansiyonda kalan küçük Ayşe'nin hastalığının tedavisi için gerekli parayı bulmaya çalışmaktadır. Tam bu sırada zengin bir ailenin kızı olan Zeynep'le evlenmesi için para teklif edilir. Ayşe'nin tedavisi için anlaşmayı kabul eder. Önceleri birbirlerinden hoşlanmayan Zeynep ve Murat, bir süre sonra birbirlerine aşık olur.</desc>
+    <credits>
+      <director>Duygu Sağıroğlu</director>
+      <actor>Cüneyt Arkın</actor>
+      <actor>Fatma Girik</actor>
+      <actor>Saadettin Erbil</actor>
+      <actor>Hulusi Kentmen</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/73/2204321923045eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260818200000 +0000" stop="20260818213000 +0000" channel="360.tr">
+    <title lang="tr">Sokaklardan Bir Kız</title>
+    <desc lang="tr">Nuran'ın babası, yıllar önce namus davası yüzünden adam öldürmüş ve cezaevine girmiştir. Amcasının evinde yaşamaya başlayan Nuran, adeta hizmetçi muamelesi görür. Yaşadığı hayattan bıkan genç kız evden kaçma düşüncesindeyken annesi onu yanına alır. Fakat annesi de bir bar kadınıdır ve kızını başka erkeklere satmayı düşünmektedir. Nuran, kendi namusunu korumak için bir denizci ile evlenir.</desc>
+    <credits>
+      <director>Nejat Saydam</director>
+      <actor>Hülya Koçyiğit</actor>
+      <actor>Orçun Sonat</actor>
+      <actor>Tuncer Necmioğlu</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/61/2204321923125eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260818213000 +0000" stop="20260818224500 +0000" channel="360.tr">
+    <title lang="tr">Ben Bilirim</title>
+    <desc lang="tr">Stüdyodaki yarışmacılar ve ekran başındaki seyirciler farklı kategorilerle ilgili soruları yanıtlamaya çalışıyor. Siz de 'Ben Bilirim' diyorsanız, bu yarışma size göre...</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/16/2204227848605eb7f426.jpg" />
+  </programme>
+  <programme start="20260818224500 +0000" stop="20260819001500 +0000" channel="360.tr">
+    <title lang="tr">Bebek Yüzlü</title>
+    <desc lang="tr">Engelli olan kız kardeşini tedavi ettirebilmek için bir çete ile birlikte kirli işler çevirip, sonunda pişmanlık duyan bir gencin öyküsü konu ediliyor.</desc>
+    <credits>
+      <director>Vural Pakel</director>
+      <actor>Tarık Akan</actor>
+      <actor>Perihan Savaş</actor>
+      <actor>Erol Taş</actor>
+      <actor>Ahmet Mekin</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/29/2204321923205eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260819001500 +0000" stop="20260819014500 +0000" channel="360.tr">
+    <title lang="tr">Satın Alınan Koca</title>
+    <desc lang="tr">Genç bir yazar olan Murat, kendisiyle aynı pansiyonda kalan küçük Ayşe'nin hastalığının tedavisi için gerekli parayı bulmaya çalışmaktadır. Tam bu sırada zengin bir ailenin kızı olan Zeynep'le evlenmesi için para teklif edilir. Ayşe'nin tedavisi için anlaşmayı kabul eder. Önceleri birbirlerinden hoşlanmayan Zeynep ve Murat, bir süre sonra birbirlerine aşık olur.</desc>
+    <credits>
+      <director>Duygu Sağıroğlu</director>
+      <actor>Cüneyt Arkın</actor>
+      <actor>Fatma Girik</actor>
+      <actor>Saadettin Erbil</actor>
+      <actor>Hulusi Kentmen</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/36/2204321933285eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260819014500 +0000" stop="20260819021500 +0000" channel="360.tr">
+    <title lang="tr">Ataman ile Devr-i Alem</title>
+    <desc lang="tr">Paris'in Eyfel'i, İtalya'nın Pissa Kulesi, Venedik'in gondolları... Farklı bir soluk, farklı bir macera Ataman Erkul'un gözünden dünya turuna ne dersiniz? Eğer siz de keyifli bir dünya turuna çıkmak isterseniz, Ataman ile Devri Alem 360'ta...</desc>
+    <category lang="tr">Gezi &amp; Seyahat</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/55/2204227848685eb7f426.jpg" />
+  </programme>
+  <programme start="20260819021500 +0000" stop="20260819034500 +0000" channel="360.tr">
+    <title lang="tr">Sokaklardan Bir Kız</title>
+    <desc lang="tr">Nuran'ın babası, yıllar önce namus davası yüzünden adam öldürmüş ve cezaevine girmiştir. Amcasının evinde yaşamaya başlayan Nuran, adeta hizmetçi muamelesi görür. Yaşadığı hayattan bıkan genç kız evden kaçma düşüncesindeyken annesi onu yanına alır. Fakat annesi de bir bar kadınıdır ve kızını başka erkeklere satmayı düşünmektedir. Nuran, kendi namusunu korumak için bir denizci ile evlenir.</desc>
+    <credits>
+      <director>Nejat Saydam</director>
+      <actor>Hülya Koçyiğit</actor>
+      <actor>Orçun Sonat</actor>
+      <actor>Tuncer Necmioğlu</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/96/2204321933365eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260819034500 +0000" stop="20260819040000 +0000" channel="360.tr">
+    <title lang="tr">Lezzet Peşinde</title>
+    <desc lang="tr">Lezzet Peşinde, muhteşem tatların ve lezzet sırlarının yanı sıra, işin ustalarının hayat hikayeleri ve başarı serüvenleriyle ekrana geliyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/3/2204227848765eb7f426.jpg" />
+  </programme>
+  <programme start="20260819040000 +0000" stop="20260819054500 +0000" channel="360.tr">
+    <title lang="tr">Bebek Yüzlü</title>
+    <desc lang="tr">Engelli olan kız kardeşini tedavi ettirebilmek için bir çete ile birlikte kirli işler çevirip, sonunda pişmanlık duyan bir gencin öyküsü konu ediliyor.</desc>
+    <credits>
+      <director>Vural Pakel</director>
+      <actor>Tarık Akan</actor>
+      <actor>Perihan Savaş</actor>
+      <actor>Erol Taş</actor>
+      <actor>Ahmet Mekin</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/74/2204321933445eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260819054500 +0000" stop="20260819074500 +0000" channel="360.tr">
+    <title lang="tr">Satın Alınan Koca</title>
+    <desc lang="tr">Genç bir yazar olan Murat, kendisiyle aynı pansiyonda kalan küçük Ayşe'nin hastalığının tedavisi için gerekli parayı bulmaya çalışmaktadır. Tam bu sırada zengin bir ailenin kızı olan Zeynep'le evlenmesi için para teklif edilir. Ayşe'nin tedavisi için anlaşmayı kabul eder. Önceleri birbirlerinden hoşlanmayan Zeynep ve Murat, bir süre sonra birbirlerine aşık olur.</desc>
+    <credits>
+      <director>Duygu Sağıroğlu</director>
+      <actor>Cüneyt Arkın</actor>
+      <actor>Fatma Girik</actor>
+      <actor>Saadettin Erbil</actor>
+      <actor>Hulusi Kentmen</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/4/2204321943525eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260819074500 +0000" stop="20260819093000 +0000" channel="360.tr">
+    <title lang="tr">Seksenler</title>
+    <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com'u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk...  Çocuklar; sobayı, merdaneli makineyi, pul yapıştırıp yolladığımız mektupları, anket defterlerini, siyah önlükleri, kolalı yakaları, sokaklarda koşturarak sürdüğümüz telli arabaları ve misket dolu torbaları ilk defa bu dizide görüyor.</desc>
+    <credits>
+      <director>Bora Tekay</director>
+      <actor>Rasim Öztekin</actor>
+      <actor>Özlem Türkad</actor>
+      <actor>Şoray Uzun</actor>
+      <actor>Yasemin Çonka</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/97/2204227858845eb7f426.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260819093000 +0000" stop="20260819103000 +0000" channel="360.tr">
+    <title lang="tr">Seren'le Mutfakta Buluşalım</title>
+    <desc lang="tr">Seren Fosforoğlu, her hafta mutfakta uzman isimleri, ünlü konukları ve ilham veren yazarları ağırlıyor. Birlikte hem nefis tarifler hazırlanıyor hem de hayatın içinden hikâyeler, deneyimler ve anılar paylaşılıyor. Samimi sohbetler, mutfak tüyoları ve sürpriz konuklarla keyif dolu dakikalar bu programda...</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/45/2204227858925eb7f426.jpg" />
+  </programme>
+  <programme start="20260819103000 +0000" stop="20260819123000 +0000" channel="360.tr">
+    <title lang="tr">Körebe</title>
+    <desc lang="tr">Meral, 6 yaşındaki kızı Elif'le yaşamını sürdüren dul bir kadındır. Elif bir gün ortadan kaybolur. Tüm aramalara karşın Elif bir türlü bulunmaz. Meral'in eski kocası Halis ve avukatı Turgay da aramalara katılırlar. Bu arayış sırasında Meral ile Turgay, birbirlerine yakınlaşırlar. İki yalnız insan arasında duygusal bir ilişki başlar. Elif, bir süre sonra bulunur.</desc>
+    <credits>
+      <director>Ömer Kavur</director>
+      <actor>Türkan Şoray</actor>
+      <actor>Cihan Ünal</actor>
+      <actor>Aykut Sözeri</actor>
+      <actor>Tuluğ Çizgen</actor>
+      <actor>Sevda Aktolga</actor>
+      <actor>Cengiz Tünay</actor>
+      <actor>Gözdem Görenler</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/9/2204321943605eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260819123000 +0000" stop="20260819143000 +0000" channel="360.tr">
+    <title lang="tr">Karateci Kız</title>
+    <desc lang="tr">Zeynep, bahçıvan babası ile birlikte huzurlu bir yaşam sürmektedir. Bir kazadan dolayı dili tutulmuş olan Zeynep, yetiştirdikleri çiçekleri satarak geçimlerini sağlar. Konuşabilmesi için de ameliyat olması gerekmektedir.  Bu arada beş mahkum hapishaneden kaçmıştır. Kaçan mahkumlar, Zeynep ve babasının evine sığınır. Zeynep ve babası saldırıya uğrar. Babasını kaybetmenin şokuyla dili çözülen Zeynep, artık intikam yemini etmiştir.</desc>
+    <credits>
+      <director>Orhan Aksoy</director>
+      <actor>Filiz Akın</actor>
+      <actor>Ediz Hun</actor>
+      <actor>Hayati Hamzaoğlu</actor>
+      <actor>Nubar Terziyan</actor>
+      <actor>Orhan Doğaner</actor>
+      <actor>Yeşim Yükselen</actor>
+      <actor>Sema Yaprak</actor>
+      <actor>Mahmure Handan</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/82/2204321953685eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260819143000 +0000" stop="20260819160000 +0000" channel="360.tr">
+    <title lang="tr">Seksenler</title>
+    <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com'u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk...  Çocuklar; sobayı, merdaneli makineyi, pul yapıştırıp yolladığımız mektupları, anket defterlerini, siyah önlükleri, kolalı yakaları, sokaklarda koşturarak sürdüğümüz telli arabaları ve misket dolu torbaları ilk defa bu dizide görüyor.</desc>
+    <credits>
+      <director>Bora Tekay</director>
+      <actor>Rasim Öztekin</actor>
+      <actor>Özlem Türkad</actor>
+      <actor>Şoray Uzun</actor>
+      <actor>Yasemin Çonka</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/38/2204227869005eb7f426.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260819160000 +0000" stop="20260819180000 +0000" channel="360.tr">
+    <title lang="tr">Ben Bilirim</title>
+    <desc lang="tr">Stüdyodaki yarışmacılar ve ekran başındaki seyirciler farklı kategorilerle ilgili soruları yanıtlamaya çalışıyor. Siz de 'Ben Bilirim' diyorsanız, bu yarışma size göre...</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/62/2204227869085eb7f426.jpg" />
+    <episode-num system="onscreen">S7 E228</episode-num>
+  </programme>
+  <programme start="20260819180000 +0000" stop="20260819200000 +0000" channel="360.tr">
+    <title lang="tr">Kara Murat Kara Şövalyeye Karşı</title>
+    <desc lang="tr">Bizans Prensi Carlos, Kara Murat'ın gözleri önünde babasını öldürür ve ikiz kardeşi Mehmet'i kaçırır. Kara Murat, içinde büyük bir intikam hırsı ile büyür. Carlos, Mehmet'i Hristiyan olarak yetiştirip Osmanlılar'a karşı kullanacaktır. Adını da değiştirip Marc koymuştur. Marc büyüdüğünde Türk köylerine baskınlar düzenler ve Türkler'e işkenceler yaptırır. Carlos ve şövalyeleri Rumeli Beylerbeyi Karaca Paşa'yı öldürmek için saldırıya geçer. Karaca Paşa'nın kızı kaçarken yakalansa da Türkler kızı kurtarır. Bu baskın sonucu Karaca Paşa esir düşer. Fatih, Paşa'yı kurtarmak için Kara Murat'ı görevlendirir. Kara Murat görevini sürdürürken Marc ile karşılaşır ve onun kardeşi Mehmet olduğunu anlar. Marc'ın kılığına girerek Carlos'un sarayına sızar.</desc>
+    <credits>
+      <director>Natuk Baytan</director>
+      <actor>Cüneyt Arkin</actor>
+      <actor>Burçin Dogu</actor>
+      <actor>Mualla Omay</actor>
+      <actor>Reha Yurdakul</actor>
+      <actor>Turgut Özatay</actor>
+      <actor>Aliye Rona</actor>
+      <actor>Atilla Ergün</actor>
+      <actor>Yavuz Selekman</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/84/2204321953765eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260819200000 +0000" stop="20260819213000 +0000" channel="360.tr">
+    <title lang="tr">Karateci Kız</title>
+    <desc lang="tr">Zeynep, bahçıvan babası ile birlikte huzurlu bir yaşam sürmektedir. Bir kazadan dolayı dili tutulmuş olan Zeynep, yetiştirdikleri çiçekleri satarak geçimlerini sağlar. Konuşabilmesi için de ameliyat olması gerekmektedir.  Bu arada beş mahkum hapishaneden kaçmıştır. Kaçan mahkumlar, Zeynep ve babasının evine sığınır. Zeynep ve babası saldırıya uğrar. Babasını kaybetmenin şokuyla dili çözülen Zeynep, artık intikam yemini etmiştir.</desc>
+    <credits>
+      <director>Orhan Aksoy</director>
+      <actor>Filiz Akın</actor>
+      <actor>Ediz Hun</actor>
+      <actor>Hayati Hamzaoğlu</actor>
+      <actor>Nubar Terziyan</actor>
+      <actor>Orhan Doğaner</actor>
+      <actor>Yeşim Yükselen</actor>
+      <actor>Sema Yaprak</actor>
+      <actor>Mahmure Handan</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/63/2204321953845eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
+  <programme start="20260819213000 +0000" stop="20260819224500 +0000" channel="360.tr">
+    <title lang="tr">Ben Bilirim</title>
+    <desc lang="tr">Stüdyodaki yarışmacılar ve ekran başındaki seyirciler farklı kategorilerle ilgili soruları yanıtlamaya çalışıyor. Siz de 'Ben Bilirim' diyorsanız, bu yarışma size göre...</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/94/2204321994645eb9b42e.jpg" />
+  </programme>
+  <programme start="20260819224500 +0000" stop="20260820001500 +0000" channel="360.tr">
+    <title lang="tr">Körebe</title>
+    <desc lang="tr">Meral, 6 yaşındaki kızı Elif'le yaşamını sürdüren dul bir kadındır. Elif bir gün ortadan kaybolur. Tüm aramalara karşın Elif bir türlü bulunmaz. Meral'in eski kocası Halis ve avukatı Turgay da aramalara katılırlar. Bu arayış sırasında Meral ile Turgay, birbirlerine yakınlaşırlar. İki yalnız insan arasında duygusal bir ilişki başlar. Elif, bir süre sonra bulunur.</desc>
+    <credits>
+      <director>Ömer Kavur</director>
+      <actor>Türkan Şoray</actor>
+      <actor>Cihan Ünal</actor>
+      <actor>Aykut Sözeri</actor>
+      <actor>Tuluğ Çizgen</actor>
+      <actor>Sevda Aktolga</actor>
+      <actor>Cengiz Tünay</actor>
+      <actor>Gözdem Görenler</actor>
+    </credits>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/59/2204321963925eb9b42e.jpg" />
+    <country lang="tr">TR</country>
+  </programme>
   <channel id="CNBCe.tr">
     <display-name lang="tr">CNBC-e</display-name>
     <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20260323095389.png" />
@@ -17930,6 +18689,343 @@
     <category lang="tr">Belgesel</category>
     <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/16/2306019540455eb9542c.jpg" />
   </programme>
+  <channel id="LiderHaber.tr">
+    <display-name>Lider Haber</display-name>
+    <display-name>Lider Haber.tr</display-name>
+    <icon src="https://i.imgur.com/5B42KwY.png" />
+  </channel>
+  <programme start="20251231000000 +0000" stop="20251231075500 +0000" channel="LiderHaber.tr">
+    <title>Yeşilçam Turk Film Kuşağı</title>
+    <desc>Yeşilçam Turk Film Kuşağı</desc>
+  </programme>
+  <programme start="20251231075500 +0000" stop="20251231100000 +0000" channel="LiderHaber.tr">
+    <title>Gun Başlıyor</title>
+    <desc>Gun Başlıyor</desc>
+  </programme>
+  <programme start="20251231100000 +0000" stop="20251231115500 +0000" channel="LiderHaber.tr">
+    <title>Haber Turu</title>
+    <desc>Haber Turu</desc>
+  </programme>
+  <programme start="20251231115500 +0000" stop="20251231135500 +0000" channel="LiderHaber.tr">
+    <title>Gun Ortası</title>
+    <desc>Gun Ortası</desc>
+  </programme>
+  <programme start="20251231135500 +0000" stop="20251231145500 +0000" channel="LiderHaber.tr">
+    <title>Haber Saati</title>
+    <desc>Haber Saati</desc>
+  </programme>
+  <programme start="20251231145500 +0000" stop="20251231154000 +0000" channel="LiderHaber.tr">
+    <title>Haber Saati</title>
+    <desc>Haber Saati</desc>
+  </programme>
+  <programme start="20251231154000 +0000" stop="20251231155500 +0000" channel="LiderHaber.tr">
+    <title>Ekonomide Gundem</title>
+    <desc>Ekonomide Gundem</desc>
+  </programme>
+  <programme start="20251231155500 +0000" stop="20251231165500 +0000" channel="LiderHaber.tr">
+    <title>Rok İle Haber Yorum</title>
+    <desc>Rok İle Haber Yorum</desc>
+  </programme>
+  <programme start="20251231165500 +0000" stop="20251231182000 +0000" channel="LiderHaber.tr">
+    <title>Ana Haber</title>
+    <desc>Ana Haber</desc>
+  </programme>
+  <programme start="20251231182000 +0000" stop="20251231183000 +0000" channel="LiderHaber.tr">
+    <title>Spor Turu</title>
+    <desc>Spor Turu</desc>
+  </programme>
+  <programme start="20251231183000 +0000" stop="20251231193000 +0000" channel="LiderHaber.tr">
+    <title>Rok İle Haber Yorum</title>
+    <desc>Rok İle Haber Yorum</desc>
+  </programme>
+  <programme start="20251231193000 +0000" stop="20251231225500 +0000" channel="LiderHaber.tr">
+    <title>Açık Alan</title>
+    <desc>Açık Alan</desc>
+  </programme>
+  <programme start="20251231225500 +0000" stop="20260101000000 +0000" channel="LiderHaber.tr">
+    <title>Tam Saha</title>
+    <desc>Tam Saha</desc>
+  </programme>
+  <programme start="20260101000000 +0000" stop="20260101075500 +0000" channel="LiderHaber.tr">
+    <title>Yeşilçam Turk Film Kuşağı</title>
+    <desc>Yeşilçam Turk Film Kuşağı</desc>
+  </programme>
+  <programme start="20260101075500 +0000" stop="20260101100000 +0000" channel="LiderHaber.tr">
+    <title>Gun Başlıyor</title>
+    <desc>Gun Başlıyor</desc>
+  </programme>
+  <programme start="20260101100000 +0000" stop="20260101115500 +0000" channel="LiderHaber.tr">
+    <title>Haber Turu</title>
+    <desc>Haber Turu</desc>
+  </programme>
+  <programme start="20260101115500 +0000" stop="20260101135500 +0000" channel="LiderHaber.tr">
+    <title>Gun Ortası</title>
+    <desc>Gun Ortası</desc>
+  </programme>
+  <programme start="20260101135500 +0000" stop="20260101145500 +0000" channel="LiderHaber.tr">
+    <title>Haber Saati</title>
+    <desc>Haber Saati</desc>
+  </programme>
+  <programme start="20260101145500 +0000" stop="20260101154000 +0000" channel="LiderHaber.tr">
+    <title>Haber Saati</title>
+    <desc>Haber Saati</desc>
+  </programme>
+  <programme start="20260101154000 +0000" stop="20260101155500 +0000" channel="LiderHaber.tr">
+    <title>Ekonomide Gundem</title>
+    <desc>Ekonomide Gundem</desc>
+  </programme>
+  <programme start="20260101155500 +0000" stop="20260101165500 +0000" channel="LiderHaber.tr">
+    <title>Rok İle Haber Yorum</title>
+    <desc>Rok İle Haber Yorum</desc>
+  </programme>
+  <programme start="20260101165500 +0000" stop="20260101182000 +0000" channel="LiderHaber.tr">
+    <title>Ana Haber</title>
+    <desc>Ana Haber</desc>
+  </programme>
+  <programme start="20260101182000 +0000" stop="20260101183000 +0000" channel="LiderHaber.tr">
+    <title>Spor Turu</title>
+    <desc>Spor Turu</desc>
+  </programme>
+  <programme start="20260101183000 +0000" stop="20260101193000 +0000" channel="LiderHaber.tr">
+    <title>Rok İle Haber Yorum</title>
+    <desc>Rok İle Haber Yorum</desc>
+  </programme>
+  <programme start="20260101193000 +0000" stop="20260102000000 +0000" channel="LiderHaber.tr">
+    <title>İkna Noktası</title>
+    <desc>İkna Noktası</desc>
+  </programme>
+  <programme start="20260102000000 +0000" stop="20260102075500 +0000" channel="LiderHaber.tr">
+    <title>Yeşilçam Turk Film Kuşağı</title>
+    <desc>Yeşilçam Turk Film Kuşağı</desc>
+  </programme>
+  <channel id="UlusalKanal.tr">
+    <display-name>Ulusal Kanal</display-name>
+    <display-name lang="tr">ULUSAL KANAL</display-name>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/logo/202103/20210301/37/202103010811309945bd_op.png" />
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/logo/202103/20210301/37/202103010811309945bd_op.png" />
+    <url>http://www.tvplus.com.tr</url>
+  </channel>
+  <programme start="20260816060000 +0000" stop="20260816080000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Güne Başlarken</title>
+    <desc lang="tr">Türkiye'nin güncel gündemi, ekonomi piyasaları, uluslararası gelişmeler hızlıca özetleniyor. Hava tahmini, trafik durumu, sağlıklı yaşam ipuçları, motivasyon veren kısa röportajlar detaylıca ele alınıyor. Samimi sunum, millî değerlere vurgu yapan yorumlarla güne yurtsever bir bakış açısı kazandırılıyor.</desc>
+    <category lang="tr">Magazin</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260808/17/2305208446285eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816080000 +0000" stop="20260816090000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Yurdumuzun Türküleri</title>
+    <desc lang="tr">Karadeniz'in horon türküleri, Ege'nin zeybekleri, Doğu'nun bozlakları, İç Anadolu'nun bozlakları, Trakya'nın kıvrak ezgileri detaylıca ele alınıyor. Türkünün doğduğu köy, dağ, ova, yaşanmış acılar, sevinçler, aşk ve gurbet hikayeleri samimi anlatımla sunuluyor.</desc>
+    <category lang="tr">Röportaj</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260808/88/2305208446365eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816090000 +0000" stop="20260816100000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Haber Arası</title>
+    <desc lang="tr">Haberin akışına ara vermeden, Türkiye ve dünya gündemindeki en önemli başlıkları ekranlarınıza taşıyoruz. Ekonomiden siyasete, dış politikadan toplumsal olaylara kadar günün tüm sıcak gelişmeleri, tarafsız ve hızlı bir sunumla Haber Arası'nda yer alıyor. Gündemi kaçırmamak için doğru adrestesiniz.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260808/39/2305208446445eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816100000 +0000" stop="20260816130000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Gün Ortası</title>
+    <desc lang="tr">Türkiye ve dünya gündemindeki tüm gelişmeler sıcağı sıcağına ekrana taşınıyor. Siyasetten ekonomiye, yaşamdan son dakika haberlerine kadar öne çıkan tüm önemli başlıklar, detaylı analizler ve ilkeli habercilik anlayışıyla günün tam ortasında Gün Ortası'nda izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260816130000 +0000" stop="20260816140000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Haber Arası</title>
+    <desc lang="tr">Haberin akışına ara vermeden, Türkiye ve dünya gündemindeki en önemli başlıkları ekranlarınıza taşıyoruz. Ekonomiden siyasete, dış politikadan toplumsal olaylara kadar günün tüm sıcak gelişmeleri, tarafsız ve hızlı bir sunumla Haber Arası'nda yer alıyor. Gündemi kaçırmamak için doğru adrestesiniz.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260808/86/2305208456585eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816140000 +0000" stop="20260816150000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Teori</title>
+    <desc lang="tr">Yiğit Çınar'ın moderatörlüğünde ekrana gelen "Teori", Türkiye ve dünya gündemindeki gelişmeleri bilimsel ve teorik bir perspektifle ele alıyor. Akademisyenlerden stratejistlere kadar alanında uzman konuklarla birlikte, güncel olayların perde arkası, tarihsel kökenleri ve geleceğe yönelik stratejik öngörüler tartışılıyor.</desc>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260808/26/2305208466665eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816150000 +0000" stop="20260816160000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Tekrar Yayın</title>
+    <desc lang="tr">Ekranların ilgiyle takip edilen yapımı, en sevilen sahneleri ve çarpıcı bölümleriyle bir kez daha izleyici karşısına çıkıyor. Kaçıranlar, tekrar izlemekten keyif alanlar ve en ince detayları yakalamak isteyenler için hazırlanan bu yayında; haftaya damgasını vuran olaylar, duygu yüklü anlar ve merakla beklenen tüm gelişmeler bir arada.</desc>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260808/37/2305208466745eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816160000 +0000" stop="20260816173000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Hafta Sonu Ana Haber</title>
+    <desc lang="tr">Hafta Sonu Ana Haber, hafta boyunca yaşanan kritik olayları özetlerken Cumartesi ve Pazar gününün öne çıkan gelişmelerini kapsamlı analizlerle sunuyor. Siyasetten ekonomiye, hayatın içinden haberlerden dış politikadaki gelişmelere kadar gündemi belirleyen tüm başlıklar, Ulusal Kanal farkıyla sizlerle.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260808/32/2305208476825eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816173000 +0000" stop="20260816183000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Yeni Ufuklar</title>
+    <desc lang="tr">Şule Perinçek'in hazırlayıp sunduğu Yeni Ufuklar, Ulusal Kanal ekranlarında izleyiciyle buluşuyor. Program; bilim, teknoloji, ekonomi, eğitim ve kültür gibi alanlarda hazırlanan dosyalarla geleceğe ışık tutuyor. Uzman konukların değerlendirmeleriyle gelişmeler derinlemesine ele alınıyor ve izleyiciye çok yönlü, ufuk açıcı bir perspektif sunuluyor.</desc>
+    <category lang="tr">Tartışma</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260808/57/2305208486905eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816183000 +0000" stop="20260816200000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Sözün Özü</title>
+    <desc lang="tr">Orhan Muşul'un moderatörlüğünde hazırlanan programda, toplumun her kesimine hitap eden özel konular masaya yatırılıyor. Alanında uzman konukların katılımıyla zenginleşen "Sözün Özü", pazar günlerini keyifli ve bilgilendirici bir sohbetle taçlandırmak isteyen izleyicileri Ulusal Kanal ekranlarında buluşturuyor.</desc>
+    <category lang="tr">Politika</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260808/40/2305208486985eb9b42e.jpg" />
+  </programme>
+  <programme start="20260816200000 +0000" stop="20260817043000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Tekrar Yayın</title>
+    <desc lang="tr">Ekranların ilgiyle takip edilen yapımı, en sevilen sahneleri ve çarpıcı bölümleriyle bir kez daha izleyici karşısına çıkıyor. Kaçıranlar, tekrar izlemekten keyif alanlar ve en ince detayları yakalamak isteyenler için hazırlanan bu yayında; haftaya damgasını vuran olaylar, duygu yüklü anlar ve merakla beklenen tüm gelişmeler bir arada.</desc>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260808/79/2305208497065eb9b42e.jpg" />
+  </programme>
+  <programme start="20260817043000 +0000" stop="20260817081500 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Günaydın Türkiye</title>
+    <desc lang="tr">Günaydın Türkiye ile sabahınızı güçlü ve güncel kılın. Gece boyu gelişen olaylar, siyasi açıklamalar, ekonomi verileri, uluslararası haberler, deprem ve afet durumu hızlıca özetleniyor. Canlı bağlantılar, uzman yorumları, trafik ve hava tahmini, pratik sabah bilgileri samimi bir anlatımla sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260808/74/2305208497145eb9b42e.jpg" />
+  </programme>
+  <programme start="20260817081500 +0000" stop="20260817090000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Dünyanın Haberi</title>
+    <desc lang="tr">Küresel siyasetin nabzı burada atıyor. Dünyanın Haberi, sınırların ötesindeki gelişmeleri farklı ülkelerden uzmanların yorumlarıyla ekranlarınıza taşıyor. Jeopolitik dengelerden bölgesel çatışmalara kadar en önemli olaylar, sadece yerel değil, uluslararası bir perspektifle masaya yatırılıyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260809/43/2305196019825eb78424.jpg" />
+  </programme>
+  <programme start="20260817090000 +0000" stop="20260817120000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Gündemin Nabzı</title>
+    <desc lang="tr">Gündemin Nabzı ile günün en kritik başlıklarını masaya yatırın. Farklı alanlardan uzmanlar, gazeteciler, siyasetçiler bir araya geliyor. Asıl meseleler, perde arkası detaylar, millî menfaatlere dair yorumlar, kamuoyunun tepkileri detaylıca ele alınıyor. Tarafsız ama cesur analizler bu programda.</desc>
+    <category lang="tr">Magazin</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260809/63/2305196019905eb78424.jpg" />
+  </programme>
+  <programme start="20260817120000 +0000" stop="20260817150000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Gün İçinden</title>
+    <desc lang="tr">Sabah başlayan olayların güncel hali, siyasi gelişmeler, piyasa hareketleri, uluslararası haberler, deprem ve afet durumları, spor ve hava tahminleri detaylıca ele alınıyor. Canlı saha raporları, uzman yorumları, hızlı analizler, millî bakış açısıyla zenginleştirilmiş sunum ön planda.</desc>
+    <category lang="tr">Magazin</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260809/55/2305196019985eb78424.jpg" />
+  </programme>
+  <programme start="20260817150000 +0000" stop="20260817160000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Haber Arası</title>
+    <desc lang="tr">Haberin akışına ara vermeden, Türkiye ve dünya gündemindeki en önemli başlıkları ekranlarınıza taşıyoruz. Ekonomiden siyasete, dış politikadan toplumsal olaylara kadar günün tüm sıcak gelişmeleri, tarafsız ve hızlı bir sunumla Haber Arası'nda yer alıyor. Gündemi kaçırmamak için doğru adrestesiniz.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260809/61/2305196020065eb78424.jpg" />
+  </programme>
+  <programme start="20260817160000 +0000" stop="20260817173000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Ulusal Kanal Ana Haber Bülteni, Serkan Aksarı'nın sunumuyla hafta içi her gün izleyiciyle buluşuyor. Türkiye'den ve dünyadan öne çıkan gelişmeler, sahadan canlı bağlantılar ve özet analizlerle aktarılıyor. Program, izleyiciye güvenilir, net ve kesintisiz bir gündem takibi sunuyor her gün düzenli şekilde.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260809/15/2305196020145eb78424.jpg" />
+  </programme>
+  <programme start="20260817173000 +0000" stop="20260817200000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Fikir Meydanı</title>
+    <desc lang="tr">Türkiye ve dünya gündemindeki en önemli meseleler, Fikir Meydanı'nda masaya yatırılıyor. "Seslerin değil fikirlerin yükseldiği" programda, siyasetten ekonomiye, dış politikadan toplumsal olaylara kadar her konu, alanında uzman konukların objektif ve sağduyulu analizleriyle izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Magazin</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260809/98/2305196030225eb78424.jpg" />
+  </programme>
+  <programme start="20260817200000 +0000" stop="20260817210000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Haber Turu</title>
+    <desc lang="tr">Haber Turu ile günün öne çıkan başlıklarını tek durakta yakalayın. Siyasi olaylar, ekonomi piyasaları, uluslararası gelişmeler, güvenlik haberleri, deprem ve afet durumu, spor sonuçları hızlıca özetleniyor. Canlı bağlantılar, kısa analizler, uzman yorumları, millî menfaat odaklı bakışla zenginleştiriliyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260809/30/2305196030305eb78424.jpg" />
+  </programme>
+  <programme start="20260817210000 +0000" stop="20260818043000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Tekrar Yayın</title>
+    <desc lang="tr">Ekranların ilgiyle takip edilen yapımı, en sevilen sahneleri ve çarpıcı bölümleriyle bir kez daha izleyici karşısına çıkıyor. Kaçıranlar, tekrar izlemekten keyif alanlar ve en ince detayları yakalamak isteyenler için hazırlanan bu yayında; haftaya damgasını vuran olaylar, duygu yüklü anlar ve merakla beklenen tüm gelişmeler bir arada.</desc>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260809/2/2305196030385eb78424.jpg" />
+  </programme>
+  <programme start="20260818043000 +0000" stop="20260818080000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Günaydın Türkiye</title>
+    <desc lang="tr">Günaydın Türkiye ile sabahınızı güçlü ve güncel kılın. Gece boyu gelişen olaylar, siyasi açıklamalar, ekonomi verileri, uluslararası haberler, deprem ve afet durumu hızlıca özetleniyor. Canlı bağlantılar, uzman yorumları, trafik ve hava tahmini, pratik sabah bilgileri samimi bir anlatımla sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260809/2/2305196040465eb78424.jpg" />
+  </programme>
+  <programme start="20260818080000 +0000" stop="20260818090000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Tekrar Yayın</title>
+    <desc lang="tr">Ekranların ilgiyle takip edilen yapımı, en sevilen sahneleri ve çarpıcı bölümleriyle bir kez daha izleyici karşısına çıkıyor. Kaçıranlar, tekrar izlemekten keyif alanlar ve en ince detayları yakalamak isteyenler için hazırlanan bu yayında; haftaya damgasını vuran olaylar, duygu yüklü anlar ve merakla beklenen tüm gelişmeler bir arada.</desc>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/25/2305219123405eb9542c.jpg" />
+  </programme>
+  <programme start="20260818090000 +0000" stop="20260818120000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Gündemin Nabzı</title>
+    <desc lang="tr">Gündemin Nabzı ile günün en kritik başlıklarını masaya yatırın. Farklı alanlardan uzmanlar, gazeteciler, siyasetçiler bir araya geliyor. Asıl meseleler, perde arkası detaylar, millî menfaatlere dair yorumlar, kamuoyunun tepkileri detaylıca ele alınıyor. Tarafsız ama cesur analizler bu programda.</desc>
+    <category lang="tr">Magazin</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/32/2305219123485eb9542c.jpg" />
+  </programme>
+  <programme start="20260818120000 +0000" stop="20260818150000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Gün İçinden</title>
+    <desc lang="tr">Sabah başlayan olayların güncel hali, siyasi gelişmeler, piyasa hareketleri, uluslararası haberler, deprem ve afet durumları, spor ve hava tahminleri detaylıca ele alınıyor. Canlı saha raporları, uzman yorumları, hızlı analizler, millî bakış açısıyla zenginleştirilmiş sunum ön planda.</desc>
+    <category lang="tr">Magazin</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/47/2305219133565eb9542c.jpg" />
+  </programme>
+  <programme start="20260818150000 +0000" stop="20260818160000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Haber Arası</title>
+    <desc lang="tr">Haberin akışına ara vermeden, Türkiye ve dünya gündemindeki en önemli başlıkları ekranlarınıza taşıyoruz. Ekonomiden siyasete, dış politikadan toplumsal olaylara kadar günün tüm sıcak gelişmeleri, tarafsız ve hızlı bir sunumla Haber Arası'nda yer alıyor. Gündemi kaçırmamak için doğru adrestesiniz.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/3/2305219133645eb9542c.jpg" />
+  </programme>
+  <programme start="20260818160000 +0000" stop="20260818173000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Ulusal Kanal Ana Haber Bülteni, Serkan Aksarı'nın sunumuyla hafta içi her gün izleyiciyle buluşuyor. Türkiye'den ve dünyadan öne çıkan gelişmeler, sahadan canlı bağlantılar ve özet analizlerle aktarılıyor. Program, izleyiciye güvenilir, net ve kesintisiz bir gündem takibi sunuyor her gün düzenli şekilde.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/56/2305219143725eb9542c.jpg" />
+  </programme>
+  <programme start="20260818173000 +0000" stop="20260818200000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Çıkış Yolu</title>
+    <desc lang="tr">Çıkış Yolu ile Türkiye'nin önündeki engelleri ve kurtuluş yollarını masaya yatırın. Doğu Perinçek'in liderliğinde konuklarla yapılan tartışmalarda emperyalist baskılar, ekonomik bağımlılık, kültürel yozlaşma, millî üretim hamlesi, vatan savunması detaylıca ele alınıyor.</desc>
+    <category lang="tr">Tartışma</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/17/2305219143805eb9542c.jpg" />
+  </programme>
+  <programme start="20260818200000 +0000" stop="20260819043000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Yurdumuzun Türküleri</title>
+    <desc lang="tr">Karadeniz'in horon türküleri, Ege'nin zeybekleri, Doğu'nun bozlakları, İç Anadolu'nun bozlakları, Trakya'nın kıvrak ezgileri detaylıca ele alınıyor. Türkünün doğduğu köy, dağ, ova, yaşanmış acılar, sevinçler, aşk ve gurbet hikayeleri samimi anlatımla sunuluyor.</desc>
+    <category lang="tr">Röportaj</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/62/2305219143885eb9542c.jpg" />
+  </programme>
+  <programme start="20260819043000 +0000" stop="20260819081500 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Günaydın Türkiye</title>
+    <desc lang="tr">Günaydın Türkiye ile sabahınızı güçlü ve güncel kılın. Gece boyu gelişen olaylar, siyasi açıklamalar, ekonomi verileri, uluslararası haberler, deprem ve afet durumu hızlıca özetleniyor. Canlı bağlantılar, uzman yorumları, trafik ve hava tahmini, pratik sabah bilgileri samimi bir anlatımla sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/23/2305219153965eb9542c.jpg" />
+  </programme>
+  <programme start="20260819081500 +0000" stop="20260819090000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Sözün Özü</title>
+    <desc lang="tr">Orhan Muşul'un moderatörlüğünde hazırlanan programda, toplumun her kesimine hitap eden özel konular masaya yatırılıyor. Alanında uzman konukların katılımıyla zenginleşen "Sözün Özü", pazar günlerini keyifli ve bilgilendirici bir sohbetle taçlandırmak isteyen izleyicileri Ulusal Kanal ekranlarında buluşturuyor.</desc>
+    <category lang="tr">Politika</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/31/2305213410235eb8f42a.jpg" />
+  </programme>
+  <programme start="20260819090000 +0000" stop="20260819120000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Gündemin Nabzı</title>
+    <desc lang="tr">Gündemin Nabzı ile günün en kritik başlıklarını masaya yatırın. Farklı alanlardan uzmanlar, gazeteciler, siyasetçiler bir araya geliyor. Asıl meseleler, perde arkası detaylar, millî menfaatlere dair yorumlar, kamuoyunun tepkileri detaylıca ele alınıyor. Tarafsız ama cesur analizler bu programda.</desc>
+    <category lang="tr">Magazin</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/40/2305213410315eb8f42a.jpg" />
+  </programme>
+  <programme start="20260819120000 +0000" stop="20260819150000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Gün İçinden</title>
+    <desc lang="tr">Sabah başlayan olayların güncel hali, siyasi gelişmeler, piyasa hareketleri, uluslararası haberler, deprem ve afet durumları, spor ve hava tahminleri detaylıca ele alınıyor. Canlı saha raporları, uzman yorumları, hızlı analizler, millî bakış açısıyla zenginleştirilmiş sunum ön planda.</desc>
+    <category lang="tr">Magazin</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/19/2305213420395eb8f42a.jpg" />
+  </programme>
+  <programme start="20260819150000 +0000" stop="20260819160000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Tekrar Yayın</title>
+    <desc lang="tr">Ekranların ilgiyle takip edilen yapımı, en sevilen sahneleri ve çarpıcı bölümleriyle bir kez daha izleyici karşısına çıkıyor. Kaçıranlar, tekrar izlemekten keyif alanlar ve en ince detayları yakalamak isteyenler için hazırlanan bu yayında; haftaya damgasını vuran olaylar, duygu yüklü anlar ve merakla beklenen tüm gelişmeler bir arada.</desc>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/81/2305213420475eb8f42a.jpg" />
+  </programme>
+  <programme start="20260819160000 +0000" stop="20260819173000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Ulusal Kanal Ana Haber Bülteni, Serkan Aksarı'nın sunumuyla hafta içi her gün izleyiciyle buluşuyor. Türkiye'den ve dünyadan öne çıkan gelişmeler, sahadan canlı bağlantılar ve özet analizlerle aktarılıyor. Program, izleyiciye güvenilir, net ve kesintisiz bir gündem takibi sunuyor her gün düzenli şekilde.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/58/2305213420555eb8f42a.jpg" />
+  </programme>
+  <programme start="20260819173000 +0000" stop="20260819200000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Özel Yayın</title>
+    <desc lang="tr">Ulusal ve uluslararası gündemde öne çıkan gelişmeler Özel Yayın programında ayrıntılı bir içerikle izleyiciye sunuluyor. Gün içinde dikkat çeken siyasi, ekonomik ve toplumsal başlıklar derlenerek aktarılıyor. Önemli açıklamalar ve son dakika gelişmeleri sade ve anlaşılır bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/69/2305213420635eb8f42a.jpg" />
+  </programme>
+  <programme start="20260819200000 +0000" stop="20260819210000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Haber Turu</title>
+    <desc lang="tr">Haber Turu ile günün öne çıkan başlıklarını tek durakta yakalayın. Siyasi olaylar, ekonomi piyasaları, uluslararası gelişmeler, güvenlik haberleri, deprem ve afet durumu, spor sonuçları hızlıca özetleniyor. Canlı bağlantılar, kısa analizler, uzman yorumları, millî menfaat odaklı bakışla zenginleştiriliyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/45/2305213430715eb8f42a.jpg" />
+  </programme>
+  <programme start="20260819210000 +0000" stop="20260820043000 +0000" channel="UlusalKanal.tr">
+    <title lang="tr">Tekrar Yayın</title>
+    <desc lang="tr">Ekranların ilgiyle takip edilen yapımı, en sevilen sahneleri ve çarpıcı bölümleriyle bir kez daha izleyici karşısına çıkıyor. Kaçıranlar, tekrar izlemekten keyif alanlar ve en ince detayları yakalamak isteyenler için hazırlanan bu yayında; haftaya damgasını vuran olaylar, duygu yüklü anlar ve merakla beklenen tüm gelişmeler bir arada.</desc>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/40/2305213430795eb8f42a.jpg" />
+  </programme>
   <channel id="HalkTV.tr">
     <display-name>Halk TV</display-name>
     <display-name>HALK TV.tr</display-name>
@@ -22059,6 +23155,11 @@
   <programme start="20260818234500 +0300" stop="20260819001500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Leyla ile Mecnun</title>
   </programme>
+  <channel id="KRT.tr">
+    <display-name>KRT</display-name>
+    <display-name>KRT.tr</display-name>
+    <icon src="https://i.imgur.com/9ZKqdQJ.png" />
+  </channel>
   <channel id="BenguTurk.tr">
     <display-name>Bengü Türk</display-name>
     <display-name lang="tr">BENGÜTÜRK</display-name>
@@ -49393,6 +50494,11 @@
     <title>Bilimin Sultanları</title>
     <desc>Açıklama mevcut değil</desc>
   </programme>
+  <channel id="TGRTBelgesel.tr">
+    <display-name>TGRT Belgesel</display-name>
+    <display-name>TGRT Belgesel.tr</display-name>
+    <icon src="https://i.imgur.com/VwWTnf0.png" />
+  </channel>
   <channel id="CGTNDocumentary.cn">
     <display-name>CGTN Documentary</display-name>
     <display-name lang="tr">CGTN 9 DOCUMENTARY</display-name>

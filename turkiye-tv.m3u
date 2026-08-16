@@ -11,6 +11,8 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png" tvg-chno="28" group-title="Türkiye TV",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.imgur.com/agn47sQ.png" tvg-chno="29" group-title="Türkiye TV",360
+https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 #EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CNBC-e_2025.svg/960px-CNBC-e_2025.svg.png" tvg-chno="30" group-title="Türkiye TV",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-chno="31" group-title="Türkiye TV",Bloomberg HT
@@ -53,6 +55,10 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="FlashHaber.tr" tvg-name="Flash Haber" tvg-logo="" tvg-chno="50" group-title="Türkiye TV",Flash Haber
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+#EXTINF:-1 tvg-id="LiderHaber.tr" tvg-name="Lider Haber" tvg-logo="https://i.imgur.com/5B42KwY.png" tvg-chno="51" group-title="Türkiye TV",Lider Haber
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal" tvg-logo="https://i.imgur.com/EwSg612.png" tvg-chno="52" group-title="Türkiye TV",Ulusal Kanal
+https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV" tvg-logo="https://i.imgur.com/xM0HA30.png" tvg-chno="53" group-title="Türkiye TV",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-name="Teve2" tvg-logo="https://i.imgur.com/rsoSLih.png" tvg-chno="54" group-title="Türkiye TV",Teve2
@@ -62,7 +68,7 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-name="TRT 3" tvg-logo="https://i.imgur.com/JrWFwBd.png" tvg-chno="56" group-title="Türkiye TV",TRT 3
 #EXTVLCOPT:http-referrer=https://www.trtspor.com.tr/canli-yayin-izle/trt-spor-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Turkey-Curated-IPTV-Builder/3.4)
-https://rd-trtradyo1.medya.trt.com.tr/master.m3u8
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT Avaz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" tvg-chno="57" group-title="Türkiye TV",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdî" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" tvg-chno="58" group-title="Türkiye TV",TRT Kurdî
@@ -73,6 +79,8 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://szctv.blutv.com/blutv_szctv/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" tvg-chno="61" group-title="Türkiye TV",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT" tvg-logo="https://i.imgur.com/9ZKqdQJ.png" tvg-chno="62" group-title="Türkiye TV",KRT
+https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 tvg-id="BenguTurk.tr" tvg-name="Bengü Türk" tvg-logo="" tvg-chno="63" group-title="Türkiye TV",Bengü Türk
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4" tvg-logo="https://i.imgur.com/UpsQsbd.png" tvg-chno="65" group-title="Türkiye TV",TV4
@@ -134,6 +142,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-chno="190" group-title="Türkiye TV",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-name="TGRT Belgesel" tvg-logo="https://i.imgur.com/VwWTnf0.png" tvg-chno="193" group-title="Türkiye TV",TGRT Belgesel
+#EXTVLCOPT:http-referrer=https://www.tgrtbelgesel.com.tr/
+https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-chno="194" group-title="Türkiye TV",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="GuneydoguTV.tr" tvg-name="Güneydoğu TV" tvg-logo="https://i.imgur.com/JT5pp3Y.png" tvg-chno="618" group-title="Türkiye TV",Güneydoğu TV
