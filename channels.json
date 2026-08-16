@@ -1,0 +1,791 @@
+{
+  "description": "Final curated Digiturk-like order. Playlist sequence is intentional: TLC (99) and DMAX (186) are placed immediately after channel 29 while retaining their Digiturk channel numbers in tvg-chno. Ekol TV (49) and Ekol Sports (64) were removed in v3.1 because their broadcasts ended in late 2025. V3.3 adds official-page dynamic resolution for selected free channels and fixes health-check false negatives for valid MPEGURL MIME types.",
+  "channels": [
+    {
+      "number": 22,
+      "name": "Show TV",
+      "ids": [
+        "ShowTV.tr"
+      ],
+      "aliases": [
+        "Show"
+      ]
+    },
+    {
+      "number": 23,
+      "name": "TRT 1",
+      "ids": [
+        "TRT1.tr"
+      ],
+      "aliases": [
+        "TRT1"
+      ]
+    },
+    {
+      "number": 24,
+      "name": "Kanal D",
+      "ids": [
+        "KanalD.tr"
+      ],
+      "aliases": [
+        "KanalD"
+      ]
+    },
+    {
+      "number": 25,
+      "name": "ATV",
+      "ids": [
+        "ATV.tr"
+      ]
+    },
+    {
+      "number": 26,
+      "name": "NOW",
+      "ids": [
+        "NOWTV.tr"
+      ],
+      "aliases": [
+        "NOW TV",
+        "FOX",
+        "FOX TV"
+      ]
+    },
+    {
+      "number": 27,
+      "name": "Star TV",
+      "ids": [
+        "StarTV.tr"
+      ],
+      "aliases": [
+        "Star"
+      ]
+    },
+    {
+      "number": 28,
+      "name": "TV8",
+      "ids": [
+        "TV8.tr"
+      ],
+      "aliases": [
+        "TV 8"
+      ]
+    },
+    {
+      "number": 29,
+      "name": "360",
+      "ids": [
+        "360.tr"
+      ],
+      "aliases": [
+        "360 TV"
+      ],
+      "deny_url_contains": [
+        "turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+        "turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8"
+      ],
+      "note": "Known 360 HLS variants tested as black screen on TCL/TiviMate and another player; skip these exact variants but allow future new URLs."
+    },
+    {
+      "number": 99,
+      "name": "TLC",
+      "ids": [
+        "TLC.tr"
+      ],
+      "aliases": [
+        "TLC TV"
+      ],
+      "official_page": "https://www.tlctv.com.tr/canli-izle"
+    },
+    {
+      "number": 186,
+      "name": "DMAX",
+      "ids": [
+        "DMAX.tr"
+      ],
+      "aliases": [
+        "D MAX"
+      ],
+      "official_page": "https://www.dmax.com.tr/canli-izle"
+    },
+    {
+      "number": 30,
+      "name": "CNBC-e",
+      "ids": [
+        "CNBCE.tr"
+      ],
+      "aliases": [
+        "CNBC e",
+        "CNBC-E"
+      ]
+    },
+    {
+      "number": 31,
+      "name": "Bloomberg HT",
+      "ids": [
+        "BloombergHT.tr"
+      ]
+    },
+    {
+      "number": 32,
+      "name": "A Haber",
+      "ids": [
+        "AHaber.tr"
+      ]
+    },
+    {
+      "number": 33,
+      "name": "TRT Haber",
+      "ids": [
+        "TRTHaber.tr"
+      ]
+    },
+    {
+      "number": 34,
+      "name": "Kanal 7",
+      "ids": [
+        "Kanal7.tr"
+      ]
+    },
+    {
+      "number": 35,
+      "name": "A2",
+      "ids": [
+        "A2.tr",
+        "a2.tr"
+      ],
+      "aliases": [
+        "a2"
+      ]
+    },
+    {
+      "number": 36,
+      "name": "Beyaz TV",
+      "ids": [
+        "BeyazTV.tr"
+      ]
+    },
+    {
+      "number": 37,
+      "name": "tv100",
+      "ids": [
+        "TV100.tr",
+        "tv100.tr"
+      ],
+      "aliases": [
+        "TV100"
+      ]
+    },
+    {
+      "number": 38,
+      "name": "Ülke TV",
+      "ids": [
+        "UlkeTV.tr"
+      ],
+      "aliases": [
+        "Ulke TV"
+      ]
+    },
+    {
+      "number": 39,
+      "name": "TVNET",
+      "ids": [
+        "TVNET.tr"
+      ]
+    },
+    {
+      "number": 40,
+      "name": "24 TV",
+      "ids": [
+        "24TV.tr"
+      ],
+      "aliases": [
+        "24"
+      ]
+    },
+    {
+      "number": 41,
+      "name": "NTV",
+      "ids": [
+        "NTV.tr"
+      ]
+    },
+    {
+      "number": 42,
+      "name": "CNN Türk",
+      "ids": [
+        "CNNTurk.tr"
+      ],
+      "aliases": [
+        "CNN Turk"
+      ]
+    },
+    {
+      "number": 43,
+      "name": "A Para",
+      "ids": [
+        "APara.tr"
+      ],
+      "resolver_urls": [
+        "https://www.apara.com.tr/canli-yayin"
+      ],
+      "official_page": "https://www.apara.com.tr/canli-yayin"
+    },
+    {
+      "number": 44,
+      "name": "Habertürk",
+      "ids": [
+        "HaberturkTV.tr",
+        "Haberturk.tr"
+      ],
+      "aliases": [
+        "Haberturk",
+        "Habertürk TV"
+      ]
+    },
+    {
+      "number": 45,
+      "name": "TGRT Haber",
+      "ids": [
+        "TGRTHaber.tr"
+      ]
+    },
+    {
+      "number": 46,
+      "name": "Ekotürk",
+      "ids": [
+        "Ekoturk.tr"
+      ],
+      "aliases": [
+        "EKOTÜRK",
+        "EKOTURK"
+      ],
+      "resolver_urls": [
+        "https://www.ekoturk.com/canli-yayin/"
+      ],
+      "official_page": "https://www.ekoturk.com/canli-yayin/"
+    },
+    {
+      "number": 47,
+      "name": "Haber Global",
+      "ids": [
+        "HaberGlobal.tr"
+      ]
+    },
+    {
+      "number": 48,
+      "name": "TELE1",
+      "ids": [
+        "TELE1.tr",
+        "Tele1.tr"
+      ],
+      "aliases": [
+        "Tele1"
+      ]
+    },
+    {
+      "number": 50,
+      "name": "Flash Haber",
+      "ids": [
+        "FlashHaber.tr"
+      ],
+      "aliases": [
+        "Flash Haber TV"
+      ]
+    },
+    {
+      "number": 51,
+      "name": "Lider Haber",
+      "ids": [
+        "LiderHaber.tr"
+      ],
+      "aliases": [
+        "Lider Haber TV"
+      ],
+      "resolver_urls": [
+        "https://www.liderhaber.com.tr/lider-haber-tv-canli-yayin"
+      ],
+      "official_page": "https://www.liderhaber.com.tr/lider-haber-tv-canli-yayin"
+    },
+    {
+      "number": 52,
+      "name": "Ulusal Kanal",
+      "ids": [
+        "UlusalKanal.tr"
+      ],
+      "aliases": [
+        "Ulusal TV"
+      ],
+      "resolver_urls": [
+        "https://www.ulusal.com.tr/ulusal-kanal-canli-izle"
+      ],
+      "official_page": "https://www.ulusal.com.tr/ulusal-kanal-canli-izle"
+    },
+    {
+      "number": 53,
+      "name": "Halk TV",
+      "ids": [
+        "HalkTV.tr"
+      ]
+    },
+    {
+      "number": 54,
+      "name": "Teve2",
+      "ids": [
+        "Teve2.tr",
+        "teve2.tr"
+      ],
+      "aliases": [
+        "teve2"
+      ]
+    },
+    {
+      "number": 55,
+      "name": "TV 8.5",
+      "ids": [
+        "TV85.tr"
+      ],
+      "aliases": [
+        "TV8.5",
+        "TV8,5"
+      ]
+    },
+    {
+      "number": 56,
+      "name": "TRT 3",
+      "ids": [
+        "TRT3.tr"
+      ],
+      "aliases": [
+        "TRT 3 / TRT Spor"
+      ],
+      "resolver_urls": [
+        "https://www.trtspor.com.tr/canli-yayin-izle/trt-spor-3"
+      ],
+      "official_page": "https://www.trtspor.com.tr/canli-yayin-izle/trt-spor-3"
+    },
+    {
+      "number": 57,
+      "name": "TRT Avaz",
+      "ids": [
+        "TRTAvaz.tr"
+      ]
+    },
+    {
+      "number": 58,
+      "name": "TRT Kurdî",
+      "ids": [
+        "TRTKurdi.tr"
+      ],
+      "aliases": [
+        "TRT Kurdi"
+      ]
+    },
+    {
+      "number": 59,
+      "name": "Türk Haber TV",
+      "ids": [
+        "TurkHaberTV.tr"
+      ],
+      "aliases": [
+        "Turk Haber TV",
+        "TÜRKHABER TV"
+      ]
+    },
+    {
+      "number": 60,
+      "name": "Sözcü TV",
+      "ids": [
+        "SozcuTV.tr"
+      ],
+      "aliases": [
+        "Sozcu TV"
+      ],
+      "resolver_urls": [
+        "https://www.sozcu.com.tr/sozcu-tv-canli-yayin-wp7630113"
+      ],
+      "official_page": "https://www.sozcu.com.tr/sozcu-tv-canli-yayin-wp7630113"
+    },
+    {
+      "number": 61,
+      "name": "TRT Türk",
+      "ids": [
+        "TRTTurk.tr"
+      ],
+      "aliases": [
+        "TRT Turk"
+      ]
+    },
+    {
+      "number": 62,
+      "name": "KRT",
+      "ids": [
+        "KRT.tr",
+        "KRTTV.tr"
+      ],
+      "aliases": [
+        "KRT TV"
+      ],
+      "resolver_urls": [
+        "https://www.krttv.com.tr/canli-yayin"
+      ],
+      "official_page": "https://www.krttv.com.tr/canli-yayin"
+    },
+    {
+      "number": 63,
+      "name": "Bengü Türk",
+      "ids": [
+        "BenguTurk.tr"
+      ],
+      "aliases": [
+        "Bengütürk",
+        "Bengu Turk"
+      ],
+      "resolver_urls": [
+        "https://www.benguturk.com/canli-yayin"
+      ],
+      "official_page": "https://www.benguturk.com/canli-yayin"
+    },
+    {
+      "number": 65,
+      "name": "TV4",
+      "ids": [
+        "TV4.tr"
+      ],
+      "aliases": [
+        "TV 4"
+      ]
+    },
+    {
+      "number": 66,
+      "name": "TRT 2",
+      "ids": [
+        "TRT2.tr"
+      ]
+    },
+    {
+      "number": 67,
+      "name": "VAV TV",
+      "ids": [
+        "VAVTV.tr"
+      ]
+    },
+    {
+      "number": 68,
+      "name": "Diyanet TV",
+      "ids": [
+        "DiyanetTV.tr"
+      ]
+    },
+    {
+      "number": 69,
+      "name": "Akit TV",
+      "ids": [
+        "AkitTV.tr"
+      ]
+    },
+    {
+      "number": 75,
+      "name": "HT Spor",
+      "ids": [
+        "HTSpor.tr"
+      ],
+      "aliases": [
+        "HT SPOR"
+      ]
+    },
+    {
+      "number": 76,
+      "name": "FB TV",
+      "ids": [
+        "FBTV.tr"
+      ],
+      "aliases": [
+        "Fenerbahçe TV",
+        "Fenerbahce TV"
+      ]
+    },
+    {
+      "number": 85,
+      "name": "beIN Sports Haber",
+      "ids": [
+        "beINSportsHaber.tr",
+        "BeINSportsHaber.tr"
+      ],
+      "aliases": [
+        "beIN SPORTS HABER",
+        "Bein Sports Haber"
+      ],
+      "resolver_urls": [
+        "https://beinsports.com.tr/canli-yayin"
+      ],
+      "official_page": "https://beinsports.com.tr/canli-yayin"
+    },
+    {
+      "number": 86,
+      "name": "TRT Spor",
+      "ids": [
+        "TRTSpor.tr"
+      ]
+    },
+    {
+      "number": 87,
+      "name": "TRT Spor Yıldız",
+      "ids": [
+        "TRTSporYildiz.tr"
+      ],
+      "aliases": [
+        "TRT Spor Yildiz"
+      ]
+    },
+    {
+      "number": 88,
+      "name": "A Spor",
+      "ids": [
+        "ASpor.tr"
+      ]
+    },
+    {
+      "number": 89,
+      "name": "TJK TV",
+      "ids": [
+        "TJKTV.tr"
+      ]
+    },
+    {
+      "number": 90,
+      "name": "Sports TV",
+      "ids": [
+        "SportsTV.tr",
+        "Sportstv.tr"
+      ]
+    },
+    {
+      "number": 104,
+      "name": "TRT Müzik",
+      "ids": [
+        "TRTMuzik.tr"
+      ],
+      "aliases": [
+        "TRT Muzik"
+      ]
+    },
+    {
+      "number": 133,
+      "name": "TRT Arabi",
+      "ids": [
+        "TRTArabi.tr"
+      ],
+      "aliases": [
+        "TRT Arabic"
+      ]
+    },
+    {
+      "number": 134,
+      "name": "CGTN",
+      "ids": [
+        "CGTN.cn"
+      ],
+      "aliases": [
+        "CGTN English"
+      ]
+    },
+    {
+      "number": 138,
+      "name": "Euronews",
+      "ids": [
+        "EuronewsEnglish.fr"
+      ],
+      "aliases": [
+        "Euronews English",
+        "EuroNews"
+      ]
+    },
+    {
+      "number": 139,
+      "name": "Bloomberg Television",
+      "ids": [
+        "BloombergTV.us",
+        "BloombergTelevision.us"
+      ],
+      "aliases": [
+        "Bloomberg TV",
+        "Bloomberg Television US"
+      ]
+    },
+    {
+      "number": 140,
+      "name": "A News",
+      "ids": [
+        "ANews.tr"
+      ],
+      "aliases": [
+        "A NEWS"
+      ],
+      "resolver_urls": [
+        "https://www.anews.com.tr/webtv/live-broadcast"
+      ],
+      "official_page": "https://www.anews.com.tr/webtv/live-broadcast"
+    },
+    {
+      "number": 142,
+      "name": "TRT World",
+      "ids": [
+        "TRTWorld.tr"
+      ]
+    },
+    {
+      "number": 144,
+      "name": "Al Jazeera English",
+      "ids": [
+        "AlJazeera.qa"
+      ],
+      "aliases": [
+        "Al Jazeera International",
+        "AL JAZEERA INTERNATIONAL"
+      ],
+      "preferred_feeds": [
+        "English HD",
+        "English"
+      ]
+    },
+    {
+      "number": 147,
+      "name": "Al Quran Al Kareem TV",
+      "ids": [
+        "QuranTV.sa",
+        "SaudiQuranTV.sa"
+      ],
+      "aliases": [
+        "Al Quran Al Kareem",
+        "Quran TV",
+        "Saudi Quran TV"
+      ]
+    },
+    {
+      "number": 148,
+      "name": "Al Sunnah Al Nabawiyah TV",
+      "ids": [
+        "AlSunnahAlNabawiyahTV.sa"
+      ],
+      "aliases": [
+        "Al Sunnah",
+        "Sunna TV"
+      ]
+    },
+    {
+      "number": 149,
+      "name": "NHK World Japan",
+      "ids": [
+        "NHKWorldJapan.jp"
+      ],
+      "aliases": [
+        "NHK World-Japan",
+        "NHK World"
+      ]
+    },
+    {
+      "number": 152,
+      "name": "TRT EBA",
+      "ids": [
+        "TRTEBA.tr"
+      ],
+      "aliases": [
+        "TRT EBA Ortaokul",
+        "TRT EBA TV"
+      ]
+    },
+    {
+      "number": 160,
+      "name": "TRT Çocuk",
+      "ids": [
+        "TRTCocuk.tr"
+      ],
+      "aliases": [
+        "TRT Cocuk"
+      ]
+    },
+    {
+      "number": 166,
+      "name": "Stoon TV / Spacetoon Türkiye",
+      "ids": [
+        "SpacetoonTurkey.tr"
+      ],
+      "aliases": [
+        "Stoon TV",
+        "Spacetoon Türkiye",
+        "Spacetoon Turkey",
+        "Spacetoon"
+      ],
+      "resolver_urls": [
+        "https://spacetoon.com.tr/tr/tv-programs"
+      ],
+      "official_page": "https://spacetoon.com.tr/tr/tv-programs"
+    },
+    {
+      "number": 170,
+      "name": "Minika GO",
+      "ids": [
+        "MinikaGO.tr"
+      ],
+      "aliases": [
+        "minikaGO"
+      ]
+    },
+    {
+      "number": 174,
+      "name": "Minika Çocuk",
+      "ids": [
+        "MinikaCocuk.tr"
+      ],
+      "aliases": [
+        "Minika Cocuk"
+      ]
+    },
+    {
+      "number": 189,
+      "name": "Yaban TV",
+      "ids": [
+        "YabanTV.tr"
+      ],
+      "resolver_urls": [
+        "https://www.yabantv.com/broadcast"
+      ],
+      "official_page": "https://www.yabantv.com/broadcast"
+    },
+    {
+      "number": 190,
+      "name": "TRT Belgesel",
+      "ids": [
+        "TRTBelgesel.tr"
+      ]
+    },
+    {
+      "number": 193,
+      "name": "TGRT Belgesel",
+      "ids": [
+        "TGRTBelgesel.tr"
+      ],
+      "aliases": [
+        "TGRT Belgesel TV"
+      ]
+    },
+    {
+      "number": 194,
+      "name": "CGTN Documentary",
+      "ids": [
+        "CGTNDocumentary.cn"
+      ]
+    },
+    {
+      "number": 618,
+      "name": "Güneydoğu TV",
+      "ids": [
+        "GuneydoguTV.tr"
+      ],
+      "aliases": [
+        "Guneydogu TV",
+        "Güneydoğu TV"
+      ]
+    }
+  ]
+}

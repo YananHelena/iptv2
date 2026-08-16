@@ -1,0 +1,11 @@
+{
+  "_note": "Remote fallback list is disabled because streams.uzunmuhalefet.com currently fails DNS resolution in GitHub Actions. Curated extra_streams.json is used after iptv-org instead.",
+  "sources": [
+    {
+      "name": "Legal-IPTV TR (disabled)",
+      "url": "https://streams.uzunmuhalefet.com/lists/tr.m3u",
+      "enabled": false,
+      "note": "Disabled in v3.1 after DNS resolution failures in GitHub Actions."
+    }
+  ]
+}

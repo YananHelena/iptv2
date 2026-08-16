@@ -1,0 +1,187 @@
+{
+  "_README": {
+    "url": "",
+    "note": "These are fallback HLS URLs for free/public channels. build_playlist.py now tries iptv-org first; these are only used if iptv-org is missing, blocklisted, or has no stream. Set enabled=false to disable an entry."
+  },
+  "ShowTV.tr": {
+    "enabled": false,
+    "name": "Show TV",
+    "url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
+    "tvg_id": "ShowTV.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Disabled in v3.2: user tested this exact fallback on TCL/TiviMate and another player; it returned 403 or failed playback. Future iptv-org URLs are still eligible.",
+    "user_tested_bad": true
+  },
+  "TLC.tr": {
+    "enabled": false,
+    "name": "TLC",
+    "url": "https://dogus-live.daioncdn.net/tlc/tlc.m3u8",
+    "tvg_id": "TLC.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Disabled in v3.2: user tested this exact fallback on TCL/TiviMate and another player; it returned 403 or failed playback. Future iptv-org URLs are still eligible.",
+    "user_tested_bad": true
+  },
+  "DMAX.tr": {
+    "enabled": false,
+    "name": "DMAX",
+    "url": "https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8",
+    "tvg_id": "DMAX.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Disabled in v3.2: user tested this exact fallback on TCL/TiviMate and another player; it returned 403 or failed playback. Future iptv-org URLs are still eligible.",
+    "user_tested_bad": true
+  },
+  "CNNTurk.tr": {
+    "enabled": true,
+    "name": "CNN Türk",
+    "url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8",
+    "tvg_id": "CNNTurk.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Fallback HLS for CNN Türk; iptv-org remains preferred if it becomes available."
+  },
+  "Teve2.tr": {
+    "enabled": true,
+    "name": "Teve2",
+    "url": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
+    "tvg_id": "Teve2.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Fallback HLS for free Teve2 live channel."
+  },
+  "TV85.tr": {
+    "enabled": true,
+    "name": "TV 8.5",
+    "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3",
+    "tvg_id": "TV85.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Fallback HLS for TV8.5."
+  },
+  "SportsTV.tr": {
+    "enabled": true,
+    "name": "Sports TV",
+    "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8",
+    "tvg_id": "SportsTV.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Official-domain HLS fallback; may be geo-restricted depending on location."
+  },
+  "AkitTV.tr": {
+    "enabled": true,
+    "name": "Akit TV",
+    "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
+    "tvg_id": "AkitTV.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Fallback for Akit TV free live stream."
+  },
+  "BenguTurk.tr": {
+    "enabled": true,
+    "name": "Bengü Türk",
+    "urls": [
+      "https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8",
+      "https://tv.ensonhaber.com/benguturk/benguturk.m3u8"
+    ],
+    "tvg_id": "BenguTurk.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Public mirror candidates, not claimed as broadcaster-origin URLs. Used only if health check passes; official-page resolver remains enabled."
+  },
+  "APara.tr": {
+    "enabled": true,
+    "name": "A Para",
+    "urls": [
+      "https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8"
+    ],
+    "tvg_id": "APara.tr",
+    "referrer": "https://www.apara.com.tr/",
+    "user_agent": "",
+    "logo": "",
+    "note": "Public HLS candidate on Turkuvaz/ercdn infrastructure; used only when iptv-org has no stream and only if health check passes."
+  },
+  "FlashHaber.tr": {
+    "enabled": true,
+    "name": "Flash Haber",
+    "urls": [
+      "https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8",
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8"
+    ],
+    "tvg_id": "FlashHaber.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Public HLS candidates; second URL came from the user-supplied EXTM3U. Health check decides whether either is usable."
+  },
+  "Ekoturk.tr": {
+    "enabled": true,
+    "name": "Ekotürk",
+    "urls": [
+      "https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8"
+    ],
+    "tvg_id": "Ekoturk.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Public HLS candidate seen in free-TV lists. Health checked before inclusion; official-page resolver remains enabled."
+  },
+  "SozcuTV.tr": {
+    "enabled": true,
+    "name": "Sözcü TV",
+    "urls": [
+      "https://szctv.blutv.com/blutv_szctv/live_720p2000000kbps/index.m3u8"
+    ],
+    "tvg_id": "SozcuTV.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Public HLS mirror candidate. Health checked before inclusion; official YouTube/page resolver remains enabled."
+  },
+  "KRT.tr": {
+    "enabled": true,
+    "name": "KRT",
+    "urls": [
+      "http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8"
+    ],
+    "tvg_id": "KRT.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Legacy public HLS candidate. Kept only as a health-checked fallback; official-page resolver remains enabled."
+  },
+  "ANews.tr": {
+    "enabled": true,
+    "name": "A News",
+    "urls": [
+      "https://trkvz-m.ercdn.net/anewshd/anewshd.m3u8"
+    ],
+    "tvg_id": "ANews.tr",
+    "referrer": "https://www.anews.com.tr/",
+    "user_agent": "",
+    "logo": "",
+    "note": "Public HLS candidate on Turkuvaz/ercdn infrastructure. Health checked before inclusion."
+  },
+  "YabanTV.tr": {
+    "enabled": true,
+    "name": "Yaban TV",
+    "urls": [
+      "https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8"
+    ],
+    "tvg_id": "YabanTV.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Public HLS candidate from longstanding free-TV listings. Health checked before inclusion; official-page resolver remains enabled."
+  }
+}
