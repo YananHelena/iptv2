@@ -152,13 +152,14 @@
     "enabled": true,
     "name": "KRT",
     "urls": [
+      "https://krt.blutv.com/blutv_krt_live/live.m3u8",
       "http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8"
     ],
     "tvg_id": "KRT.tr",
     "referrer": "",
     "user_agent": "",
     "logo": "",
-    "note": "Legacy public HLS candidate. Kept only as a health-checked fallback; official-page resolver remains enabled."
+    "note": "Two public provider HLS candidates. The previous 720p endpoint returned HTTP 500 on GitHub; the simpler master endpoint is tried first."
   },
   "ANews.tr": {
     "enabled": true,
@@ -183,5 +184,56 @@
     "user_agent": "",
     "logo": "",
     "note": "Public HLS candidate from longstanding free-TV listings. Health checked before inclusion; official-page resolver remains enabled."
+  },
+  "360.tr": {
+    "enabled": true,
+    "name": "360",
+    "urls": [
+      "https://360tv.blutv.com/blutv_360tv_live/live.m3u8",
+      "https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8"
+    ],
+    "tvg_id": "360.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Alternative public provider/mirror candidates. The exact Turkmedya URLs tested black on the user's TV remain deny-listed. These candidates are included only if the health check accepts them."
+  },
+  "LiderHaber.tr": {
+    "enabled": true,
+    "name": "Lider Haber",
+    "urls": [
+      "http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8"
+    ],
+    "tvg_id": "LiderHaber.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Public HLS candidate found in a current Turkish free-TV list; used only if health check passes."
+  },
+  "UlusalKanal.tr": {
+    "enabled": true,
+    "name": "Ulusal Kanal",
+    "urls": [
+      "https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8"
+    ],
+    "tvg_id": "UlusalKanal.tr",
+    "referrer": "",
+    "user_agent": "",
+    "logo": "",
+    "note": "Legacy/public provider HLS candidate; health checked before inclusion. Official-page resolver remains as fallback."
+  },
+  "TGRTBelgesel.tr": {
+    "enabled": true,
+    "name": "TGRT Belgesel",
+    "urls": [
+      "https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8",
+      "https://ensonhaber-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8",
+      "https://tv.ensonhaber.com/tgrtbelgesel/tgrtbelgesel.m3u8"
+    ],
+    "tvg_id": "TGRTBelgesel.tr",
+    "referrer": "https://www.tgrtbelgesel.com.tr/",
+    "user_agent": "",
+    "logo": "",
+    "note": "Health-checked TGRT Belgesel candidates; first candidate uses Ihlas Digital Assets infrastructure. Official live page remains available separately."
   }
 }
