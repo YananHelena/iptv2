@@ -4,37 +4,45 @@
     "note": "These are fallback HLS URLs for free/public channels. build_playlist.py now tries iptv-org first; these are only used if iptv-org is missing, blocklisted, or has no stream. Set enabled=false to disable an entry."
   },
   "ShowTV.tr": {
-    "enabled": false,
+    "enabled": true,
     "name": "Show TV",
-    "url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
+    "urls": [
+      "https://showtv.blutv.com/blutv_showtv_live/live.m3u8",
+      "https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8",
+      "https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8"
+    ],
     "tvg_id": "ShowTV.tr",
     "referrer": "",
     "user_agent": "",
     "logo": "",
-    "note": "Disabled in v3.2: user tested this exact fallback on TCL/TiviMate and another player; it returned 403 or failed playback. Future iptv-org URLs are still eligible.",
-    "user_tested_bad": true
+    "note": "Alternative historical/public provider endpoints distinct from the Ciner URL that returned 403 on the user's TV. Include only if current health check succeeds."
   },
   "TLC.tr": {
-    "enabled": false,
+    "enabled": true,
     "name": "TLC",
-    "url": "https://dogus-live.daioncdn.net/tlc/tlc.m3u8",
+    "urls": [
+      "https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8",
+      "https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8",
+      "https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.ltur.m3u8"
+    ],
     "tvg_id": "TLC.tr",
     "referrer": "",
     "user_agent": "",
     "logo": "",
-    "note": "Disabled in v3.2: user tested this exact fallback on TCL/TiviMate and another player; it returned 403 or failed playback. Future iptv-org URLs are still eligible.",
-    "user_tested_bad": true
+    "note": "Historical public RocketCDN TLC endpoints. The newer Dogus/Daion URL returned 403 on the user's TV, so only these distinct endpoints are tested. Health check decides inclusion."
   },
   "DMAX.tr": {
-    "enabled": false,
+    "enabled": true,
     "name": "DMAX",
-    "url": "https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8",
+    "urls": [
+      "https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8",
+      "https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8"
+    ],
     "tvg_id": "DMAX.tr",
     "referrer": "",
     "user_agent": "",
     "logo": "",
-    "note": "Disabled in v3.2: user tested this exact fallback on TCL/TiviMate and another player; it returned 403 or failed playback. Future iptv-org URLs are still eligible.",
-    "user_tested_bad": true
+    "note": "Historical public RocketCDN DMAX endpoints, distinct from the newer URL that returned 403 on the user's TV. Included only when health check succeeds."
   },
   "CNNTurk.tr": {
     "enabled": true,
