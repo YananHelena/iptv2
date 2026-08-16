@@ -1,4 +1,5 @@
 ﻿playlist_name,playlist_tvg_id,original_tvg_id,matched,source,source_channel_id,source_display_name,score,programmes,generated_playlist_id
+Show TV,ShowTV.tr,ShowTV.tr,yes,epgshare-tr3,SHOW.TV.tr,SHOW TV,1.000,39,no
 TRT 1,TRT1.tr,TRT1.tr,yes,epgshare-tr3,TRT.1.tr,TRT 1,1.000,48,no
 Kanal D,KanalD.tr,KanalD.tr,yes,epgshare-tr3,KANAL.D.HD.tr,KANAL D HD,1.000,48,no
 ATV,ATV.tr,ATV.tr,yes,epgshare-tr3,ATV.HD.tr,ATV HD,1.000,41,no
@@ -6,6 +7,8 @@ NOW,NOWTV.tr,NOWTV.tr,yes,epgshare-tr3,NOW.tr,NOW,1.000,50,no
 Star TV,StarTV.tr,StarTV.tr,yes,epgshare-tr3,STAR.TV.tr,STAR TV,1.000,47,no
 TV8,TV8.tr,TV8.tr,yes,epgshare-tr3,TV8.HD.tr,TV8 HD,1.000,41,no
 360,360.tr,360.tr,yes,epgshare-tr3,360.HD.tr,360 HD,1.000,67,no
+TLC,TLC.tr,TLC.tr,yes,epgshare-tr3,TLC.tr,TLC,1.000,127,no
+DMAX,DMAX.tr,DMAX.tr,yes,epgshare-tr3,DMAX.HD.tr,DMAX HD,1.000,121,no
 CNBC-e,CNBCe.tr,CNBCe.tr,yes,epgshare-tr3,CNBC-e.tr,CNBC-e,1.000,140,no
 Bloomberg HT,BloombergHT.tr,BloombergHT.tr,yes,epgshare-tr3,BLOOMBERG.HT.HD.tr,BLOOMBERG HT HD,1.000,117,no
 A Haber,AHaber.tr,AHaber.tr,yes,epgshare-tr3,A.HABER.HD.tr,A HABER HD,1.000,106,no

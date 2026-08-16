@@ -1,5 +1,323 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Turkey TV V3 EPG Builder" generator-info-url="https://github.com/">
+  <channel id="ShowTV.tr">
+    <display-name>Show TV</display-name>
+    <display-name lang="tr">SHOW TV</display-name>
+    <url>http://www.tivibu.com.tr</url>
+    <icon src="https://i.imgur.com/1l7SCCu.png" />
+  </channel>
+  <programme start="20260816001600 +0300" stop="20260816021500 +0300" channel="ShowTV.tr">
+    <title lang="tr">Hava Saldırısı</title>
+    <category lang="tr">Film</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260712189661.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260816021500 +0300" stop="20260816041500 +0300" channel="ShowTV.tr">
+    <title lang="tr">Baba Bizi Eversene</title>
+    <category lang="tr">Film</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260323469810.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260816041500 +0300" stop="20260816060000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Gırgıriye'de Cümbüş Var</title>
+    <category lang="tr">Film</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260524151286.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260816060000 +0300" stop="20260816080000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Yeni Gelin</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260628178827.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260816080000 +0300" stop="20260816100000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Gırgıriye'de Büyük Seçim</title>
+    <category lang="tr">Film</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260525151649.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260816100000 +0300" stop="20260816130000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Pazar Sürprizi</title>
+    <category lang="tr">Eğlence</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20241012554461.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260816130000 +0300" stop="20260816153000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Züğürt Ağa</title>
+    <category lang="tr">Film</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260630180426.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260816153000 +0300" stop="20260816180000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Muhtemel Aşk</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260616169685.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260816180000 +0300" stop="20260816183500 +0300" channel="ShowTV.tr">
+    <title lang="tr">Dada Rota</title>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260625176824.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260816183500 +0300" stop="20260816200000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Show Ana Haber</title>
+    <category lang="tr">Aktüalite</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20250619803337.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260816200000 +0300" stop="20260816223000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Oflu Hoca'nın Şifresi 2</title>
+    <category lang="tr">Film</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260810210684.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260816223000 +0300" stop="20260817001500 +0300" channel="ShowTV.tr">
+    <title lang="tr">Avanak Abdi</title>
+    <category lang="tr">Film</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20250616797740.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260817001500 +0300" stop="20260817021500 +0300" channel="ShowTV.tr">
+    <title lang="tr">Dağ 2</title>
+    <category lang="tr">Film</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260811210931.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260817021500 +0300" stop="20260817040000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Züğürt Ağa</title>
+    <category lang="tr">Film</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260630180426.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260817040000 +0300" stop="20260817060000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Gırgıriye'de Büyük Seçim</title>
+    <category lang="tr">Film</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260525151649.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260817060000 +0300" stop="20260817090000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Yeni Gelin</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260628178827.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260817090000 +0300" stop="20260817120000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Aşk Laftan Anlamaz</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260710188931.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260817120000 +0300" stop="20260817150000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Gelsin Hayat Bildiği Gibi</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260529152201.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260817150000 +0300" stop="20260817182500 +0300" channel="ShowTV.tr">
+    <title lang="tr">Kuzey Yıldızı: İlk Aşk</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260808023707.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260817182500 +0300" stop="20260817200000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Show Ana Haber</title>
+    <category lang="tr">Aktüalite</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20250619803337.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260817200000 +0300" stop="20260818001500 +0300" channel="ShowTV.tr">
+    <title lang="tr">Güldür Güldür Show</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20251010909360.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260818001500 +0300" stop="20260818030000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Muhtemel Aşk</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260616169685.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260818030000 +0300" stop="20260818060000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Gelsin Hayat Bildiği Gibi</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260529152201.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260818060000 +0300" stop="20260818090000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Yeni Gelin</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260628178827.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260818090000 +0300" stop="20260818120000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Aşk Laftan Anlamaz</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260710188931.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260818120000 +0300" stop="20260818150000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Gelsin Hayat Bildiği Gibi</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260529152201.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260818150000 +0300" stop="20260818182500 +0300" channel="ShowTV.tr">
+    <title lang="tr">Kuzey Yıldızı: İlk Aşk</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260808023707.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260818182500 +0300" stop="20260818200000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Show Ana Haber</title>
+    <category lang="tr">Aktüalite</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20250619803337.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260818200000 +0300" stop="20260818231500 +0300" channel="ShowTV.tr">
+    <title lang="tr">Muhtemel Aşk</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260616169685.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260818231500 +0300" stop="20260819011500 +0300" channel="ShowTV.tr">
+    <title lang="tr">Maide'nin Altın Günü</title>
+    <category lang="tr">Film</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260815214594.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260819011500 +0300" stop="20260819034500 +0300" channel="ShowTV.tr">
+    <title lang="tr">Muhtemel Aşk</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260616169685.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260819034500 +0300" stop="20260819060000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Gelsin Hayat Bildiği Gibi</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260529152201.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260819060000 +0300" stop="20260819090000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Yeni Gelin</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260628178827.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260819090000 +0300" stop="20260819120000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Aşk Laftan Anlamaz</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260710188931.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260819120000 +0300" stop="20260819150000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Gelsin Hayat Bildiği Gibi</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260529152201.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260819150000 +0300" stop="20260819182500 +0300" channel="ShowTV.tr">
+    <title lang="tr">Kuzey Yıldızı: İlk Aşk</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260808023707.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260819182500 +0300" stop="20260819200000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Show Ana Haber</title>
+    <category lang="tr">Aktüalite</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20250619803337.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260819200000 +0300" stop="20260819223000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Kod Adı: Olympus</title>
+    <category lang="tr">Film</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260626177652.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20260819223000 +0300" stop="20260820003000 +0300" channel="ShowTV.tr">
+    <title lang="tr">Londra Bulvarı</title>
+    <category lang="tr">Film</category>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/prevueposter/20260815214441.jpg" />
+    <rating system="TR">
+      <value>0+</value>
+    </rating>
+  </programme>
   <channel id="TRT1.tr">
     <display-name lang="tr">TRT 1</display-name>
     <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839124.png" />
@@ -3481,6 +3799,1745 @@
     <category lang="tr">Film</category>
     <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/59/2204321963925eb9b42e.jpg" />
     <country lang="tr">TR</country>
+  </programme>
+  <channel id="TLC.tr">
+    <display-name lang="tr">TLC</display-name>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/poster/20151105/001300/001300000008478933/142b32ca-f2fb-43c5-9d6a-7f38fe865695.png" />
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/poster/20151105/001300/001300000008478933/142b32ca-f2fb-43c5-9d6a-7f38fe865695.png" />
+    <url>http://www.tvplus.com.tr</url>
+  </channel>
+  <programme start="20260816003000 +0000" stop="20260816011500 +0000" channel="TLC.tr">
+    <title lang="tr">Kayıp</title>
+    <desc lang="tr">Kayıp kişi soruşturmalarındaki beklenmedik gelişmelere bir bakış. Dedektifler kayıp vakalarının gizemini çözmeye yardımcı olacak önemli detayların izini sürer.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/6/2204303302715eb9542c.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20260816011500 +0000" stop="20260816020000 +0000" channel="TLC.tr">
+    <title lang="tr">Kayıp</title>
+    <desc lang="tr">Evde film seyrettiği bir gecenin ardından 18 yaşındaki Zoe ertesi gün ortadan kaybolur. Soruşturmacılar ipucu bulmak için onun Facebook hesabını inceler.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/12/2204303312795eb9542c.jpg" />
+    <episode-num system="onscreen">S8 E1</episode-num>
+  </programme>
+  <programme start="20260816020000 +0000" stop="20260816022000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">Bir artistik patinaj madalyası sahibi ve oğlu, bir judo altın madalyası sahibi ve büyükannesiyle kapışıyor. Her takımın dönüştürülecek üç proje bulmak için sadece bir saati var.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/0/2204303312875eb9542c.jpg" />
+    <episode-num system="onscreen">S7 E2</episode-num>
+  </programme>
+  <programme start="20260816022000 +0000" stop="20260816024000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">Usta hurda toplayıcılarından oluşan bir ekip, Kendin Yap sevdalısı kız kardeşlere karşı. 500 dolarlık bir bütçeyle, dönüştürülecek üç proje bulmak için bir saatleri var.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/79/2204303322955eb9542c.jpg" />
+    <episode-num system="onscreen">S7 E3</episode-num>
+  </programme>
+  <programme start="20260816024000 +0000" stop="20260816030000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">Bir Woodstock, bir anne-oğul tasarım ikilisine karşı. İstek listesi için üç proje bulmak için 500 dolarları var: Belirgin Yemek, Parlak Endüstriyel ve İşlevsel Tasarım.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/56/2204303333035eb9542c.jpg" />
+    <episode-num system="onscreen">S7 E4</episode-num>
+  </programme>
+  <programme start="20260816030000 +0000" stop="20260816033000 +0000" channel="TLC.tr">
+    <title lang="tr">Karayip Evleri</title>
+    <desc lang="tr">Çocuklarını köklerine daha yakın bir ortamda büyütmek için Porto Riko'ya taşınan bir çift ziyarete gelen akrabalarının da konaklayabileceği, herkese yetecek büyüklükte bir ev arar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/34/2204303333115eb9542c.jpg" />
+    <episode-num system="onscreen">S16 E2</episode-num>
+  </programme>
+  <programme start="20260816033000 +0000" stop="20260816040000 +0000" channel="TLC.tr">
+    <title lang="tr">Karayip Evleri</title>
+    <desc lang="tr">Şehir hayatından kaçıp Cabo Rojo, Porto Riko'ya yerleşmek isteyen genç bir New York'lu sahile yakın bir ev arar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/24/2204303333195eb9542c.jpg" />
+    <episode-num system="onscreen">S16 E3</episode-num>
+  </programme>
+  <programme start="20260816040000 +0000" stop="20260816050000 +0000" channel="TLC.tr">
+    <title lang="tr">Market Oyunları</title>
+    <desc lang="tr">Dört şef kısıtlı bütçe ile en iyi kızarmış balık yemeklerini yapar ve fıstık ezmesi-reçel ile salaş bir kahvaltı hazırlar. Finalistleri Pazar akşam yemeği yarışması bekler.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/64/2204303333275eb9542c.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20260816050000 +0000" stop="20260816060000 +0000" channel="TLC.tr">
+    <title lang="tr">Market Oyunları</title>
+    <desc lang="tr">Şefler, et yemeği için alışveriş yaparken tartının dengesini bozmamaya çalışırlar sonrasında Yemek Çarkı öğlenki malzemeleri belirler. Finalistler gurme bir akşam yemeği pişirir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/32/2204303343355eb9542c.jpg" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20260816060000 +0000" stop="20260816070000 +0000" channel="TLC.tr">
+    <title lang="tr">100 Günde Rüya Ev</title>
+    <desc lang="tr">Brian ve Mika, son 10 yıl içerisinde altı farklı evde yaşamış dört kişilik bir ailenin nihayet kök salabilecekleri rüya gibi bir ev inşa etmesine yardım ediyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/12/2204303353435eb9542c.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20260816070000 +0000" stop="20260816080000 +0000" channel="TLC.tr">
+    <title lang="tr">Johnston Ailesi</title>
+    <desc lang="tr">Johnstonlar haftalarca otelde kaldıktan sonra yeni evlerine taşınırlar ama tadilat tehlikeli bir keşifle sonlanır. Liz ilk ergenlik aşk acısını yaşar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/91/2204303353495eb9542c.jpg" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  <programme start="20260816080000 +0000" stop="20260816090000 +0000" channel="TLC.tr">
+    <title lang="tr">Şeflerin Sahil Savaşı</title>
+    <desc lang="tr">Şef Antonia Lofaso büyük sahil yemekleri yarışı için döner! Brian Malarkey ve Eric Adjepong ikonik liman yemekleri hazırlar ve klasik oyunlar oynar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/88/2204303363565eb9542c.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20260816090000 +0000" stop="20260816093000 +0000" channel="TLC.tr">
+    <title lang="tr">Bütçe Dostu Rüya Evler</title>
+    <desc lang="tr">Bir emlak uzmanı emekli bir askerin Guanacaste, Kosta Rika'da cenneti aratmayan uygun fiyatlı bir ev bulmasına yardım eder.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/61/2204303363645eb9542c.jpg" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20260816093000 +0000" stop="20260816100000 +0000" channel="TLC.tr">
+    <title lang="tr">Bütçe Dostu Rüya Evler</title>
+    <desc lang="tr">ABD'deki yaşam tarzı yüzünden hastalanan bir kadın Panama'nın PanamÃ¡ Oeste bölgesinde doğayla iç içe bir yaşama hazırlanır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/7/2204303373725eb9542c.jpg" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20260816100000 +0000" stop="20260816103000 +0000" channel="TLC.tr">
+    <title lang="tr">Doğaya Kaçış</title>
+    <desc lang="tr">Eric ve Amanda Alaska'daki Talkeetna bölgesinde ilk evlerini almaya hazırdır. Yeni evli çift için para kısıtlıdır, bu yüzden ekstra çaba sarfetmeye hazırlıklı olmalılar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/62/2204303373805eb9542c.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20260816103000 +0000" stop="20260816110000 +0000" channel="TLC.tr">
+    <title lang="tr">Doğaya Kaçış</title>
+    <desc lang="tr">Florida yerlileri Michael ve Miranda Alaska'ya taşınırlar. Sınırın Ucu'ndaki yaşamları, geride bıraktıkları Güneş Işığı Eyaletine hiç benzemez.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/32/2204303373885eb9542c.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20260816110000 +0000" stop="20260816120000 +0000" channel="TLC.tr">
+    <title lang="tr">Pastanem Tehlikede</title>
+    <desc lang="tr">Kerry Vincent, Chester, Pennsylvania'daki Phatso'nun Pastanesi'nde 12 yılın ardından işini kaybetme tehlikesiyle karşı karşıya kalan işletme sahibi Richard'a yardım eder.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/42/2204303373965eb9542c.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20260816120000 +0000" stop="20260816130000 +0000" channel="TLC.tr">
+    <title lang="tr">Hayalimdeki Ev</title>
+    <desc lang="tr">Chip ve Joanna Gaines yıkık dökük evleri alıp insanların hayallerindeki evlere dönüştürüyorlar. Bu şekilde tüm semti canlandırıyorlar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/21/2204303384045eb9542c.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20260816130000 +0000" stop="20260816140000 +0000" channel="TLC.tr">
+    <title lang="tr">Hayalimdeki Ev</title>
+    <desc lang="tr">Chip ve Joanna Gaines yıkık dökük evleri alıp insanların hayallerindeki evlere dönüştürüyorlar. Bu şekilde tüm semti canlandırıyorlar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/32/2204303394125eb9542c.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20260816140000 +0000" stop="20260816150000 +0000" channel="TLC.tr">
+    <title lang="tr">Hayalimdeki Ev</title>
+    <desc lang="tr">Chip ve Joanna Gaines yıkık dökük evleri alıp insanların hayallerindeki evlere dönüştürüyorlar. Bu şekilde tüm semti canlandırıyorlar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/59/2204303394205eb9542c.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20260816150000 +0000" stop="20260816153000 +0000" channel="TLC.tr">
+    <title lang="tr">Bütçe Dostu Rüya Evler</title>
+    <desc lang="tr">Bir emlak uzmanı emekli bir askerin Guanacaste, Kosta Rika'da cenneti aratmayan uygun fiyatlı bir ev bulmasına yardım eder.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/16/2204303394285eb9542c.jpg" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20260816153000 +0000" stop="20260816160000 +0000" channel="TLC.tr">
+    <title lang="tr">Bütçe Dostu Rüya Evler</title>
+    <desc lang="tr">ABD'deki yaşam tarzı yüzünden hastalanan bir kadın Panama'nın PanamÃ¡ Oeste bölgesinde doğayla iç içe bir yaşama hazırlanır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/74/2204303404365eb9542c.jpg" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20260816160000 +0000" stop="20260816180000 +0000" channel="TLC.tr">
+    <title lang="tr">Kumsalın Ustaları</title>
+    <desc lang="tr">Yeni takımlar akıl hocalarıyla tanışıp salondan başlayarak bugüne kadarki en büyük sahil projelerini üstlenir. Kalamalar ilk turun galibini belirler.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/5/2204303414445eb9542c.jpg" />
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20260816180000 +0000" stop="20260816183000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Bir çift Florida Keys'te ailecek tatil yapabilecekleri ve aynı zamanda gelir sağlayacak bir ev arar. Her şeyin mükemmel olması için çabalanır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/29/2204303414525eb9542c.jpg" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+  </programme>
+  <programme start="20260816183000 +0000" stop="20260816190000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Sunucu Chris Krolow potansiyel alıcılarla birlikte tropik yazlıkların kralını arıyor, hedefleri ise özel adada bir malikane!</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/44/2204303424605eb9542c.jpg" />
+    <episode-num system="onscreen">S4 E15</episode-num>
+  </programme>
+  <programme start="20260816190000 +0000" stop="20260816193000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Bocas del Toro, Panama açıklarında özel bir ada almaya hazırlanan çift ıssız bir yerde yaşamaktan korkmaz.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/20/2204303424685eb9542c.jpg" />
+    <episode-num system="onscreen">S5 E3</episode-num>
+  </programme>
+  <programme start="20260816193000 +0000" stop="20260816200000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Bir çift Florida Keys'te ailecek tatil yapabilecekleri ve aynı zamanda gelir sağlayacak bir ev arar. Her şeyin mükemmel olması için çabalanır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/88/2204303434765eb9542c.jpg" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+  </programme>
+  <programme start="20260816200000 +0000" stop="20260816210000 +0000" channel="TLC.tr">
+    <title lang="tr">Bedenimde Bir Gün</title>
+    <desc lang="tr">Yeni protezler evden çıkamayan Zahra'ya umut verir. Mahogany'nin bacağı fil hastalığı yüzünden 40 kiloyu aşar. Joseph çenesiz doğar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/23/2204303434845eb9542c.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20260816210000 +0000" stop="20260816220000 +0000" channel="TLC.tr">
+    <title lang="tr">Paula Zahn İle Cinayet Dosyası</title>
+    <desc lang="tr">Lisedeki sevgililer günü dansı, güzel bir genç kızın erkek arkadaşının kollarından silah zoruyla kaçırılmasıyla dehşet dolu bir geceye dönüşür.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/61/2204302236395eb7f426.jpg" />
+    <episode-num system="onscreen">S12 E8</episode-num>
+  </programme>
+  <programme start="20260816220000 +0000" stop="20260816225500 +0000" channel="TLC.tr">
+    <title lang="tr">Paula Zahn İle Cinayet Dosyası</title>
+    <desc lang="tr">Kimliği belirsiz bir kadın kampüs dışındaki bir dairede ölü bulunur. Dehşet içindeki komşusu tüyler ürpertici hikayeyi anlatana kadar polis olayla ilgili hiçbir ipucu bulamaz.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/90/2204302236475eb7f426.jpg" />
+    <episode-num system="onscreen">S12 E9</episode-num>
+  </programme>
+  <programme start="20260816225500 +0000" stop="20260816234500 +0000" channel="TLC.tr">
+    <title lang="tr">Paula Zahn İle Cinayet Dosyası</title>
+    <desc lang="tr">Genç ve güzel bir kadının esrarengiz bir şekilde öldürülmesi üzerine polis iki potansiyel şüpheli üzerinde yoğunlaşır: Kadının yeni erkek arkadaşı ve saplantılı bir takipçi.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/29/2204302236555eb7f426.jpg" />
+    <episode-num system="onscreen">S12 E10</episode-num>
+  </programme>
+  <programme start="20260816234500 +0000" stop="20260817003000 +0000" channel="TLC.tr">
+    <title lang="tr">Tam Paçayı Kurtarıyordum Ki...</title>
+    <desc lang="tr">Kız arkadaşı ve erkek kardeşiyle bir tefeciyi soyan Conan, suç ortaklarıyla birlikte parmaklıklar ardına gönderiliyor. Conan kaçmayı başarıyor ama ne kadar süre saklanabilir ki?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/56/2204302246635eb7f426.jpg" />
+    <episode-num system="onscreen">S6 E71</episode-num>
+  </programme>
+  <programme start="20260817003000 +0000" stop="20260817011500 +0000" channel="TLC.tr">
+    <title lang="tr">Tam Paçayı Kurtarıyordum Ki...</title>
+    <desc lang="tr">Hırsızlıktan tutuklanan Robert, çalışma kampından kaçıyor ve geçinmek için yine hırsızlığa başlıyor. Eyaletler arasında gerçekleştirilen insan avı, bulunmasını sağlayabilecek mi?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/69/2204302246715eb7f426.jpg" />
+    <episode-num system="onscreen">S6 E72</episode-num>
+  </programme>
+  <programme start="20260817011500 +0000" stop="20260817020000 +0000" channel="TLC.tr">
+    <title lang="tr">Tam Paçayı Kurtarıyordum Ki...</title>
+    <desc lang="tr">Kendisine tacizde bulunan üvey babasını boğarak öldürüp, ömür boyu hapis cezasına çarptırılan 17 yaşındaki Randy Baggett, yıllar içinde iki kez hapisten kaçıyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/43/2204302246795eb7f426.jpg" />
+    <episode-num system="onscreen">S6 E68</episode-num>
+  </programme>
+  <programme start="20260817020000 +0000" stop="20260817022000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">Bir karı koca, Kendin Yap'çı sevgililere karşı. Listeden üç proje bulmak ve ardından atölyede dönüştürmek için bir saatleri ve 500 dolarları var.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/47/2204302256875eb7f426.jpg" />
+    <episode-num system="onscreen">S7 E5</episode-num>
+  </programme>
+  <programme start="20260817022000 +0000" stop="20260817024000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">Şık bir ikili, gizli mücevherleri bulmak ve dönüştürmek için arkadaşlarına karşı yarışır. Projeleri Rafine Tasarım, Şık Depolama ve Yeniden Sarılmış Tasarımdır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/11/2204302256955eb7f426.jpg" />
+    <episode-num system="onscreen">S7 E6</episode-num>
+  </programme>
+  <programme start="20260817024000 +0000" stop="20260817030000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">Bir çift deneyimli restoratör, kendine güvenen tasarım öğrencilerinden oluşan bir ekiple rekabet eder. Listeden özelleştirmek üzere üç proje bulmak için bir saatleri var.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/96/2204302267035eb7f426.jpg" />
+    <episode-num system="onscreen">S7 E7</episode-num>
+  </programme>
+  <programme start="20260817030000 +0000" stop="20260817033000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlak Avcıları Amerika</title>
+    <desc lang="tr">Bir Hava Kuvvetleri pilotu ve ailesi New Mexico'da dağların ve çölün buluştuğu, çok farklı iki iklim sunan bir bölgesine taşınır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/58/2204302267115eb7f426.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20260817033000 +0000" stop="20260817040000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlak Avcıları Amerika</title>
+    <desc lang="tr">Nişanlı bir çift Teksas'ta ilk evini almaya hazırlanır. Partnerlerden biri dev kertenkele koleksiyonu için yeterince büyük bir ev bulmaya öncelik verir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/83/2204302267195eb7f426.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20260817040000 +0000" stop="20260817043000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlak Avcıları Amerika</title>
+    <desc lang="tr">Oregon'dan Oklahoma'ya taşınan bir aile yeni bir ev arar. Ailenin babası 10 hektarlık eski arazisinin bir benzerini oluşturabileceği geniş arazisi olan bir yer ister.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/82/2204302277275eb7f426.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20260817043000 +0000" stop="20260817050000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlak Avcıları Amerika</title>
+    <desc lang="tr">Bekar bir anne ve oğlu New Jersey'de yeni bir ev arar. Bekar anne zorlu piyasa şartları ve ergen yaştaki seçici oğluna rağmen hayatta olduğu yere gelmeyi başarır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/3/2204302277355eb7f426.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20260817050000 +0000" stop="20260817053000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">Karayipli bir ikili, eşyalarını dönüştürmek için bir çift Long Island sanatçısına karşı. Bir takım bir makyaj masasını yıkarken diğeri bir TV dolabını dönüştürüyor!</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/95/2204302287435eb7f426.jpg" />
+    <episode-num system="onscreen">S8 E3</episode-num>
+  </programme>
+  <programme start="20260817053000 +0000" stop="20260817060000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">Bir çift alışverişçi, bit pazarında bulduklarını dönüştürmek için bir müzisyen ekibine karşı. Retro bir dolap ve bir bumerang masa bistro seti dönüştürürler.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/86/2204302287515eb7f426.jpg" />
+    <episode-num system="onscreen">S8 E4</episode-num>
+  </programme>
+  <programme start="20260817060000 +0000" stop="20260817063000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">Broadway müzik sanatçıları, bir Dönem Parçası, Tasarım Odaklı ve Doğaçlama Tasarım temalarını yansıtan üç öğeyi bulmak ve dönüştürmek için yarışıyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/81/2204302297595eb7f426.jpg" />
+    <episode-num system="onscreen">S8 E5</episode-num>
+  </programme>
+  <programme start="20260817063000 +0000" stop="20260817073000 +0000" channel="TLC.tr">
+    <title lang="tr">Market Oyunları</title>
+    <desc lang="tr">Şefler, beş yıldızlı deniz mahsulü yemeği pişirmeli, çevrimiçi bir hayranın ilham verdiği yeni bir oyun oynamalı ve en iyi burgerlerini yapmaya çalışmalıdır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/51/2204302297675eb7f426.jpg" />
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20260817073000 +0000" stop="20260817083000 +0000" channel="TLC.tr">
+    <title lang="tr">Bu Nasıl Otel!</title>
+    <desc lang="tr">Kötü durumdaki otelleri geliştirmeye gelince Anthony Melchiorri acımasızdır. Dünyanın her yerini dolaşır ve en kötü otelleri bile baştan aşağı değiştirir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/31/2204302297755eb7f426.jpg" />
+    <episode-num system="onscreen">S6 E11</episode-num>
+  </programme>
+  <programme start="20260817083000 +0000" stop="20260817093000 +0000" channel="TLC.tr">
+    <title lang="tr">Gelinliğe Evet De</title>
+    <desc lang="tr">Randy, Kleinfeld'deki danışmanların, elbiselerini seçerken gelinlere verdikleri destekleri - hem duygusal hemde stil olarak - tüm yönleri ile inceler.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/92/2204302297835eb7f426.jpg" />
+    <episode-num system="onscreen">S17 E11</episode-num>
+  </programme>
+  <programme start="20260817093000 +0000" stop="20260817103000 +0000" channel="TLC.tr">
+    <title lang="tr">Hayalimdeki Ev</title>
+    <desc lang="tr">Chip ve Joanna Gaines yıkık dökük evleri alıp insanların hayallerindeki evlere dönüştürüyorlar. Bu şekilde tüm semti canlandırıyorlar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/63/2204302307915eb7f426.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20260817103000 +0000" stop="20260817113000 +0000" channel="TLC.tr">
+    <title lang="tr">Hayalimdeki Ev</title>
+    <desc lang="tr">Chip ve Joanna Gaines yıkık dökük evleri alıp insanların hayallerindeki evlere dönüştürüyorlar. Bu şekilde tüm semti canlandırıyorlar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/13/2204302307995eb7f426.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20260817113000 +0000" stop="20260817123000 +0000" channel="TLC.tr">
+    <title lang="tr">Hayalimdeki Ev</title>
+    <desc lang="tr">Chip ve Joanna Gaines yıkık dökük evleri alıp insanların hayallerindeki evlere dönüştürüyorlar. Bu şekilde tüm semti canlandırıyorlar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/95/2204302318075eb7f426.jpg" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  <programme start="20260817123000 +0000" stop="20260817133000 +0000" channel="TLC.tr">
+    <title lang="tr">Kumsalın Ustaları</title>
+    <desc lang="tr">Yarışmacılar mutfak üzerinde çalışır. Ty, Sarah ve Mika takımları zafere taşımak için döner ama sadece tek bir takım 3.000 doların sahibi olabilir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/73/2204302318155eb7f426.jpg" />
+    <episode-num system="onscreen">S5 E2</episode-num>
+  </programme>
+  <programme start="20260817133000 +0000" stop="20260817140000 +0000" channel="TLC.tr">
+    <title lang="tr">Bütçe Dostu Rüya Evler</title>
+    <desc lang="tr">Michiganlı bir çift Kosta Rika'nın sakin ve tropik LimÃ³n ilçesinde uygun fiyatlı ve rüya gibi bir ev arar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/74/2204302328235eb7f426.jpg" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20260817140000 +0000" stop="20260817143000 +0000" channel="TLC.tr">
+    <title lang="tr">Bütçe Dostu Rüya Evler</title>
+    <desc lang="tr">Sahil hayatını keşfetmek isteyen iki arkadaş sörfçüler cenneti Puntarenas, Kosta Rika'da uygun fiyatlı ve rüya gibi bir ev arar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/16/2204302328315eb7f426.jpg" />
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20260817143000 +0000" stop="20260817150000 +0000" channel="TLC.tr">
+    <title lang="tr">Karayip Evleri</title>
+    <desc lang="tr">Pennsylvania'nın karını Anguilla'nın tropik suları ile takas etmek isteyen bir çift okyanus manzaralı ve modern tarzda bir ev arar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/0/2204302328395eb7f426.jpg" />
+    <episode-num system="onscreen">S16 E7</episode-num>
+  </programme>
+  <programme start="20260817150000 +0000" stop="20260817153000 +0000" channel="TLC.tr">
+    <title lang="tr">Karayip Evleri</title>
+    <desc lang="tr">Yeni evli bir çift hayatındaki yeni döneme St. Maarten'de başlamak ister. Partnerlerden biri masrafsız bir ev isterken diğeri tekne sahibi olmak ister.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/77/2204302328475eb7f426.jpg" />
+    <episode-num system="onscreen">S16 E8</episode-num>
+  </programme>
+  <programme start="20260817153000 +0000" stop="20260817160000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Sezonluk kiralanacak bir ev inşa etme hayali kuran bir aile bir tatil tesisi bulmak için Bahamalar'daki birkaç adayı dolaşır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/18/2204302338555eb7f426.jpg" />
+    <episode-num system="onscreen">S5 E5</episode-num>
+  </programme>
+  <programme start="20260817160000 +0000" stop="20260817163000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Palawan, Filipinler'de bir kaçamak adası sahibi olma hayali kuran bir baba ergen kızının yardımıyla gerçekçi kararlar almaya çalışır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/32/2204302338635eb7f426.jpg" />
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20260817163000 +0000" stop="20260817182000 +0000" channel="TLC.tr">
+    <title lang="tr">Direkt Temas</title>
+    <desc lang="tr">Rusya'da tutuklu olan eski bir ABD askerine bir kadını kurtarması karşılığında özgürlüğü teklif edilir ama bu teklif ölümcül bir oyundan ibarettir.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/1/2204302338695eb7f426.jpg" />
+  </programme>
+  <programme start="20260817182000 +0000" stop="20260817201000 +0000" channel="TLC.tr">
+    <title lang="tr">Direkt Temas</title>
+    <desc lang="tr">Rusya'da tutuklu olan eski bir ABD askerine bir kadını kurtarması karşılığında özgürlüğü teklif edilir ama bu teklif ölümcül bir oyundan ibarettir.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/43/2204302348745eb7f426.jpg" />
+  </programme>
+  <programme start="20260817201000 +0000" stop="20260817211000 +0000" channel="TLC.tr">
+    <title lang="tr">Paula Zahn İle Cinayet Dosyası</title>
+    <desc lang="tr">Bekar bir anneyi öldüren adamın yakalanması için başlatılan soruşturma, polisi tüyler ürpertici benzerliklere sahip bir diğer vahşi cinayetin failine götürebilir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/97/2204302348815eb7f426.jpg" />
+    <episode-num system="onscreen">S12 E11</episode-num>
+  </programme>
+  <programme start="20260817211000 +0000" stop="20260817221000 +0000" channel="TLC.tr">
+    <title lang="tr">Kayıp</title>
+    <desc lang="tr">21 yaşındaki Kortne Stouffer, arkadaşları ve komşularıyla bir tartışmadan sonra odasından kaybolur. Araştırmacılar bir takım ipuçlarını izlerler ancak genç kız bulunamaz.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/82/2204317569515eb88428.jpg" />
+    <episode-num system="onscreen">S8 E3</episode-num>
+  </programme>
+  <programme start="20260817221000 +0000" stop="20260817230500 +0000" channel="TLC.tr">
+    <title lang="tr">Tam Paçayı Kurtarıyordum Ki...</title>
+    <desc lang="tr">Kendisine tacizde bulunan üvey babasını boğarak öldürüp, ömür boyu hapis cezasına çarptırılan 17 yaşındaki Randy Baggett, yıllar içinde iki kez hapisten kaçıyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/61/2204317569595eb88428.jpg" />
+    <episode-num system="onscreen">S6 E68</episode-num>
+  </programme>
+  <programme start="20260817230500 +0000" stop="20260817235000 +0000" channel="TLC.tr">
+    <title lang="tr">Kötülük Yanıbaşımda</title>
+    <desc lang="tr">Patrick Bruce, neşeli ve hayat dolu ağabeyi Lance'e hayrandır. Ancak karanlık bir yola sapan Lance'i durdurmak için elinden bir şey gelmez.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/85/2204317579675eb88428.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20260817235000 +0000" stop="20260818001000 +0000" channel="TLC.tr">
+    <title lang="tr">Karayip Evleri</title>
+    <desc lang="tr">Punta Cana, Dominik Cumhuriyeti'nde yeni bir ev arayan Ohio'lu maceraperest bir çift tam teşekküllü modern bir ev ister.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/53/2204317579755eb88428.jpg" />
+    <episode-num system="onscreen">S16 E4</episode-num>
+  </programme>
+  <programme start="20260818001000 +0000" stop="20260818003000 +0000" channel="TLC.tr">
+    <title lang="tr">Karayip Evleri</title>
+    <desc lang="tr">Pennsylvania'nın karını Anguilla'nın tropik suları ile takas etmek isteyen bir çift okyanus manzaralı ve modern tarzda bir ev arar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/91/2204317589835eb88428.jpg" />
+    <episode-num system="onscreen">S16 E7</episode-num>
+  </programme>
+  <programme start="20260818003000 +0000" stop="20260818005000 +0000" channel="TLC.tr">
+    <title lang="tr">Karayip Evleri</title>
+    <desc lang="tr">Yeni evli bir çift hayatındaki yeni döneme St. Maarten'de başlamak ister. Partnerlerden biri masrafsız bir ev isterken diğeri tekne sahibi olmak ister.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/13/2204317589915eb88428.jpg" />
+    <episode-num system="onscreen">S16 E8</episode-num>
+  </programme>
+  <programme start="20260818005000 +0000" stop="20260818014000 +0000" channel="TLC.tr">
+    <title lang="tr">Bu Nasıl Otel!</title>
+    <desc lang="tr">Kötü durumdaki otelleri geliştirmeye gelince Anthony Melchiorri acımasızdır. Dünyanın her yerini dolaşır ve en kötü otelleri bile baştan aşağı değiştirir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/66/2204317589995eb88428.jpg" />
+    <episode-num system="onscreen">S6 E11</episode-num>
+  </programme>
+  <programme start="20260818014000 +0000" stop="20260818020000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Sezonluk kiralanacak bir ev inşa etme hayali kuran bir aile bir tatil tesisi bulmak için Bahamalar'daki birkaç adayı dolaşır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/45/2204317580075eb88428.jpg" />
+    <episode-num system="onscreen">S5 E5</episode-num>
+  </programme>
+  <programme start="20260818020000 +0000" stop="20260818022000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Palawan, Filipinler'de bir kaçamak adası sahibi olma hayali kuran bir baba ergen kızının yardımıyla gerçekçi kararlar almaya çalışır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/85/2204317590155eb88428.jpg" />
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20260818022000 +0000" stop="20260818030000 +0000" channel="TLC.tr">
+    <title lang="tr">Gelinliğe Evet De</title>
+    <desc lang="tr">Randy, Kleinfeld'deki danışmanların, elbiselerini seçerken gelinlere verdikleri destekleri - hem duygusal hemde stil olarak - tüm yönleri ile inceler.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/5/2204317590235eb88428.jpg" />
+    <episode-num system="onscreen">S17 E11</episode-num>
+  </programme>
+  <programme start="20260818030000 +0000" stop="20260818033000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlak Avcıları Amerika</title>
+    <desc lang="tr">Ohio'dan San Antonio'ya taşınan bir çift yeni bir ev arar. Şehir merkezinde büyüyen çift büyük hayallerle yola çıkar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/63/2204317600315eb88428.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20260818033000 +0000" stop="20260818040000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlak Avcıları</title>
+    <desc lang="tr">Dünyanın dört bir yanındaki ev arayanlar, başka ülkelerdeki emlak dünyasını dolaşırken bir dizi mimari tarz keşfediyor. Nereden ev almayı seçecekler?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/78/2204317600395eb88428.jpg" />
+    <episode-num system="onscreen">S54 E7</episode-num>
+  </programme>
+  <programme start="20260818040000 +0000" stop="20260818043000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlak Avcıları</title>
+    <desc lang="tr">Dünyanın dört bir yanındaki ev arayanlar, başka ülkelerdeki emlak dünyasını dolaşırken bir dizi mimari tarz keşfediyor. Nereden ev almayı seçecekler?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/65/2204317600475eb88428.jpg" />
+    <episode-num system="onscreen">S54 E8</episode-num>
+  </programme>
+  <programme start="20260818043000 +0000" stop="20260818050000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlak Avcıları</title>
+    <desc lang="tr">Dünyanın dört bir yanındaki ev arayanlar, başka ülkelerdeki emlak dünyasını dolaşırken bir dizi mimari tarz keşfediyor. Nereden ev almayı seçecekler?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/4/2204317610555eb88428.jpg" />
+    <episode-num system="onscreen">S54 E9</episode-num>
+  </programme>
+  <programme start="20260818050000 +0000" stop="20260818053000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">Karı-koca bir ekip, tahta kart kataloğu ve motosiklet çamurlukları da dahil olmak üzere öğeleri bulmak ve dönüştürmek için bir baba-kız ikilisine karşı - hem de yağışlı havada -.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/6/2204317610635eb88428.jpg" />
+    <episode-num system="onscreen">S8 E6</episode-num>
+  </programme>
+  <programme start="20260818053000 +0000" stop="20260818060000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">Tek yumurta ikizleri, çöpleri bulup hazineye dönüştürürken kayınbiraderlere karşı savaşır. Makyaj masaları mı yoksa aydınlatma armatürleri mi kazanan öğeler olacak?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/39/2204317610715eb88428.jpg" />
+    <episode-num system="onscreen">S8 E7</episode-num>
+  </programme>
+  <programme start="20260818060000 +0000" stop="20260818063000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">En iyi eşyaları kimin bulup dönüştürebileceğini görmek için bu kraliyet savaşında, kendilerini 'kazanmanın kralları' ile 'kazanmanın kraliçeleri' ilan eden takımlar karşı karşıya.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/80/2204317620795eb88428.jpg" />
+    <episode-num system="onscreen">S8 E8</episode-num>
+  </programme>
+  <programme start="20260818063000 +0000" stop="20260818073000 +0000" channel="TLC.tr">
+    <title lang="tr">Market Oyunları</title>
+    <desc lang="tr">Üç şef hafif bir yemek dener ve bir kızartma ziyafetinin çok ağır olmamasını diler. Sonrasında, şiş yaparlar ve akşam yemeği bütçesi için Gıda Çarkını kullanırlar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/22/2204317620875eb88428.jpg" />
+    <episode-num system="onscreen">S3 E12</episode-num>
+  </programme>
+  <programme start="20260818073000 +0000" stop="20260818083000 +0000" channel="TLC.tr">
+    <title lang="tr">Bu Nasıl Otel!</title>
+    <desc lang="tr">Kötü durumdaki otelleri geliştirmeye gelince Anthony Melchiorri acımasızdır. Dünyanın her yerini dolaşır ve en kötü otelleri bile baştan aşağı değiştirir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/54/2204317620955eb88428.jpg" />
+    <episode-num system="onscreen">S6 E12</episode-num>
+  </programme>
+  <programme start="20260818083000 +0000" stop="20260818093000 +0000" channel="TLC.tr">
+    <title lang="tr">Gelinliğe Evet De</title>
+    <desc lang="tr">Dünyanın en büyük gelinlik mağazası Kleinfield's'ın iç dünyası ekranlarınıza geliyor. Randy ve ekibi, müstakbel gelinlere yeni danışmanları ve yeni gelinlikleri tanıtıyor!</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/70/2204317631035eb88428.jpg" />
+    <episode-num system="onscreen">S16 E1</episode-num>
+  </programme>
+  <programme start="20260818093000 +0000" stop="20260818103000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlakçı Kardeşler: Yuvamız</title>
+    <desc lang="tr">Komşularının yardımıyla bir sağlık sorununu aşan bir çift evinde depolama alanı, akış ve işlevselliğe ihtiyaç duyuyor. Drew ve Jonathan evi yenilemek için çalışıyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/56/2204317631115eb88428.jpg" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+  </programme>
+  <programme start="20260818103000 +0000" stop="20260818113000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlakçı Kardeşler: Yuvamız</title>
+    <desc lang="tr">Drew ve Jonathan, bir çiftin geleneksel ve modern zevklerini harmanlayarak partnerlerden birinin eski mahallesinde satın aldıkları evin birkaç alanını yeniden tasarlıyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/17/2204317641195eb88428.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20260818113000 +0000" stop="20260818123000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlakçı Kardeşler: Yuvamız</title>
+    <desc lang="tr">Çocuklarını kendi evinde büyütmek isteyen çift üç kişilik bir aileyken yaşadıkları eve beş kişi olarak sığamıyor. Kardeşler alanları yeniden tasarlayarak yeni bir ev yaratıyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/57/2204317641275eb88428.jpg" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20260818123000 +0000" stop="20260818130000 +0000" channel="TLC.tr">
+    <title lang="tr">Tombul Gelinlerin Butiği</title>
+    <desc lang="tr">Rianne'in hayalindeki elbiseyi denemesinden bu yana bir yıl geçer. Şimdi, kilo almış olmaktan korkar. Jo ve Al gelinin sert çevresiyle karşı karşıyadır:  'Kent'in Kardashian'ları'!</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/57/2204297332145eb9b42e.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260818130000 +0000" stop="20260818133000 +0000" channel="TLC.tr">
+    <title lang="tr">Tombul Gelinlerin Butiği</title>
+    <desc lang="tr">Vücudun mükemmel olmamasıyla barışık olmayı savunan Christine sosyal medyada kıvrımlarını sergiler. Elbise tasarımına zamanı kalmayan Jo ve Al mükemmel olanı hazır bulabilecek mi?</desc>
+    <category lang="tr">Yaşam</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20260818133000 +0000" stop="20260818143000 +0000" channel="TLC.tr">
+    <title lang="tr">Pastanem Tehlikede</title>
+    <desc lang="tr">Kerry, Schubert'ın Pastanesi'ne yardım etmek için Nazareth, Pennsylvania'ya gider. Uzun mesai yüzünden motivasyonunu kaybeden işletme sahibinin tutkusunu canlandırmaya çalışır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/1/2204317641355eb88428.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20260818143000 +0000" stop="20260818150000 +0000" channel="TLC.tr">
+    <title lang="tr">Karayip Evleri</title>
+    <desc lang="tr">Utila, Honduras'a taşınmak isteyen Virginia'lı bir çift ziyarete gelen akrabalarının ve arkadaşlarının konaklayabileceği büyüklükte, açık kat planı olan bir ev arar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/65/2204317651435eb88428.jpg" />
+    <episode-num system="onscreen">S16 E9</episode-num>
+  </programme>
+  <programme start="20260818150000 +0000" stop="20260818153000 +0000" channel="TLC.tr">
+    <title lang="tr">Karayip Evleri</title>
+    <desc lang="tr">Güneşli Roatan, Honduras'ta rüya gibi bir ev arayan New Jersey'li bir çift plaja direkt erişimi ve büyük balkonu olan bir ev ister.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/85/2204317651515eb88428.jpg" />
+    <episode-num system="onscreen">S16 E10</episode-num>
+  </programme>
+  <programme start="20260818153000 +0000" stop="20260818160000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Bir çift Belize'de günlük kaçamak yapabilecekleri ve gelecekteki projeler için potansiyeli olan bir ada satın almak ister.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/8/2204317651595eb88428.jpg" />
+    <episode-num system="onscreen">S5 E7</episode-num>
+  </programme>
+  <programme start="20260818160000 +0000" stop="20260818163000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Bir gayrimenkul uzmanı ve kızı Florida Keys'te bir ada satın almak ister. Genç kadın mükemmel ada arayışına rahat bir şekilde yaklaşır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/44/2204317651675eb88428.jpg" />
+    <episode-num system="onscreen">S5 E8</episode-num>
+  </programme>
+  <programme start="20260818163000 +0000" stop="20260818183000 +0000" channel="TLC.tr">
+    <title lang="tr">Suç Ortağı</title>
+    <desc lang="tr">Cezaevinden yeni çıkan eski bir hırsızın kaçırılan kızını ölümden kurtarmak için 12 saat içinde 10 milyon dolar bulması gerekir.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/50/2204317661735eb88428.jpg" />
+  </programme>
+  <programme start="20260818183000 +0000" stop="20260818203000 +0000" channel="TLC.tr">
+    <title lang="tr">Suç Ortağı</title>
+    <desc lang="tr">Cezaevinden yeni çıkan eski bir hırsızın kaçırılan kızını ölümden kurtarmak için 12 saat içinde 10 milyon dolar bulması gerekir.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/13/2204317661785eb88428.jpg" />
+  </programme>
+  <programme start="20260818203000 +0000" stop="20260818213000 +0000" channel="TLC.tr">
+    <title lang="tr">Paula Zahn İle Cinayet Dosyası</title>
+    <desc lang="tr">Üniversiteli bir genç kız ortadan kaybolunca ailesi onu bulmak için umutsuz bir araştırma başlatır. Keşfettikleri şey hayatlarını sonsuza dek değiştirecektir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/55/2204317661855eb88428.jpg" />
+    <episode-num system="onscreen">S12 E12</episode-num>
+  </programme>
+  <programme start="20260818213000 +0000" stop="20260818223000 +0000" channel="TLC.tr">
+    <title lang="tr">Kayıp</title>
+    <desc lang="tr">20 yaşındaki Bear Diaz şeker hastasıdır. Bir gece eşyalarıyla ortadan kaybolduğunda soruşturmacılar şüphelenir. Bu kayıp olayı başka kayıp olaylarıyla ilişkili midir?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/76/2204323790315eb9542c.jpg" />
+    <episode-num system="onscreen">S8 E4</episode-num>
+  </programme>
+  <programme start="20260818223000 +0000" stop="20260818232500 +0000" channel="TLC.tr">
+    <title lang="tr">Tam Paçayı Kurtarıyordum Ki...</title>
+    <desc lang="tr">Bu faillerin hikayeleri farklı olabilir ama hepsinin gerekçesi aynı: Hapisten uzak durmak ve kaçak bir hayat yaşamak.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/25/2204323790395eb9542c.jpg" />
+    <episode-num system="onscreen">S6 E69</episode-num>
+  </programme>
+  <programme start="20260818232500 +0000" stop="20260819001000 +0000" channel="TLC.tr">
+    <title lang="tr">Kötülük Yanıbaşımda</title>
+    <desc lang="tr">Domeneka gerçek aşkı erkek arkadaşı Michael'da bulduğuna inanır. Michael gerçek yüzünü gösterince Domeneka onun sıradaki hedefi olacağından korkar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/56/2204323790475eb9542c.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20260819001000 +0000" stop="20260819003500 +0000" channel="TLC.tr">
+    <title lang="tr">Karayip Evleri</title>
+    <desc lang="tr">Utila, Honduras'a taşınmak isteyen Virginia'lı bir çift ziyarete gelen akrabalarının ve arkadaşlarının konaklayabileceği büyüklükte, açık kat planı olan bir ev arar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/52/2204323790555eb9542c.jpg" />
+    <episode-num system="onscreen">S16 E9</episode-num>
+  </programme>
+  <programme start="20260819003500 +0000" stop="20260819005500 +0000" channel="TLC.tr">
+    <title lang="tr">Karayip Evleri</title>
+    <desc lang="tr">Güneşli Roatan, Honduras'ta rüya gibi bir ev arayan New Jersey'li bir çift plaja direkt erişimi ve büyük balkonu olan bir ev ister.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/6/2204323800635eb9542c.jpg" />
+    <episode-num system="onscreen">S16 E10</episode-num>
+  </programme>
+  <programme start="20260819005500 +0000" stop="20260819014000 +0000" channel="TLC.tr">
+    <title lang="tr">Bu Nasıl Otel!</title>
+    <desc lang="tr">Kötü durumdaki otelleri geliştirmeye gelince Anthony Melchiorri acımasızdır. Dünyanın her yerini dolaşır ve en kötü otelleri bile baştan aşağı değiştirir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/11/2204323800715eb9542c.jpg" />
+    <episode-num system="onscreen">S6 E12</episode-num>
+  </programme>
+  <programme start="20260819014000 +0000" stop="20260819020000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Bir çift Belize'de günlük kaçamak yapabilecekleri ve gelecekteki projeler için potansiyeli olan bir ada satın almak ister.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/47/2204323800795eb9542c.jpg" />
+    <episode-num system="onscreen">S5 E7</episode-num>
+  </programme>
+  <programme start="20260819020000 +0000" stop="20260819022000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Bir gayrimenkul uzmanı ve kızı Florida Keys'te bir ada satın almak ister. Genç kadın mükemmel ada arayışına rahat bir şekilde yaklaşır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/18/2204323810875eb9542c.jpg" />
+    <episode-num system="onscreen">S5 E8</episode-num>
+  </programme>
+  <programme start="20260819022000 +0000" stop="20260819030000 +0000" channel="TLC.tr">
+    <title lang="tr">Gelinliğe Evet De</title>
+    <desc lang="tr">Dünyanın en büyük gelinlik mağazası Kleinfield's'ın iç dünyası ekranlarınıza geliyor. Randy ve ekibi, müstakbel gelinlere yeni danışmanları ve yeni gelinlikleri tanıtıyor!</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/52/2204323810955eb9542c.jpg" />
+    <episode-num system="onscreen">S16 E1</episode-num>
+  </programme>
+  <programme start="20260819030000 +0000" stop="20260819033000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlak Avcıları</title>
+    <desc lang="tr">Dünyanın dört bir yanındaki ev arayanlar, başka ülkelerdeki emlak dünyasını dolaşırken bir dizi mimari tarz keşfediyor. Nereden ev almayı seçecekler?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/14/2204323821035eb9542c.jpg" />
+    <episode-num system="onscreen">S54 E10</episode-num>
+  </programme>
+  <programme start="20260819033000 +0000" stop="20260819040000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlak Avcıları</title>
+    <desc lang="tr">Dünyanın dört bir yanındaki ev arayanlar, başka ülkelerdeki emlak dünyasını dolaşırken bir dizi mimari tarz keşfediyor. Nereden ev almayı seçecekler?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/9/2204323821115eb9542c.jpg" />
+    <episode-num system="onscreen">S54 E11</episode-num>
+  </programme>
+  <programme start="20260819040000 +0000" stop="20260819043000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlak Avcıları</title>
+    <desc lang="tr">Dünyanın dört bir yanındaki ev arayanlar, başka ülkelerdeki emlak dünyasını dolaşırken bir dizi mimari tarz keşfediyor. Nereden ev almayı seçecekler?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/77/2204323821195eb9542c.jpg" />
+    <episode-num system="onscreen">S54 E12</episode-num>
+  </programme>
+  <programme start="20260819043000 +0000" stop="20260819050000 +0000" channel="TLC.tr">
+    <title lang="tr">Emlak Avcıları</title>
+    <desc lang="tr">Dünyanın dört bir yanındaki ev arayanlar, başka ülkelerdeki emlak dünyasını dolaşırken bir dizi mimari tarz keşfediyor. Nereden ev almayı seçecekler?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/79/2204323831275eb9542c.jpg" />
+    <episode-num system="onscreen">S54 E13</episode-num>
+  </programme>
+  <programme start="20260819050000 +0000" stop="20260819053000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">Kendine güvenen kocalar rekabetçi eşleriyle kapışırken bu yarışma aile içi bir hesaplaşmaya dönüşüyor. En iyi eşyaları kim bulacak ve dönüştürecek?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/64/2204323831355eb9542c.jpg" />
+    <episode-num system="onscreen">S8 E9</episode-num>
+  </programme>
+  <programme start="20260819053000 +0000" stop="20260819060000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">İki anne-oğul ikilisi, bu bit pazarı yarışmasında kıyasıya mücadele eder. Metal abajur çerçeveleri mi yoksa ahşap şeker kalıpları mı daha başarılı olacak?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/8/2204323831435eb9542c.jpg" />
+    <episode-num system="onscreen">S8 E10</episode-num>
+  </programme>
+  <programme start="20260819060000 +0000" stop="20260819063000 +0000" channel="TLC.tr">
+    <title lang="tr">Bit Pazarı Harikaları</title>
+    <desc lang="tr">Şık kız kardeşler, bit pazarındaki buluntuları kara dönüştürmek için deneyimli alıcılara karşı yarışıyor. Listede paçavradan harikaya ve sadece zen temaları var.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/2/2204323831515eb9542c.jpg" />
+    <episode-num system="onscreen">S8 E11</episode-num>
+  </programme>
+  <programme start="20260819063000 +0000" stop="20260819073000 +0000" channel="TLC.tr">
+    <title lang="tr">Market Oyunları</title>
+    <desc lang="tr">Cadılar Bayramı ve şefler ürkütücü bir 'kızıl ışık spesiyalitesi' ile doyurucu bir öğle yemeği hazırlar, tatlılarla lezzetli bir ikram yaratır ve kemik iliği ile bir yemek yapar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/28/2204323841595eb9542c.jpg" />
+    <episode-num system="onscreen">S3 E13</episode-num>
+  </programme>
+  <programme start="20260819073000 +0000" stop="20260819083000 +0000" channel="TLC.tr">
+    <title lang="tr">Bu Nasıl Otel!</title>
+    <desc lang="tr">Kötü durumdaki otelleri geliştirmeye gelince Anthony Melchiorri acımasızdır. Dünyanın her yerini dolaşır ve en kötü otelleri bile baştan aşağı değiştirir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/58/2204323841675eb9542c.jpg" />
+    <episode-num system="onscreen">S6 E13</episode-num>
+  </programme>
+  <programme start="20260819083000 +0000" stop="20260819093000 +0000" channel="TLC.tr">
+    <title lang="tr">Gelinliğe Evet De</title>
+    <desc lang="tr">Dünyanın en büyük gelinlik mağazası olan, Manhattan'daki Kleinfield's'da Randy ve ekibi, utangaç ve müstakbel gelinlere yeni danışmanları ve yeni gelinlikleri tanıtıyor!</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/11/2204323851755eb9542c.jpg" />
+    <episode-num system="onscreen">S16 E2</episode-num>
+  </programme>
+  <programme start="20260819093000 +0000" stop="20260819103000 +0000" channel="TLC.tr">
+    <title lang="tr">Harabeden Harikaya</title>
+    <desc lang="tr">Mina ve Karen, Indianapolis şehir merkezinin yakınında şirin görünen ama kötü kokan küçük bir evi yeniliyor! Yönetmeliklere uymayınca büyük sorunlarla karşı karşıya kalıyorlar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/31/2204323851835eb9542c.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20260819103000 +0000" stop="20260819113000 +0000" channel="TLC.tr">
+    <title lang="tr">Harabeden Harikaya</title>
+    <desc lang="tr">Karen ve Mina özel bir projeyle uğraşır: Karen'ın yeni ahır şeklindeki misafirhanesi. Ancak inşaat başlamadan önce belediyeden kötü haberler alırlar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/11/2204323861915eb9542c.jpg" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20260819113000 +0000" stop="20260819123000 +0000" channel="TLC.tr">
+    <title lang="tr">Harabeden Harikaya</title>
+    <desc lang="tr">Mina ve Karen popüler bir bölgede eski bir konakta çalışırlar. Kuru çürüklük ve termitleri bulduktan sonra, tavanda bulunan değerli bir hazine onlara umut verir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/92/2204323861995eb9542c.jpg" />
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20260819123000 +0000" stop="20260819133000 +0000" channel="TLC.tr">
+    <title lang="tr">Evliliğe 90 Gün: İngiltere</title>
+    <desc lang="tr">Shorna'nın Adnand'a olan inancı hızla tükenir. Zena'nın dans tutkusu başını belaya sokar. Anglofil Ali İngiltere'ye varmak için dahice bir plan yapar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/18/2204323872075eb9542c.jpg" />
+    <episode-num system="onscreen">S4 E7</episode-num>
+  </programme>
+  <programme start="20260819133000 +0000" stop="20260819143000 +0000" channel="TLC.tr">
+    <title lang="tr">Johnston Ailesi</title>
+    <desc lang="tr">Amber ailenin alerjisi için çözüm arar. Eski sevgilisinin yeni bir kızla olan fotoğrafını sosyal medyada gören Anna'nın canı sıkılır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/15/2204323872135eb9542c.jpg" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20260819143000 +0000" stop="20260819150000 +0000" channel="TLC.tr">
+    <title lang="tr">Karayip Evleri</title>
+    <desc lang="tr">İnternet üzerinden tanışıp tiki kokteyllerine olan ortak sevgileriyle yakınlaşan, birkaç aydır birlikte olan bir çift birlikte St. John'a taşınmaya karar verir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/28/2204323872205eb9542c.jpg" />
+    <episode-num system="onscreen">S16 E11</episode-num>
+  </programme>
+  <programme start="20260819150000 +0000" stop="20260819153000 +0000" channel="TLC.tr">
+    <title lang="tr">Karayip Evleri</title>
+    <desc lang="tr">Aruba'da yeni bir hayata başlayan bir çift havuzu, açık kat planı ve küçük oğulları için büyük bir bahçesi olan küçük ölçekli bir ev arar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/67/2204323882285eb9542c.jpg" />
+    <episode-num system="onscreen">S16 E12</episode-num>
+  </programme>
+  <programme start="20260819153000 +0000" stop="20260819160000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Dünyanın dört bir yanındaki adaları gezen bir çift Belize'de kendi adasını satın almak ve gezilerinden edindikleri fikirleri hayata geçirmek ister.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/45/2204323882365eb9542c.jpg" />
+    <episode-num system="onscreen">S5 E9</episode-num>
+  </programme>
+  <programme start="20260819160000 +0000" stop="20260819163000 +0000" channel="TLC.tr">
+    <title lang="tr">Ada Avcıları</title>
+    <desc lang="tr">Yıllarca tatil için Vanuatu adalarına giden bir çift büyük Espiritu Santo adası yakınlarında cennetten bir köşe edinmek ister.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/34/2204323882445eb9542c.jpg" />
+    <episode-num system="onscreen">S5 E10</episode-num>
+  </programme>
+  <programme start="20260819163000 +0000" stop="20260819183000 +0000" channel="TLC.tr">
+    <title lang="tr">Yenilmez 3</title>
+    <desc lang="tr">Dünyanın en azılı suçlularının bulunduğu cezaevinden canlı çıkmanın tek yolu kuralları olmayan ölüm maçını kazanmaktır.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/44/2204323882505eb9542c.jpg" />
+  </programme>
+  <programme start="20260819183000 +0000" stop="20260819203000 +0000" channel="TLC.tr">
+    <title lang="tr">Yenilmez 3</title>
+    <desc lang="tr">Dünyanın en azılı suçlularının bulunduğu cezaevinden canlı çıkmanın tek yolu kuralları olmayan ölüm maçını kazanmaktır.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/97/2204323892555eb9542c.jpg" />
+  </programme>
+  <programme start="20260819203000 +0000" stop="20260819213000 +0000" channel="TLC.tr">
+    <title lang="tr">Paula Zahn İle Cinayet Dosyası</title>
+    <desc lang="tr">Öldürülen bir gencin cesedi gizemli bir şekilde Iowa kırsalında ortaya çıkar. Küçücük bir ipucu, katili adalete teslim etmeye yetecek mi?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/89/2204323892625eb9542c.jpg" />
+    <episode-num system="onscreen">S12 E13</episode-num>
+  </programme>
+  <programme start="20260819213000 +0000" stop="20260819223000 +0000" channel="TLC.tr">
+    <title lang="tr">Kayıp</title>
+    <desc lang="tr">15 yaşındaki Kayla Berg bir gece çıktıktan sonra eve dönmez. Sevdikleri, onun arkadaşlarıyla kaldığını düşünür. Altı gün sonra son bulunduğu mekan şüpheleri üzerine çeker.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/59/2204296486685eb9542c.jpg" />
+    <episode-num system="onscreen">S8 E5</episode-num>
+  </programme>
+  <programme start="20260819223000 +0000" stop="20260819232500 +0000" channel="TLC.tr">
+    <title lang="tr">Tam Paçayı Kurtarıyordum Ki...</title>
+    <desc lang="tr">Cinayete teşebbüsten yargılanan Kylen jüri tarafından suçsuz bulununca yeni bir kimliğe bürünüp eski suçlu alışkanlıklarına geri dönüyor. Acaba ikinci kez paçayı kurtarabilecek mi?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/96/2204296496765eb9542c.jpg" />
+    <episode-num system="onscreen">S6 E70</episode-num>
+  </programme>
+  <programme start="20260819232500 +0000" stop="20260820001000 +0000" channel="TLC.tr">
+    <title lang="tr">Kötülük Yanıbaşımda</title>
+    <desc lang="tr">Deon'un üvey babası Edward aşırı kontrolcü biridir. Deon'un annesi onu terk edince, Edward ailenin kontrolünü geri almak için ölümcül bir plan yapar.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/17/2204296496845eb9542c.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <channel id="DMAX.tr">
+    <display-name>DMAX</display-name>
+    <display-name lang="tr">DMAX HD</display-name>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20180317/001300/001300000008479147/5c2c1b13-5607-4237-baad-79b43ed867d5.png" />
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20180317/001300/001300000008479147/5c2c1b13-5607-4237-baad-79b43ed867d5.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801837556.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801837556.png" />
+    <url>http://www.tvplus.com.tr</url>
+  </channel>
+  <programme start="20260816000000 +0000" stop="20260816004500 +0000" channel="DMAX.tr">
+    <title lang="tr">Son Ormancı</title>
+    <desc lang="tr">Borç batağındaki Jared, işini sürdürmek ve çalışanlarının maaşlarını ödeyebilmek için mücadele ederken, yüzen kamp her an batabilir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/5/2204287768195eb88428.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20260816004500 +0000" stop="20260816013000 +0000" channel="DMAX.tr">
+    <title lang="tr">Dinozor Avcıları</title>
+    <desc lang="tr">Montanalı çiftçi Clayton ailesinin arazisinde eşine az rastlanan ve değerli bir fosil bulmuş olabilir. Wyoming'de ise Mike ve oğlu bir triceratops boynuzu buluyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/89/2204287768255eb88428.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260816013000 +0000" stop="20260816021500 +0000" channel="DMAX.tr">
+    <title lang="tr">Dinozor Avcıları</title>
+    <desc lang="tr">Clayton, Montana'daki çiftliğinde eşine az rastlanan etobur dinozor fosili kazısına devam ediyor. Wyoming'de ise Mike ve Jake değerli T-Rex fosillerini satmaya hazırlanıyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/51/2204287768305eb88428.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20260816021500 +0000" stop="20260816023500 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılır?</title>
+    <desc lang="tr">Binlerce ton greyfurt nasıl toplanır ve nasıl işlenir? Ve her yıl milyonlarca parça bagaj taşıyan döner bantlar nasıl yapılır?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/78/2204287778375eb88428.jpg" />
+    <episode-num system="onscreen">S12 E7</episode-num>
+  </programme>
+  <programme start="20260816023500 +0000" stop="20260816030000 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılır?</title>
+    <desc lang="tr">Dünyanın en iyi arp telleri nasıl üretilir? Çatılara açılan pencereler nasıl yapılır? Ve gofrete benzeyen Belçika gözlemeleri nasıl yapılır?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/19/2204287778455eb88428.jpg" />
+    <episode-num system="onscreen">S12 E8</episode-num>
+  </programme>
+  <programme start="20260816030000 +0000" stop="20260816033000 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılır?</title>
+    <desc lang="tr">Bir robot çiftliği nasıl yönetilir? Bir defada 30 ton keresteyi kaldırabilen bir makine nasıl yapılır? Ve dünyanın en kıymetli piyanosu nasıl nakledilir?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/44/2204287778535eb88428.jpg" />
+    <episode-num system="onscreen">S12 E10</episode-num>
+  </programme>
+  <programme start="20260816033000 +0000" stop="20260816040000 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılır?</title>
+    <desc lang="tr">Devasa bambu saplarından yüksek bir inşaat iskelesi nasıl yapılır? Ve havai fişeklerin kırmızı yanmasını sağlayan maden yerden nasıl çıkartılır?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/94/2204287778615eb88428.jpg" />
+    <episode-num system="onscreen">S12 E11</episode-num>
+  </programme>
+  <programme start="20260816040000 +0000" stop="20260816050500 +0000" channel="DMAX.tr">
+    <title lang="tr">Sürpriz Buluşlar</title>
+    <desc lang="tr">İnsanların her gün kullandığı ve nihayetinde dünyayı değiştiren müthiş icatlara öncülük eden hatalara, aksiliklere ve başarısızlıklara ilginç bir bakış!</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/93/2204287788695eb88428.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260816050500 +0000" stop="20260816055500 +0000" channel="DMAX.tr">
+    <title lang="tr">Havalı Havuzlar</title>
+    <desc lang="tr">Programda dünyanın en ekstrem ve en nefes kesici havuzları ekranlarınıza geliyor. Arizona'da, 360 derecelik sonsuzluk çizgisine sahip ve gizli saunası olan bir havuz ele alınıyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/75/2204287788755eb88428.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20260816055500 +0000" stop="20260816065000 +0000" channel="DMAX.tr">
+    <title lang="tr">Havalı Havuzlar</title>
+    <desc lang="tr">Programda dünyanın en ekstrem ve en nefes kesici havuzları ekranlarınıza geliyor. Okanagan gölüne bakan 100  metre  sınıra sahip bir Kanada havuzu ele alınıyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/45/2204287798805eb88428.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20260816065000 +0000" stop="20260816071700 +0000" channel="DMAX.tr">
+    <title lang="tr">Antika Avcıları</title>
+    <desc lang="tr">Bir başka müzayedede Ton, 1920'lerden, muhtemelen Al Capone tarafından kaçakçılığı yapılmış yasaklı bir viski bulur. Ton şişeyi satacak mı, yoksa açacak mı?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/4/2204287798875eb88428.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20260816071700 +0000" stop="20260816074500 +0000" channel="DMAX.tr">
+    <title lang="tr">Antika Avcıları</title>
+    <desc lang="tr">Ton ile Allen Kaliforniya'daki bir müzayede, 1940'lardan bir atari salonu oyunu, 1901'den bir Winchester av tüfeği ve antika bir yay bulurlar.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/66/2204287798955eb88428.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20260816074500 +0000" stop="20260816084000 +0000" channel="DMAX.tr">
+    <title lang="tr">Antika Avcıları: En İyiler</title>
+    <desc lang="tr">Ton ve Allen'ın en zorlu görevlerine atılarak seçkin bir üst düzey müzayedede bir saat içinde kâra geçmeye çalışmasıyla birlikte gerginlik artıyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/62/2204287809015eb88428.jpg" />
+  </programme>
+  <programme start="20260816084000 +0000" stop="20260816090700 +0000" channel="DMAX.tr">
+    <title lang="tr">İkinci El Kralları</title>
+    <desc lang="tr">Arka arkaya değersiz ürünleri dükkâna getiren bir müşteri çalışanların sabrını sınasa da özel üretim bir spor arabayı rehin etmek istediğinde Rich'in gözleri parlıyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/83/2204287809085eb88428.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20260816090700 +0000" stop="20260816093500 +0000" channel="DMAX.tr">
+    <title lang="tr">İkinci El Kralları</title>
+    <desc lang="tr">Ashley'nin hararetli bir pazarlığı bölmesi Les'i öfkeden deliye çeviriyor. Fahiş fiyatı olan antika bir yarış arabası Les'in aklını çeliyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/91/2204287809165eb88428.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20260816093500 +0000" stop="20260816100200 +0000" channel="DMAX.tr">
+    <title lang="tr">İkinci El Kralları</title>
+    <desc lang="tr">Bir müşteri eşine ender rastlanan bir maymunun kürkünden yapıldığını iddia ettiği paltoyu satmak istiyor. Les'in meydan okuması karşısında Seth'in kendini kanıtlaması gerekiyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/49/2204287809245eb88428.jpg" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20260816100200 +0000" stop="20260816103000 +0000" channel="DMAX.tr">
+    <title lang="tr">İkinci El Kralları</title>
+    <desc lang="tr">Kürk paltosu yırtılan yaşlı bir kadın pompalı tüfekle Seth'i tehdit ediyor. Les ise antika bir oyun konsolu için pazarlık yapıyor ve cazip bir altın satışıyla ilgileniyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/43/2204287819325eb88428.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20260816103000 +0000" stop="20260816113000 +0000" channel="DMAX.tr">
+    <title lang="tr">Tozlu Servet</title>
+    <desc lang="tr">Matt'in ekibi tulumları giyerek girdiği fare dolu evin her odasında nakit para bulmayı bekler, tabii fareler paraları yememişse.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/89/2204287819405eb88428.jpg" />
+    <episode-num system="onscreen">S2 E15</episode-num>
+  </programme>
+  <programme start="20260816113000 +0000" stop="20260816123000 +0000" channel="DMAX.tr">
+    <title lang="tr">Tozlu Servet</title>
+    <desc lang="tr">Matt ve ekibi, tekneler, klasik motosikletler ve berber malzemeleri satmak için işe koyulur. Sürpriz bir Magic Johnson parçası iyi kazandırabilir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/84/2204287829485eb88428.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20260816123000 +0000" stop="20260816130000 +0000" channel="DMAX.tr">
+    <title lang="tr">Unutulmuş Hazineler</title>
+    <desc lang="tr">Henry ve Fuzz, Shropshire'da Rob'u ziyaret ederken bir depoda Matchless G3 model bir motosiklet, teneke tabelalar ve bir çim biçme makinesi bulur.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/79/2204287829565eb88428.jpg" />
+    <episode-num system="onscreen">S7 E9</episode-num>
+  </programme>
+  <programme start="20260816130000 +0000" stop="20260816140000 +0000" channel="DMAX.tr">
+    <title lang="tr">Bu Arabayı Ne Yapmalı?</title>
+    <desc lang="tr">Daniel Krause gönülden bağlı olduğu özel seri Golf 5 GTI Pirelli'sini severek kullanır. Peki, yola devam mı etmeli, yoksa yeni araç mı almalı?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/47/2204287839625eb88428.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20260816140000 +0000" stop="20260816152000 +0000" channel="DMAX.tr">
+    <title lang="tr">Tek Başına</title>
+    <desc lang="tr">Bazı yarışmacılar kalori almak için yeni yollar aramaya devam ederken diğerleri dişini sıkarak mümkün olduğunca uzun süre dayanmaya odaklanır.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/38/2204287839695eb88428.jpg" />
+    <episode-num system="onscreen">S8 E10</episode-num>
+  </programme>
+  <programme start="20260816152000 +0000" stop="20260816163000 +0000" channel="DMAX.tr">
+    <title lang="tr">Gümrük Muhafaza Türkiye</title>
+    <desc lang="tr">'Gümrük Muhafaza Türkiye', en ön saflarda görev yapan cesur ekiplerin nefes kesen operasyonlarını ekranlara getiriyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/10/2204287839775eb88428.jpg" />
+    <episode-num system="onscreen">S1 E57</episode-num>
+  </programme>
+  <programme start="20260816163000 +0000" stop="20260816184000 +0000" channel="DMAX.tr">
+    <title lang="tr">Suçlu</title>
+    <desc lang="tr">Richard ve Rodrigo adındaki iki dolandırıcı bir para koleksiyonerini kandırmak için ortaklık kuruyor. Hasta babasına yardım etmesi gereken Rodrigo, Richard'a güvenmekte zorlanıyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/21/2204287839835eb88428.jpg" />
+  </programme>
+  <programme start="20260816184000 +0000" stop="20260816205000 +0000" channel="DMAX.tr">
+    <title lang="tr">Suçlu</title>
+    <desc lang="tr">Richard ve Rodrigo adındaki iki dolandırıcı bir para koleksiyonerini kandırmak için ortaklık kuruyor. Hasta babasına yardım etmesi gereken Rodrigo, Richard'a güvenmekte zorlanıyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/94/2204287839885eb88428.jpg" />
+  </programme>
+  <programme start="20260816205000 +0000" stop="20260816220000 +0000" channel="DMAX.tr">
+    <title lang="tr">Gümrük Muhafaza Türkiye</title>
+    <desc lang="tr">'Gümrük Muhafaza Türkiye', en ön saflarda görev yapan cesur ekiplerin nefes kesen operasyonlarını ekranlara getiriyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/40/2204287849955eb88428.jpg" />
+    <episode-num system="onscreen">S1 E57</episode-num>
+  </programme>
+  <programme start="20260816220000 +0000" stop="20260816230000 +0000" channel="DMAX.tr">
+    <title lang="tr">Gizli Dosyalar</title>
+    <desc lang="tr">Andrew yapay zekanın biz farkına varmadan algı ve davranışlarımızı yönlendirebildiği o tehlikeli eşiği aşıp aşmadığını test eder.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/94/2204298584365eb7f426.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20260816230000 +0000" stop="20260816235000 +0000" channel="DMAX.tr">
+    <title lang="tr">Şifreler ve Komplolar</title>
+    <desc lang="tr">Altın, dünyadaki en önemli hazinelerden biridir. İlk çağlardan itibaren, insanoğlu altına ulaşmak için her yolu denedi. Acaba bugün altın nerede ve kime ait?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/17/2204298584425eb7f426.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20260816235000 +0000" stop="20260817003200 +0000" channel="DMAX.tr">
+    <title lang="tr">Kaçakçılar: Deniz Kontrol</title>
+    <desc lang="tr">HSI ajanları büyük bir uyuşturucu çetesine ortak baskın düzenler. Şüpheli şekilde ilerleyen bir geminin yolcuları ajanları şaşkına çevirir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/92/2204298584495eb7f426.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20260817003200 +0000" stop="20260817011500 +0000" channel="DMAX.tr">
+    <title lang="tr">Kaçakçılar: Deniz Kontrol</title>
+    <desc lang="tr">Memurlar bir kaçakçılık rotasındaki üç mürettebatlı küçük bir tekneyi inceler. Bir memur sahilde terk edilmiş can yelekleri ve giysiler bulur.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/84/2204298594575eb7f426.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20260817011500 +0000" stop="20260817015500 +0000" channel="DMAX.tr">
+    <title lang="tr">Doğa Evi Ustaları</title>
+    <desc lang="tr">Chase ve ekibi, 1920li dönemden kalma bir at çiftliği olan tatil kulübesini bir ahıra dönüştürür. İlham almak için geçmiş yapıları incelerler.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/40/2204298594655eb7f426.jpg" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20260817015500 +0000" stop="20260817023500 +0000" channel="DMAX.tr">
+    <title lang="tr">Doğa Evi Ustaları</title>
+    <desc lang="tr">Chase ve ekibi, bir ailenin 1950lerden kalma değerli bir ıstakoz barakasını, gelecek nesiller için yaşam boyu hatırlayacakları anıları barındıran bir kulübeye dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/99/2204298604735eb7f426.jpg" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20260817023500 +0000" stop="20260817030000 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılır?</title>
+    <desc lang="tr">Dünyanın en çetin ve en pahalı sert kabuklu meyveleri nasıl toplanır ve işlenir? Göl suyu nasıl musluk suyu haline getirilir? Ve konserlerde binlerce hayran nasıl zaptedilir?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/84/2204298604815eb7f426.jpg" />
+    <episode-num system="onscreen">S12 E13</episode-num>
+  </programme>
+  <programme start="20260817030000 +0000" stop="20260817033000 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Yine günlük nesnelerin mikroskop altına alındığı bu bölümde ip, bilardo masası ve sörf tahtasının nasıl yapıldığını öğreniyoruz.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/42/2204298604895eb7f426.jpg" />
+    <episode-num system="onscreen">S6 E68</episode-num>
+  </programme>
+  <programme start="20260817033000 +0000" stop="20260817040000 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Günlük nesneler mikroskop altına alınmaya devam ediyor. Bu bölümde emniyet kemerinin, pencerelerin, balmumu heykellerin ve sıcak hava balonunun nasıl yapıldığını öğreniyoruz.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/77/2204298604975eb7f426.jpg" />
+    <episode-num system="onscreen">S6 E69</episode-num>
+  </programme>
+  <programme start="20260817040000 +0000" stop="20260817050000 +0000" channel="DMAX.tr">
+    <title lang="tr">Çelik Kardeşliği</title>
+    <desc lang="tr">Michael Manousakis ve Morlock Motors garajındaki ekibi her aracı elde edebilir. Westerwald'lı dahimiz dünyanın her yerinde müthiş projeler gerçekleştirmiş bir usta.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/18/2204298615055eb7f426.jpg" />
+    <episode-num system="onscreen">S9 E3</episode-num>
+  </programme>
+  <programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="DMAX.tr">
+    <title lang="tr">Kampçıların Atölyesi</title>
+    <desc lang="tr">Rostock'ta motor yağına karışan metal parçaları sorunlara yol açar. Berlin'deki yüzen ev şekillenmeye başlar.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/87/2204298615115eb7f426.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20260817060000 +0000" stop="20260817065300 +0000" channel="DMAX.tr">
+    <title lang="tr">Sıra Dışı Karavanlar</title>
+    <desc lang="tr">Özel karavan sahipleri, 50ler'den kalma retro atomik, retro camper ve engebeli arazi araçları da dahil, araçlarını sergiler. Marathon Coach lüks, aile dostu bir karavan yapar.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/5/2204298625185eb7f426.jpg" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20260817065300 +0000" stop="20260817074700 +0000" channel="DMAX.tr">
+    <title lang="tr">Gizli Suları Keşfet</title>
+    <desc lang="tr">Maceracılar, Bali'deki şelalenin derin suyuna  atlar, Avustralya'da ıssız bir kumsalda okyanusa dalar ve Major League beyzbol sahası içinde bir havuzda yüzer.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/53/2204298625265eb7f426.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20260817074700 +0000" stop="20260817081400 +0000" channel="DMAX.tr">
+    <title lang="tr">Ben Bunu Yerim!</title>
+    <desc lang="tr">Casey Webb, yemek macerasına Fargo, Kuzey Dakota'da devam ediyor. Peynirli bir klasiğin Alman yorumunu ve İskandinav esintileri taşıyan bir kahvaltı menüsünü deniyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/37/2204298635345eb7f426.jpg" />
+    <episode-num system="onscreen">S4 E23</episode-num>
+  </programme>
+  <programme start="20260817081400 +0000" stop="20260817084100 +0000" channel="DMAX.tr">
+    <title lang="tr">Ben Bunu Yerim!</title>
+    <desc lang="tr">Deadwood, Güney Dakota'ya giden Casey Webb, eski bir Vahşi Batı barında geçmişe yolculuk ediyor ve 450 gramlık bufalo bifteği ve altı koca aperatife meydan okuyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/62/2204298635425eb7f426.jpg" />
+    <episode-num system="onscreen">S4 E24</episode-num>
+  </programme>
+  <programme start="20260817084100 +0000" stop="20260817090800 +0000" channel="DMAX.tr">
+    <title lang="tr">Karnaval Lezzetleri</title>
+    <desc lang="tr">Anthony, peynirli makarna dolgulu köfte ve ıstakoz sosisi gibi lezzetleri tatmak için Alameda Panayırı'na gider. Buna ek olarak dondurmadan spagetti yapar.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/89/2204298635485eb7f426.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20260817090800 +0000" stop="20260817093500 +0000" channel="DMAX.tr">
+    <title lang="tr">Karnaval Kralları</title>
+    <desc lang="tr">Michelin yıldızlı şef Richie Farina, Teksas Eyalet Panayırı için kızarmış atıştırmalık yapar. 24 saat içinde kendi versiyonunu hazırlaması gerekir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/20/2204298635535eb7f426.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260817093500 +0000" stop="20260817103500 +0000" channel="DMAX.tr">
+    <title lang="tr">Milyoner Rehinci</title>
+    <desc lang="tr">Rehinci ve emekçi milyoner Heinz Schmalzried günlük işlerine vakit ayıramaz hâle gelir ve yerine geçecek kişiyi eğitmeye başlar.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/12/2204298635585eb7f426.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260817103500 +0000" stop="20260817113500 +0000" channel="DMAX.tr">
+    <title lang="tr">Unutulmuş Hazineler: Klasik Arabalar</title>
+    <desc lang="tr">Joe'yu ziyarete giden Henry ve Fuzz 1950'lerden kalma etkileyici bir Yeşil Tanrıça İtfaiye Aracı bulur. Bu işin altından kalkabilecekler mi?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/75/2204298645655eb7f426.jpg" />
+    <episode-num system="onscreen">S4 E10</episode-num>
+  </programme>
+  <programme start="20260817113500 +0000" stop="20260817120500 +0000" channel="DMAX.tr">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+    <desc lang="tr">Guy Fieri Chicago'da karidesli çiğ börek, Tallahassee, Florida'da iştah açıcı kırmızı et ve Minneapolis'te zengin aromalı bir pizza yer.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/8/2204298645735eb7f426.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20260817120500 +0000" stop="20260817123500 +0000" channel="DMAX.tr">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+    <desc lang="tr">Guy Fieri deniz ürünleri ve yaratıcı atıştırmalıkların peşinde Chicago'da Siçuan ekmekli sandviçler ve Florida'da soslu deniz ürünleri yer.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/0/2204298655815eb7f426.jpg" />
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20260817123500 +0000" stop="20260817133000 +0000" channel="DMAX.tr">
+    <title lang="tr">Restoran Dedektifi</title>
+    <desc lang="tr">Willie Degel, ne yaptığını bilmeyen genç bir işletmeciye yardım etmek için Las Vegas'a gidiyor. Willie restoranın kepenk indirmesini önleyebilecek mi?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/83/2204298655895eb7f426.jpg" />
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20260817133000 +0000" stop="20260817143000 +0000" channel="DMAX.tr">
+    <title lang="tr">Tamirat Tadilat</title>
+    <desc lang="tr">Mike ve Ant, Amerika maceralarını anıyor. Memleketleri olan İngiltere'ye dönmeden önce atölyelerini kapatıyorlar ve beş yıl boyunca yaptıkları işleri gözden geçiriyorlar.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/47/2204298665975eb7f426.jpg" />
+    <episode-num system="onscreen">S16 E16</episode-num>
+  </programme>
+  <programme start="20260817143000 +0000" stop="20260817153000 +0000" channel="DMAX.tr">
+    <title lang="tr">Tamirat Tadilat</title>
+    <desc lang="tr">Galerici Mike Brewer Birleşik Krallık'a geri dönüyor! Usta teknisyen Marc 'Elvis' Priestley ile birlikte kâr amaçlı satmak için restore edeceği antika arabaların peşine düşüyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/38/2204298666055eb7f426.jpg" />
+    <episode-num system="onscreen">S17 E1</episode-num>
+  </programme>
+  <programme start="20260817153000 +0000" stop="20260817163000 +0000" channel="DMAX.tr">
+    <title lang="tr">Hurda Avcıları</title>
+    <desc lang="tr">Alister, Serkan ve Jay usta zanaatkârların elinden çıkan parçaları arar. Eski bir kayıkhane, bir tabelacı ve oyma ustası ziyaret edilir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/4/2204298666115eb7f426.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20260817163000 +0000" stop="20260817183000 +0000" channel="DMAX.tr">
+    <title lang="tr">Rocky 3: Veda</title>
+    <desc lang="tr">Dünya şampiyonu olan Rocky servet ve şöhrete kavuşur. Ünvanını ve koçunu kaybettikten sonra zirveye dönmek için eski düşmanı Apollo Creed'e gider.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/21/2204298666165eb7f426.jpg" />
+  </programme>
+  <programme start="20260817183000 +0000" stop="20260817203000 +0000" channel="DMAX.tr">
+    <title lang="tr">Rocky 3: Veda</title>
+    <desc lang="tr">Dünya şampiyonu olan Rocky servet ve şöhrete kavuşur. Ünvanını ve koçunu kaybettikten sonra zirveye dönmek için eski düşmanı Apollo Creed'e gider.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/38/2204298676215eb7f426.jpg" />
+  </programme>
+  <programme start="20260817203000 +0000" stop="20260817213000 +0000" channel="DMAX.tr">
+    <title lang="tr">Hurda Avcıları</title>
+    <desc lang="tr">Alister, Serkan ve Jay usta zanaatkârların elinden çıkan parçaları arar. Eski bir kayıkhane, bir tabelacı ve oyma ustası ziyaret edilir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/70/2204298676265eb7f426.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20260817213000 +0000" stop="20260817223000 +0000" channel="DMAX.tr">
+    <title lang="tr">Formula E'nin Unutulmaz Anları 2026</title>
+    <desc lang="tr">Formula E'deki elektrikli araba yarışlarının unutulmaz anları.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/14/2204327105425eb88428.jpg" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20260817223000 +0000" stop="20260817232000 +0000" channel="DMAX.tr">
+    <title lang="tr">Antik Mısır: Bir İmparatorluğun Güncesi</title>
+    <desc lang="tr">Firavunların hikâyeleri ve sıradan insanların hayatları ve düşünceleri. Eski Mısırlılar evlerini nasıl inşa ediyordu, nasıl geçiniyordu ve neye inanıyordu?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/29/2204327115505eb88428.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20260817232000 +0000" stop="20260818000500 +0000" channel="DMAX.tr">
+    <title lang="tr">Bilinmeyene Yolculuk</title>
+    <desc lang="tr">Josh Gates dünyanın dört bir yanındaki çözülmemiş gizemleri araştırıyor. Soruşturmadan önce önemli görgü tanıkları ile görüşüyor ve güncel gelişmeleri takip ediyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/66/2204327115585eb88428.jpg" />
+    <episode-num system="onscreen">S6 E11</episode-num>
+  </programme>
+  <programme start="20260818000500 +0000" stop="20260818005000 +0000" channel="DMAX.tr">
+    <title lang="tr">Sürpriz Buluşlar</title>
+    <desc lang="tr">İnsanların her gün kullandığı ve nihayetinde dünyayı değiştiren müthiş icatlara öncülük eden hatalara, aksiliklere ve başarısızlıklara ilginç bir bakış!</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/21/2204327115665eb88428.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20260818005000 +0000" stop="20260818013500 +0000" channel="DMAX.tr">
+    <title lang="tr">Lojistiğin Kahramanları</title>
+    <desc lang="tr">Dünya düzeni lojistiğin sağladığı kesintisiz kaynak ve mal sevkiyatına bağlı. Bunları mümkün kılan yükleme uzmanları ve taşıyıcılar ekrana geliyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/21/2204327125745eb88428.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20260818013500 +0000" stop="20260818015500 +0000" channel="DMAX.tr">
+    <title lang="tr">Havalı Aletler</title>
+    <desc lang="tr">Chris Grundy, eviyelerden dolap asma gereçlerine, mutfak tadilatında kullanılan parçaları inceliyor. Connecticut'ta özel yapım dış mekân mutfaklarının nasıl üretlidiğini öğreniyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/74/2204327125825eb88428.jpg" />
+    <episode-num system="onscreen">S7 E10</episode-num>
+  </programme>
+  <programme start="20260818015500 +0000" stop="20260818021500 +0000" channel="DMAX.tr">
+    <title lang="tr">Havalı Aletler</title>
+    <desc lang="tr">Chris Grundy kaldırma, yuvarlama, nakletme ve hafriyat gibi işler yapan nakliye aletlerini inceliyor. İşlevsel bir yük arabasını ve römorklara takılan bir alet çantasını inceliyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/1/2204327125905eb88428.jpg" />
+    <episode-num system="onscreen">S7 E11</episode-num>
+  </programme>
+  <programme start="20260818021500 +0000" stop="20260818023500 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Yine günlük nesnelerin mikroskop altına alındığı bu bölümde yürüyen merdiven tırabzanları, fosforlu kalem, gitar teli ve perukların nasıl yapıldığını öğreniyoruz.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/51/2204327125985eb88428.jpg" />
+    <episode-num system="onscreen">S6 E71</episode-num>
+  </programme>
+  <programme start="20260818023500 +0000" stop="20260818030000 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Yine günlük nesnelerin mikroskop altına alındığı bu bölümde geleneksel yaylar, kahve makinesi, maskotlar ve hamağın nasıl yapıldığını öğreniyoruz.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/1/2204327136065eb88428.jpg" />
+    <episode-num system="onscreen">S6 E72</episode-num>
+  </programme>
+  <programme start="20260818030000 +0000" stop="20260818033000 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Yine günlük nesnelerin mikroskop altına alındığı bu bölümde izolasyon elyafı, ahşap ördek, sakız makinesi ve egzos sistemlerinin nasıl yapıldığını öğreniyoruz.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/54/2204327136145eb88428.jpg" />
+    <episode-num system="onscreen">S6 E73</episode-num>
+  </programme>
+  <programme start="20260818033000 +0000" stop="20260818040000 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Yine günlük nesnelerin mikroskop altına alındığı bu bölümde zincirler, sedirağacından kanolar, plak ve bagelin nasıl yapıldığını öğreniyoruz.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/48/2204327146225eb88428.jpg" />
+    <episode-num system="onscreen">S6 E74</episode-num>
+  </programme>
+  <programme start="20260818040000 +0000" stop="20260818050000 +0000" channel="DMAX.tr">
+    <title lang="tr">Çelik Kardeşliği</title>
+    <desc lang="tr">Michael Manousakis ve Morlock Motors garajındaki ekibi her aracı elde edebilir. Westerwald'lı dahimiz dünyanın her yerinde müthiş projeler gerçekleştirmiş bir usta.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/40/2204327146305eb88428.jpg" />
+    <episode-num system="onscreen">S9 E4</episode-num>
+  </programme>
+  <programme start="20260818050000 +0000" stop="20260818060000 +0000" channel="DMAX.tr">
+    <title lang="tr">Kampçıların Atölyesi</title>
+    <desc lang="tr">Usta marangoz Heiko ve çırakları Star Vans'ın iç tasarımı üzerinde çalışır. Haslochbachtal'da bir sürücü kabini şasiye sabitlenir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/26/2204327146365eb88428.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20260818060000 +0000" stop="20260818065300 +0000" channel="DMAX.tr">
+    <title lang="tr">Sıra Dışı Karavanlar</title>
+    <desc lang="tr">Featherlite, talepkar bir müşteri için Wall Street ilhamlı bir araç filosu üretir. Ve, dünyanın en hızlı karavanı heyacan verici bir yolculuk için geliştirilir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/20/2204327156435eb88428.jpg" />
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20260818065300 +0000" stop="20260818074700 +0000" channel="DMAX.tr">
+    <title lang="tr">Gizli Suları Keşfet</title>
+    <desc lang="tr">Maceracılar,  Japonya'da çok katmanlı özel bir şelaleye atlar. Havai'de aksiyon dolu bir uçurum cennetine ve Brezilya'da bulunan dünyanın en büyük şelalesine gider.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/35/2204327156515eb88428.jpg" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+  </programme>
+  <programme start="20260818074700 +0000" stop="20260818081400 +0000" channel="DMAX.tr">
+    <title lang="tr">Ben Bunu Yerim!</title>
+    <desc lang="tr">Casey Webb lezzet peşinde gittiği Scottsdale, Arizona'da churro, hindi butlu patates köftesi ve iki kiloluk şarküteri menüsünü mideye indiriyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/53/2204327156595eb88428.jpg" />
+    <episode-num system="onscreen">S4 E25</episode-num>
+  </programme>
+  <programme start="20260818081400 +0000" stop="20260818084100 +0000" channel="DMAX.tr">
+    <title lang="tr">Ben Bunu Yerim!</title>
+    <desc lang="tr">Casey Webb, Denver'a giderek meşhur ekmek arası kızarmış tavukların, kâsede tavuk göğsünün, et soslu patatesli kreplerin tadına bakıp efsanevi bir kahvaltılık dürüme meydan okuyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/38/2204327156675eb88428.jpg" />
+    <episode-num system="onscreen">S4 E26</episode-num>
+  </programme>
+  <programme start="20260818084100 +0000" stop="20260818090800 +0000" channel="DMAX.tr">
+    <title lang="tr">Karnaval Kralları</title>
+    <desc lang="tr">Michelin yıldızlı şef Richie Farina yenilikçi lezzetlerin peşinde yola düşer. 24 saat içinde çılgın bir tarifin özgün versiyonunu hazırlaması gerekir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/39/2204327186735eb88428.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20260818090800 +0000" stop="20260818093500 +0000" channel="DMAX.tr">
+    <title lang="tr">Karnaval Kralları</title>
+    <desc lang="tr">Şef Richie Farina, Arizona'daki Prima Eyalet Panayırı'na katılır. Nate Janousek'in kızarmış süper nacho'larını alt etmeden önce hazırlanması için sadece 24 saat süre verilir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/15/2204327186785eb88428.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20260818093500 +0000" stop="20260818103500 +0000" channel="DMAX.tr">
+    <title lang="tr">Milyoner Rehinci</title>
+    <desc lang="tr">Florian Baumgarten özel denetime girince dükkânda gergin anlar yaşanır.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/31/2204327186835eb88428.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20260818103500 +0000" stop="20260818113500 +0000" channel="DMAX.tr">
+    <title lang="tr">Hurda Avcıları</title>
+    <desc lang="tr">Alister, Serkan ve Jay usta zanaatkârların elinden çıkan parçaları arar. Eski bir kayıkhane, bir tabelacı ve oyma ustası ziyaret edilir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/51/2204327186885eb88428.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20260818113500 +0000" stop="20260818120500 +0000" channel="DMAX.tr">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+    <desc lang="tr">Guy Fieri Naples'ta Bolonez soslu lazanya, Tallahassee'de karides ve irmik ve Chicago'da ağır ateşte pişmiş etli mantılar yer.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/21/2204327186955eb88428.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20260818120500 +0000" stop="20260818123500 +0000" channel="DMAX.tr">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+    <desc lang="tr">Guy Fieri Chicago'da taze makarna, Montana'da banh mi smash burger ve Florida'da iştah açan klasik Güney lezzetlerini tadar.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/76/2204327197035eb88428.jpg" />
+    <episode-num system="onscreen">S41 E1</episode-num>
+  </programme>
+  <programme start="20260818123500 +0000" stop="20260818133000 +0000" channel="DMAX.tr">
+    <title lang="tr">Restoran Dedektifi</title>
+    <desc lang="tr">Willie Degel, profesyonellikten uzak çalışanları olan bir aile işletmesine yardım etmek için New Jersey'ye gidiyor. Willie, restoranı ve ikili ilişkileri kurtarabilecek mi?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/31/2204327197115eb88428.jpg" />
+    <episode-num system="onscreen">S5 E8</episode-num>
+  </programme>
+  <programme start="20260818133000 +0000" stop="20260818143000 +0000" channel="DMAX.tr">
+    <title lang="tr">Tamirat Tadilat</title>
+    <desc lang="tr">Galerici Mike Brewer Birleşik Krallık'a geri dönüyor! Usta teknisyen Marc 'Elvis' Priestley ile birlikte kâr amaçlı satmak için restore edeceği antika arabaların peşine düşüyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/19/2204327207195eb88428.jpg" />
+    <episode-num system="onscreen">S17 E2</episode-num>
+  </programme>
+  <programme start="20260818143000 +0000" stop="20260818153000 +0000" channel="DMAX.tr">
+    <title lang="tr">Tamirat Tadilat</title>
+    <desc lang="tr">'Bebek Ferrari' projesini üstlenen Mike ve Elvis masrafları düşük tutmak istiyor. Bu eski klasiği İtalyan kuzeniyle yarışacak bir rakibe dönüştürebilecekler mi?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/1/2204327207275eb88428.jpg" />
+    <episode-num system="onscreen">S17 E3</episode-num>
+  </programme>
+  <programme start="20260818153000 +0000" stop="20260818163000 +0000" channel="DMAX.tr">
+    <title lang="tr">Hurda Avcıları</title>
+    <desc lang="tr">Viki tarihî bir fabrikada iyi konumda bir dokumacı tezgâhı bulur. Serkan eski bir RAF üssünde Britanya Muharebesi'nde kullanılan bir defter bulur.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/94/2204327207335eb88428.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20260818163000 +0000" stop="20260818173000 +0000" channel="DMAX.tr">
+    <title lang="tr">Klasik Araba Kurtarma: Almanya</title>
+    <desc lang="tr">Chris ve Max bakımsız klasikler, Amerikan yarış arabaları, Alman efsaneleri ve diğer nadir parçaları arar. Ucuza alınan araçlar tamir edilip satılır.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/85/2204327217405eb88428.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20260818173000 +0000" stop="20260818183000 +0000" channel="DMAX.tr">
+    <title lang="tr">Son Ormancı</title>
+    <desc lang="tr">Jared ve ekibi Forever Claim'in kaderini berlileyecek son sevkiyattan önce keresteleri taşımak için harekete geçer.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/17/2204327217485eb88428.jpg" />
+    <episode-num system="onscreen">S2 E16</episode-num>
+  </programme>
+  <programme start="20260818183000 +0000" stop="20260818193000 +0000" channel="DMAX.tr">
+    <title lang="tr">Ed Stafford İle Kurtuluş Öyküleri</title>
+    <desc lang="tr">Neredeyse iki metrelik karda mahsur kalan Ed, Kuzey Çin'deki Changbai Dağı'nın zirvesinden inene kadar hayatta kalmanın bir yolunu bulmalıdır.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/77/2204327217565eb88428.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20260818193000 +0000" stop="20260818203000 +0000" channel="DMAX.tr">
+    <title lang="tr">Adam, Kadın, Vahşi Doğa</title>
+    <desc lang="tr">Program ekibi fırtınaya yakalanınca dağdan geri dönmek zorunda kalır ve sahile doğru yönelir. Bir köy bulma umuduyla siste, yağmurda yürürler, dik uçurumlardan geçerler.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/81/2204327227645eb88428.jpg" />
+    <episode-num system="onscreen">S2 E12</episode-num>
+  </programme>
+  <programme start="20260818203000 +0000" stop="20260818213000 +0000" channel="DMAX.tr">
+    <title lang="tr">Hurda Avcıları</title>
+    <desc lang="tr">Viki tarihî bir fabrikada iyi konumda bir dokumacı tezgâhı bulur. Serkan eski bir RAF üssünde Britanya Muharebesi'nde kullanılan bir defter bulur.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/73/2204327227705eb88428.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20260818213000 +0000" stop="20260818223000 +0000" channel="DMAX.tr">
+    <title lang="tr">Klasik Araba Kurtarma: Almanya</title>
+    <desc lang="tr">Chris ve Max bakımsız klasikler, Amerikan yarış arabaları, Alman efsaneleri ve diğer nadir parçaları arar. Ucuza alınan araçlar tamir edilip satılır.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/37/2204302007175eb8f42a.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20260818223000 +0000" stop="20260818232000 +0000" channel="DMAX.tr">
+    <title lang="tr">Son Ormancı</title>
+    <desc lang="tr">Jared ve ekibi Forever Claim'in kaderini berlileyecek son sevkiyattan önce keresteleri taşımak için harekete geçer.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/9/2204302007255eb8f42a.jpg" />
+    <episode-num system="onscreen">S2 E16</episode-num>
+  </programme>
+  <programme start="20260818232000 +0000" stop="20260819000500 +0000" channel="DMAX.tr">
+    <title lang="tr">Bilinmeyene Yolculuk</title>
+    <desc lang="tr">Josh Gates dünyanın dört bir yanındaki çözülmemiş gizemleri araştırıyor. Soruşturmadan önce önemli görgü tanıkları ile görüşüyor ve güncel gelişmeleri takip ediyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/61/2204302007335eb8f42a.jpg" />
+    <episode-num system="onscreen">S6 E12</episode-num>
+  </programme>
+  <programme start="20260819000500 +0000" stop="20260819005000 +0000" channel="DMAX.tr">
+    <title lang="tr">Sürpriz Buluşlar</title>
+    <desc lang="tr">İnsanların her gün kullandığı ve nihayetinde dünyayı değiştiren müthiş icatlara öncülük eden hatalara, aksiliklere ve başarısızlıklara ilginç bir bakış!</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/85/2204302007415eb8f42a.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20260819005000 +0000" stop="20260819013500 +0000" channel="DMAX.tr">
+    <title lang="tr">Lojistiğin Kahramanları</title>
+    <desc lang="tr">Dünya düzeni lojistiğin sağladığı kesintisiz kaynak ve mal sevkiyatına bağlı. Bunları mümkün kılan yükleme uzmanları ve taşıyıcılar ekrana geliyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/19/2204302017495eb8f42a.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20260819013500 +0000" stop="20260819015500 +0000" channel="DMAX.tr">
+    <title lang="tr">Havalı Aletler</title>
+    <desc lang="tr">Chris Grundy, hem planya hem rende işlevi gören bir alet ve dörtlü demir testeresi gibi çok amaçlı aletleri inceliyor. Multi-Plier 600'ün imalat sürecini gözlemliyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/52/2204302017575eb8f42a.jpg" />
+    <episode-num system="onscreen">S7 E12</episode-num>
+  </programme>
+  <programme start="20260819015500 +0000" stop="20260819021500 +0000" channel="DMAX.tr">
+    <title lang="tr">Havalı Aletler</title>
+    <desc lang="tr">Chris Grundy, alçıpan ayaklığı, gözlem merceği ve kombine pense gibi mesleki gereçleri inceliyor. Pennsylvania'daki bir hırdavat müzayedesini ziyaret ediyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/38/2204302027655eb8f42a.jpg" />
+    <episode-num system="onscreen">S8 E1</episode-num>
+  </programme>
+  <programme start="20260819021500 +0000" stop="20260819023500 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Yine günlük nesnelerin mikroskop altına alındığı bu bölümde otomobil camı, İngiliz eyeri, tereyağ ve elektrikli gitarın nasıl yapıldığını öğreniyoruz.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/3/2204302027735eb8f42a.jpg" />
+    <episode-num system="onscreen">S6 E75</episode-num>
+  </programme>
+  <programme start="20260819023500 +0000" stop="20260819030000 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Yine günlük nesnelerin mikroskop altına alındığı bu bölümde özel araçlar, saat kuleleri, davul derisi ve davulun nasıl yapıldığını öğreniyoruz.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/76/2204302037815eb8f42a.jpg" />
+    <episode-num system="onscreen">S6 E76</episode-num>
+  </programme>
+  <programme start="20260819030000 +0000" stop="20260819033000 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Yine günlük nesnelerin mikroskop altına alındığı bu bölümde termosifon, hava yastığı, jelibon ve zamboninin nasıl yapıldığını öğreniyoruz.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/65/2204302037895eb8f42a.jpg" />
+    <episode-num system="onscreen">S6 E77</episode-num>
+  </programme>
+  <programme start="20260819033000 +0000" stop="20260819040000 +0000" channel="DMAX.tr">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Yine günlük nesnelerin mikroskop altına alındığı bu bölümde amfibi araçlar, golf sopası, maket gemi ve boyama kalemlerinin nasıl yapıldığını öğreniyoruz.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/77/2204302037975eb8f42a.jpg" />
+    <episode-num system="onscreen">S6 E78</episode-num>
+  </programme>
+  <programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="DMAX.tr">
+    <title lang="tr">Çelik Kardeşliği</title>
+    <desc lang="tr">Michael Manousakis ve Morlock Motors garajındaki ekibi her aracı elde edebilir. Westerwald'lı dahimiz dünyanın her yerinde müthiş projeler gerçekleştirmiş bir usta.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/64/2204302038055eb8f42a.jpg" />
+    <episode-num system="onscreen">S9 E5</episode-num>
+  </programme>
+  <programme start="20260819050000 +0000" stop="20260819060000 +0000" channel="DMAX.tr">
+    <title lang="tr">Kampçıların Atölyesi</title>
+    <desc lang="tr">Van360 ekibi 65 karavanla birlikte farklı bir lokasyona taşınır. Mein Hausboot'taki ustalar teslim tarihlerine sadık kalmak için hızla çalışır.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/25/2204302048115eb8f42a.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260819060000 +0000" stop="20260819065300 +0000" channel="DMAX.tr">
+    <title lang="tr">Sıra Dışı Karavanlar</title>
+    <desc lang="tr">Kamyonet tasarımcısı Newmar, bir NASCAR hayranı için en gösterişli karavanını tasarlıyor. Colorado'lu bir mühendis kendi güç kaynağına sahip bir arazi keşif aracı tasarlıyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/50/2204302048185eb8f42a.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20260819065300 +0000" stop="20260819074700 +0000" channel="DMAX.tr">
+    <title lang="tr">Gizli Suları Keşfet</title>
+    <desc lang="tr">Dünyayı dolaşan kızkardeşler İspanya'ya bir hafta sonu gezisi yapar. Orman ve akarsulardan geçiyor, kayalardan atlıyor, şnorkelle yüzüyor ve kanyonlarda yürüyüş yapıyorlar.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/32/2204302048265eb8f42a.jpg" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20260819074700 +0000" stop="20260819081400 +0000" channel="DMAX.tr">
+    <title lang="tr">Ben Bunu Yerim!</title>
+    <desc lang="tr">Detroit'e giden Casey Webb yerel lezzetlerden kare pizzayı deniyor, şeftali aromalı tarçınlı kekin tadına bakıyor ve baharatlı tavuk kanatlarına meydan okuyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/12/2204302058345eb8f42a.jpg" />
+    <episode-num system="onscreen">S4 E27</episode-num>
+  </programme>
+  <programme start="20260819081400 +0000" stop="20260819084100 +0000" channel="DMAX.tr">
+    <title lang="tr">Ben Bunu Yerim!</title>
+    <desc lang="tr">Cleveland'a giden Casey Webb, dev porsiyonda sığır etine, tatlı bir zaman makinasındaki karamelli dondurma tatlısına ve şampiyonlara layık bir dönere meydan okuyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/27/2204302058425eb8f42a.jpg" />
+    <episode-num system="onscreen">S4 E28</episode-num>
+  </programme>
+  <programme start="20260819084100 +0000" stop="20260819090800 +0000" channel="DMAX.tr">
+    <title lang="tr">Karnaval Kralları</title>
+    <desc lang="tr">Şef Richie Farina, Las Vegas'taki Foodie Fest'e gider. Adam Terry'ye ve onun dondurma tarifine meydan okur. Richie'ye hazırlık için sadece 24 saat süre verilir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/77/2204302068485eb8f42a.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20260819090800 +0000" stop="20260819093500 +0000" channel="DMAX.tr">
+    <title lang="tr">Karnaval Kralları</title>
+    <desc lang="tr">Şef Richie Farina, Las Vegas'taki Great American Foodie Fest'te zorlu bir hamburger göreviyle karşılaşır. 24 saat içinde kendi versiyonunu hazırlaması gerekir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/69/2204302068535eb8f42a.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260819093500 +0000" stop="20260819103500 +0000" channel="DMAX.tr">
+    <title lang="tr">Milyoner Rehinci</title>
+    <desc lang="tr">Heinz gidişatı test etmek için birkaç günlük bir motor turuna çıkar ve büyük bir müzayedeyi Florian Baumgarten'a emanet eder.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/1/2204302068585eb8f42a.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20260819103500 +0000" stop="20260819113500 +0000" channel="DMAX.tr">
+    <title lang="tr">Hurda Avcıları</title>
+    <desc lang="tr">Viki tarihî bir fabrikada iyi konumda bir dokumacı tezgâhı bulur. Serkan eski bir RAF üssünde Britanya Muharebesi'nde kullanılan bir defter bulur.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/38/2204302068635eb8f42a.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20260819113500 +0000" stop="20260819120500 +0000" channel="DMAX.tr">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+    <desc lang="tr">Guy Fieri Dallas'ta leziz mantılar, Florida'da timsah etli sosis ve Chicago'da unutulmaz bir limon ve muzlu et yer.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/28/2204302068705eb8f42a.jpg" />
+    <episode-num system="onscreen">S41 E2</episode-num>
+  </programme>
+  <programme start="20260819120500 +0000" stop="20260819123500 +0000" channel="DMAX.tr">
+    <title lang="tr">Yolda Ne Yiyoruz?</title>
+    <desc lang="tr">Guy Fieri çarpıcı lezzet kombinasyonlarının peşinde Naples'ta Yunan yemeği, Dallas'ta işkembe ve Chicago'da müthiş bir erişte yer.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/75/2204302078785eb8f42a.jpg" />
+    <episode-num system="onscreen">S41 E3</episode-num>
+  </programme>
+  <programme start="20260819123500 +0000" stop="20260819133000 +0000" channel="DMAX.tr">
+    <title lang="tr">Restoran Dedektifi</title>
+    <desc lang="tr">Başarılı bir işletmeci olan Willie Degal, restoranlarının her köşesini kameralarla denetliyor ve şimdi de sorun yaşayan restoran sahiplerine yardım eli uzatıyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/21/2204302078865eb8f42a.jpg" />
+    <episode-num system="onscreen">S5 E9</episode-num>
+  </programme>
+  <programme start="20260819133000 +0000" stop="20260819143000 +0000" channel="DMAX.tr">
+    <title lang="tr">Tamirat Tadilat</title>
+    <desc lang="tr">Galerici Mike Brewer Birleşik Krallık'a geri dönüyor! Usta teknisyen Marc 'Elvis' Priestley ile birlikte kâr amaçlı satmak için restore edeceği antika arabaların peşine düşüyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/16/2204302078945eb8f42a.jpg" />
+    <episode-num system="onscreen">S17 E4</episode-num>
+  </programme>
+  <programme start="20260819143000 +0000" stop="20260819153000 +0000" channel="DMAX.tr">
+    <title lang="tr">Tamirat Tadilat</title>
+    <desc lang="tr">Galerici Mike Brewer Birleşik Krallık'a geri dönüyor! Usta teknisyen Marc 'Elvis' Priestley ile birlikte kâr amaçlı satmak için restore edeceği antika arabaların peşine düşüyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/67/2204302089025eb8f42a.jpg" />
+    <episode-num system="onscreen">S17 E5</episode-num>
+  </programme>
+  <programme start="20260819153000 +0000" stop="20260819163000 +0000" channel="DMAX.tr">
+    <title lang="tr">Hurda Avcıları</title>
+    <desc lang="tr">Al nesillerdir aynı aileye ait olan bir evde eski evrak kutuları bulur. Serkan eski bir panayır orguna ait elle boyanmış figürleri satın alır.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/64/2204302089085eb8f42a.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20260819163000 +0000" stop="20260819173000 +0000" channel="DMAX.tr">
+    <title lang="tr">Altın Peşinde: Kurtarma Operasyonu</title>
+    <desc lang="tr">Freddy ve Juan mekanik sorunlara özgün çözümler üreterek madencilik hünerlerini sergiler. Geçmişteki dâhiyane çözümler ekrana gelir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/46/2204302099155eb8f42a.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20260819173000 +0000" stop="20260819183000 +0000" channel="DMAX.tr">
+    <title lang="tr">Avustralyalı Opal Avcıları</title>
+    <desc lang="tr">Opal bulmakta zorlanan Mooka Boys tehlikeli bir gece görevine çıkar. Bushmen yer altı madeninin haritasını çıkarmak için robot köpek kullanır.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/68/2204302099235eb8f42a.jpg" />
+    <episode-num system="onscreen">S8 E9</episode-num>
+  </programme>
+  <programme start="20260819183000 +0000" stop="20260819193000 +0000" channel="DMAX.tr">
+    <title lang="tr">Avustralyalı Opal Avcıları</title>
+    <desc lang="tr">Bushmen'in yer altı galerilerini birleştirme planı için dev bir sondaj makinesi gerekir. Slim Pickings'in arızalanan eski traktörü felakete yol açar.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/60/2204302099315eb8f42a.jpg" />
+    <episode-num system="onscreen">S8 E10</episode-num>
+  </programme>
+  <programme start="20260819193000 +0000" stop="20260819203000 +0000" channel="DMAX.tr">
+    <title lang="tr">Mısır'ın Mezarları: Büyük Görev</title>
+    <desc lang="tr">Arkeologlar Sakkara'da olağanüstü bir keşfe imza atarak Kral Teti'in piramidinin altındaki karmaşık bir yer altı yerleşkesinde bir gömü alanı bulur. Burada ne tür sırlar gizli?</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/16/2204302099375eb8f42a.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260819203000 +0000" stop="20260819213000 +0000" channel="DMAX.tr">
+    <title lang="tr">Hurda Avcıları</title>
+    <desc lang="tr">Al nesillerdir aynı aileye ait olan bir evde eski evrak kutuları bulur. Serkan eski bir panayır orguna ait elle boyanmış figürleri satın alır.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/9/2204302109425eb8f42a.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20260819213000 +0000" stop="20260819223000 +0000" channel="DMAX.tr">
+    <title lang="tr">Altın Peşinde: Kurtarma Operasyonu</title>
+    <desc lang="tr">Freddy ve Juan mekanik sorunlara özgün çözümler üreterek madencilik hünerlerini sergiler. Geçmişteki dâhiyane çözümler ekrana gelir.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/45/2204319883255eb7f426.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20260819223000 +0000" stop="20260819232000 +0000" channel="DMAX.tr">
+    <title lang="tr">Avustralyalı Opal Avcıları</title>
+    <desc lang="tr">Opal bulmakta zorlanan Mooka Boys tehlikeli bir gece görevine çıkar. Bushmen yer altı madeninin haritasını çıkarmak için robot köpek kullanır.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/91/2204319893335eb7f426.jpg" />
+    <episode-num system="onscreen">S8 E9</episode-num>
+  </programme>
+  <programme start="20260819232000 +0000" stop="20260820000500 +0000" channel="DMAX.tr">
+    <title lang="tr">Bilinmeyene Yolculuk</title>
+    <desc lang="tr">Josh Gates dünyanın dört bir yanındaki çözülmemiş gizemleri araştırıyor. Soruşturmadan önce önemli görgü tanıkları ile görüşüyor ve güncel gelişmeleri takip ediyor.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/16/2204319893415eb7f426.jpg" />
+    <episode-num system="onscreen">S6 E13</episode-num>
   </programme>
   <channel id="CNBCe.tr">
     <display-name lang="tr">CNBC-e</display-name>
