@@ -6,7 +6,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/9o1atM6.png" tvg-chno="24" group-title="Türkiye TV",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.imgur.com/HyVUwFC.png" tvg-chno="25" group-title="Türkiye TV",ATV
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-name="NOW" tvg-logo="https://i.imgur.com/5EYjWK7.png" tvg-chno="26" group-title="Türkiye TV",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://i.imgur.com/9O3DHRB.png" tvg-chno="27" group-title="Türkiye TV",Star TV
@@ -135,7 +135,7 @@ http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" tvg-chno="148" group-title="Türkiye TV",Al Sunnah Al Nabawiyah TV
 http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NHK_World_Transparent.png" tvg-chno="149" group-title="Türkiye TV",NHK World Japan
-https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="TRTEBA.tr" tvg-name="TRT EBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png" tvg-chno="152" group-title="Türkiye TV",TRT EBA
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" tvg-chno="160" group-title="Türkiye TV",TRT Çocuk
