@@ -19,7 +19,7 @@ Beyaz TV,BeyazTV.tr,BeyazTV.tr,yes,epgshare-tr3,BEYAZ.TV.tr,BEYAZ TV,1.000,54,no
 tv100,TV100.tr,TV100.tr,yes,epgshare-tr3,TV100.tr,TV100,1.000,37,no
 Ülke TV,UlkeTV.tr,UlkeTV.tr,yes,epgshare-tr3,ÜLKE.TV.tr,ÜLKE TV,1.000,65,no
 TVNET,TVNET.tr,TVNET.tr,yes,epgshare-tr3,TVNET.HD.tr,TVNET HD,1.000,142,no
-24 TV,24TV.tr,24TV.tr,yes,epgshare-tr1,24.TV.tr,24 TV,1.000,63,no
+24 TV,24TV.tr,24TV.tr,yes,epgshare-tr1,24.TV.tr,24 TV,1.000,57,no
 NTV,NTV.tr,NTV.tr,yes,epgshare-tr3,NTV.HD.tr,NTV HD,1.000,295,no
 CNN Türk,CNNTurk.tr,CNNTurk.tr,yes,epgshare-tr3,CNN.TÜRK.HD.tr,CNN TÜRK HD,1.000,66,no
 A Para,APara.tr,APara.tr,yes,epgshare-tr3,A.PARA.tr,A PARA,1.000,136,no
@@ -39,7 +39,7 @@ TRT Avaz,TRTAvaz.tr,TRTAvaz.tr,yes,globetv-5,TRT AVAZ.tr,TRT AVAZ.tr,1.000,201,n
 TRT Kurdî,TRTKurdi.tr,TRTKurdi.tr,yes,globetv-4,TRT KURDİ.tr,TRT KURDİ.tr,1.000,90,no
 Türk Haber TV,TurkHaberTV.tr,TurkHaberTV.tr,yes,globetv-4,TÜRKHABER TV.tr,TÜRKHABER TV.tr,1.000,73,no
 Sözcü TV,SozcuTV.tr,SozcuTV.tr,yes,epgshare-tr3,SÖZCÜ.TV.tr,SÖZCÜ TV,1.000,42,no
-TRT Türk,TRTTurk.tr,TRTTurk.tr,yes,epgshare-tr1,TRT.TÜRK.tr,TRT TÜRK,1.000,136,no
+TRT Türk,TRTTurk.tr,TRTTurk.tr,yes,epgshare-tr1,TRT.TÜRK.tr,TRT TÜRK,1.000,142,no
 KRT,KRT.tr,KRT.tr,yes,globetv-1,KRT.tr,KRT.tr,1.000,0,no
 Bengü Türk,BenguTurk.tr,BenguTurk.tr,yes,epgshare-tr3,BENGÜTÜRK.tr,BENGÜTÜRK,1.000,61,no
 TV4,TV4.tr,TV4.tr,yes,epgshare-tr3,TV.4.tr,TV 4,1.000,77,no
@@ -56,15 +56,15 @@ TJK TV,TJKTV.tr,TJKTV.tr,no,,,,0.000,0,no
 Sports TV,SportsTV.tr,SportsTV.tr,yes,epgshare-tr3,SPORTS.TV.HD.tr,SPORTS TV HD,1.000,70,no
 TRT Müzik,TRTMuzik.tr,TRTMuzik.tr,yes,globetv-5,TRT MÜZİK.tr,TRT MÜZİK.tr,1.000,99,no
 TRT Arabi,TRTArabi.tr,TRTArabi.tr,yes,epgshare-tr3,TRT.ARABI.tr,TRT ARABI,1.000,180,no
-CGTN,CGTN.cn,CGTN.cn,yes,epgshare-tr1,CGTN.tr,CGTN,1.000,136,no
+CGTN,CGTN.cn,CGTN.cn,yes,epgshare-tr1,CGTN.tr,CGTN,1.000,138,no
 Euronews,EuronewsEnglish.fr,EuronewsEnglish.fr,yes,epgshare-tr3,EURONEWS.tr,EURONEWS,1.000,302,no
-Bloomberg Television,BloombergTV.us,BloombergTV.us,yes,epgshare-tr1,BLOOMBERG.TV.tr,BLOOMBERG TV,0.930,94,no
+Bloomberg Television,BloombergTV.us,BloombergTV.us,yes,epgshare-tr1,BLOOMBERG.TV.tr,BLOOMBERG TV,0.930,101,no
 A News,ANews.tr,ANews.tr,yes,epgshare-tr3,A.NEWS.HD.tr,A NEWS HD,1.000,338,no
 TRT World,TRTWorld.tr,TRTWorld.tr,yes,epgshare-tr3,TRT.World.HD.tr,TRT World HD,1.000,181,no
 Al Jazeera English,AlJazeera.qa,AlJazeera.qa,yes,epgshare-tr3,AL.JAZEERA.ENGLISH.tr,AL JAZEERA ENGLISH,1.000,122,no
 Al Quran Al Kareem TV,AlQuranAlKareemTV.sa,AlQuranAlKareemTV.sa,yes,globetv-3,Al Quran Al Kareem.tr,Al Quran Al Kareem.tr,0.941,13,no
 Al Sunnah Al Nabawiyah TV,AlSunnahAlNabawiyahTV.sa,AlSunnahAlNabawiyahTV.sa,yes,epgshare-tr1,AL.SUNNAH.AL.NABAWIYAH.tr,AL SUNNAH AL NABAWIYAH,0.952,18,no
-NHK World Japan,NHKWorldJapan.jp,NHKWorldJapan.jp,yes,epgshare-tr1,NHK.WORLD.tr,NHK WORLD,1.000,292,no
+NHK World Japan,NHKWorldJapan.jp,NHKWorldJapan.jp,yes,epgshare-tr1,NHK.WORLD.tr,NHK WORLD,1.000,316,no
 TRT EBA,TRTEBA.tr,TRTEBA.tr,yes,epgshare-tr3,TRT.EBA.tr,TRT EBA,1.000,184,no
 TRT Çocuk,TRTCocuk.tr,TRTCocuk.tr,yes,globetv-5,TRT ÇOCUK.tr,TRT ÇOCUK.tr,1.000,218,no
 Minika GO,MinikaGo.tr,MinikaGo.tr,yes,globetv-4,MİNİKA GO.tr,MİNİKA GO.tr,1.000,322,no
@@ -72,5 +72,5 @@ Minika Çocuk,MinikaCocuk.tr,MinikaCocuk.tr,yes,epgshare-tr3,MİNİKA.ÇOCUK.tr,
 Yaban TV,YabanTV.tr,YabanTV.tr,yes,epgshare-tr3,NTV.HD.tr,NTV HD,0.930,295,no
 TRT Belgesel,TRTBelgesel.tr,TRTBelgesel.tr,yes,globetv-5,TRT BELGESEL.tr,TRT BELGESEL.tr,1.000,107,no
 TGRT Belgesel,TGRTBelgesel.tr,TGRTBelgesel.tr,yes,globetv-1,TGRT Belgesel.tr,TGRT Belgesel.tr,1.000,0,no
-CGTN Documentary,CGTNDocumentary.cn,CGTNDocumentary.cn,yes,epgshare-tr1,CGTN.9.DOCUMENTARY.tr,CGTN 9 DOCUMENTARY,0.968,96,no
+CGTN Documentary,CGTNDocumentary.cn,CGTNDocumentary.cn,yes,epgshare-tr1,CGTN.9.DOCUMENTARY.tr,CGTN 9 DOCUMENTARY,0.968,108,no
 Güneydoğu TV,GuneydoguTV.tr,GuneydoguTV.tr,no,,,,0.000,0,no
