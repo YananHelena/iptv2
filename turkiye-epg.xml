@@ -12609,60 +12609,6 @@
     <url>http://www.turksatkablo.com.tr</url>
     <icon src="https://i.imgur.com/8FO41es.png" />
   </channel>
-  <programme start="20260817010000 +0300" stop="20260817023000 +0300" channel="24TV.tr">
-    <title lang="tr">Küresel Oyun</title>
-  </programme>
-  <programme start="20260817023000 +0300" stop="20260817032500 +0300" channel="24TV.tr">
-    <title lang="tr">24 Portre</title>
-  </programme>
-  <programme start="20260817032500 +0300" stop="20260817041500 +0300" channel="24TV.tr">
-    <title lang="tr">Okur Yazar</title>
-  </programme>
-  <programme start="20260817041500 +0300" stop="20260817051500 +0300" channel="24TV.tr">
-    <title lang="tr">An Ve Zaman</title>
-  </programme>
-  <programme start="20260817051500 +0300" stop="20260817060000 +0300" channel="24TV.tr">
-    <title lang="tr">Arafta Sorular</title>
-  </programme>
-  <programme start="20260817060000 +0300" stop="20260817070000 +0300" channel="24TV.tr">
-    <title lang="tr">Arafta Sorular</title>
-  </programme>
-  <programme start="20260817070000 +0300" stop="20260817090000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör Sabah</title>
-  </programme>
-  <programme start="20260817090000 +0300" stop="20260817105000 +0300" channel="24TV.tr">
-    <title lang="tr">Analiz Sentez</title>
-  </programme>
-  <programme start="20260817105000 +0300" stop="20260817110000 +0300" channel="24TV.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260817110000 +0300" stop="20260817120000 +0300" channel="24TV.tr">
-    <title lang="tr">Günün Manşeti</title>
-  </programme>
-  <programme start="20260817120000 +0300" stop="20260817123500 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör</title>
-  </programme>
-  <programme start="20260817123500 +0300" stop="20260817130000 +0300" channel="24TV.tr">
-    <title lang="tr">Kahve Molası</title>
-  </programme>
-  <programme start="20260817130000 +0300" stop="20260817160000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör</title>
-  </programme>
-  <programme start="20260817160000 +0300" stop="20260817180000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör</title>
-  </programme>
-  <programme start="20260817180000 +0300" stop="20260817200000 +0300" channel="24TV.tr">
-    <title lang="tr">Akşam Haberleri</title>
-  </programme>
-  <programme start="20260817200000 +0300" stop="20260817204500 +0300" channel="24TV.tr">
-    <title lang="tr">Brifing Saati</title>
-  </programme>
-  <programme start="20260817204500 +0300" stop="20260817230000 +0300" channel="24TV.tr">
-    <title lang="tr">Masada Ne Var ?</title>
-  </programme>
-  <programme start="20260817230000 +0300" stop="20260818010000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör Gece</title>
-  </programme>
   <programme start="20260818010000 +0300" stop="20260818020000 +0300" channel="24TV.tr">
     <title lang="tr">Günün Manşeti</title>
   </programme>
@@ -12778,6 +12724,63 @@
     <title lang="tr">24 Özel</title>
   </programme>
   <programme start="20260819230000 +0300" stop="20260820010000 +0300" channel="24TV.tr">
+    <title lang="tr">Moderatör Gece</title>
+  </programme>
+  <programme start="20260820010000 +0300" stop="20260820020000 +0300" channel="24TV.tr">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260820020000 +0300" stop="20260820023000 +0300" channel="24TV.tr">
+    <title lang="tr">Brifing Saati</title>
+  </programme>
+  <programme start="20260820023000 +0300" stop="20260820040000 +0300" channel="24TV.tr">
+    <title lang="tr">24 Özel</title>
+  </programme>
+  <programme start="20260820040000 +0300" stop="20260820044500 +0300" channel="24TV.tr">
+    <title lang="tr">24 Portre</title>
+  </programme>
+  <programme start="20260820044500 +0300" stop="20260820051500 +0300" channel="24TV.tr">
+    <title lang="tr">Okur Yazar</title>
+  </programme>
+  <programme start="20260820051500 +0300" stop="20260820060000 +0300" channel="24TV.tr">
+    <title lang="tr">An Ve Zaman</title>
+  </programme>
+  <programme start="20260820060000 +0300" stop="20260820070000 +0300" channel="24TV.tr">
+    <title lang="tr">An Ve Zaman</title>
+  </programme>
+  <programme start="20260820070000 +0300" stop="20260820090000 +0300" channel="24TV.tr">
+    <title lang="tr">Moderatör Sabah</title>
+  </programme>
+  <programme start="20260820090000 +0300" stop="20260820105000 +0300" channel="24TV.tr">
+    <title lang="tr">Analiz Sentez</title>
+  </programme>
+  <programme start="20260820105000 +0300" stop="20260820110000 +0300" channel="24TV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20260820110000 +0300" stop="20260820120000 +0300" channel="24TV.tr">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260820120000 +0300" stop="20260820123500 +0300" channel="24TV.tr">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260820123500 +0300" stop="20260820130000 +0300" channel="24TV.tr">
+    <title lang="tr">Reel Ekonomi</title>
+  </programme>
+  <programme start="20260820130000 +0300" stop="20260820160000 +0300" channel="24TV.tr">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260820160000 +0300" stop="20260820180000 +0300" channel="24TV.tr">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260820180000 +0300" stop="20260820200000 +0300" channel="24TV.tr">
+    <title lang="tr">Akşam Haberleri</title>
+  </programme>
+  <programme start="20260820200000 +0300" stop="20260820204500 +0300" channel="24TV.tr">
+    <title lang="tr">Mercek</title>
+  </programme>
+  <programme start="20260820204500 +0300" stop="20260820230000 +0300" channel="24TV.tr">
+    <title lang="tr">Temsil Heyeti</title>
+  </programme>
+  <programme start="20260820230000 +0300" stop="20260821010000 +0300" channel="24TV.tr">
     <title lang="tr">Moderatör Gece</title>
   </programme>
   <channel id="NTV.tr">
@@ -25444,147 +25447,6 @@
     <url>http://www.turksatkablo.com.tr</url>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" />
   </channel>
-  <programme start="20260817003000 +0300" stop="20260817013000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Savaşın Efsaneleri</title>
-  </programme>
-  <programme start="20260817013000 +0300" stop="20260817021500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Savunma Sanayiinin Yalnız Dehaları</title>
-  </programme>
-  <programme start="20260817021500 +0300" stop="20260817030000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Zamane</title>
-  </programme>
-  <programme start="20260817030000 +0300" stop="20260817040000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Gönlümdeki Köln</title>
-  </programme>
-  <programme start="20260817040000 +0300" stop="20260817043000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Gönül Verenler</title>
-  </programme>
-  <programme start="20260817043000 +0300" stop="20260817053000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Ailenin Yeni Üyesi (Malbata Min a Nû)</title>
-  </programme>
-  <programme start="20260817053000 +0300" stop="20260817060000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Rumeli Saati</title>
-  </programme>
-  <programme start="20260817060000 +0300" stop="20260817065500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Zuhurat</title>
-  </programme>
-  <programme start="20260817065500 +0300" stop="20260817070000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">İstiklal Marşı Çocuk</title>
-  </programme>
-  <programme start="20260817070000 +0300" stop="20260817072500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Almanya Camileri</title>
-  </programme>
-  <programme start="20260817072500 +0300" stop="20260817073500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">En Güzel</title>
-  </programme>
-  <programme start="20260817073500 +0300" stop="20260817074500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Efendimizin 24 Saati</title>
-  </programme>
-  <programme start="20260817074500 +0300" stop="20260817080000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Canı Gönülden</title>
-  </programme>
-  <programme start="20260817080000 +0300" stop="20260817093000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Aslan Hürkuş: Görevimiz Gökbey</title>
-  </programme>
-  <programme start="20260817093000 +0300" stop="20260817094000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Ferman İle Güzel Türkçem</title>
-  </programme>
-  <programme start="20260817094000 +0300" stop="20260817095000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Gökten Üç Elma Düştü</title>
-  </programme>
-  <programme start="20260817095000 +0300" stop="20260817100000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Arkadaşım Kirpi</title>
-  </programme>
-  <programme start="20260817100000 +0300" stop="20260817101000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Burak İle Bubu</title>
-  </programme>
-  <programme start="20260817101000 +0300" stop="20260817102000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Kıbrıs Masalları</title>
-  </programme>
-  <programme start="20260817102000 +0300" stop="20260817103000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Kitapçı Dükkanı</title>
-  </programme>
-  <programme start="20260817103000 +0300" stop="20260817110000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Temizlik Kulübü</title>
-  </programme>
-  <programme start="20260817110000 +0300" stop="20260817112000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Şef Olacak Çocuk</title>
-  </programme>
-  <programme start="20260817112000 +0300" stop="20260817113000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Kıbrıs Lezzetleri</title>
-  </programme>
-  <programme start="20260817113000 +0300" stop="20260817120000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Rumeli Lezzetleri</title>
-  </programme>
-  <programme start="20260817120000 +0300" stop="20260817124500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Hoş Geldin Kahvesi</title>
-  </programme>
-  <programme start="20260817124500 +0300" stop="20260817130000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Zuhurat</title>
-  </programme>
-  <programme start="20260817130000 +0300" stop="20260817140000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Acemi Anneler</title>
-  </programme>
-  <programme start="20260817140000 +0300" stop="20260817145000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Öğle Ana Haber</title>
-  </programme>
-  <programme start="20260817145000 +0300" stop="20260817150000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Ne Kadar Ekmek O Kadar Köfte</title>
-  </programme>
-  <programme start="20260817150000 +0300" stop="20260817153000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Rafet El Roman ile Her Şey Yolunda</title>
-  </programme>
-  <programme start="20260817153000 +0300" stop="20260817160000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Kültür Noktası</title>
-  </programme>
-  <programme start="20260817160000 +0300" stop="20260817161000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Balkan Sözlüğü</title>
-  </programme>
-  <programme start="20260817161000 +0300" stop="20260817162500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Fabrika Ayarı</title>
-  </programme>
-  <programme start="20260817162500 +0300" stop="20260817164000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Memlekete Doğru</title>
-  </programme>
-  <programme start="20260817164000 +0300" stop="20260817164500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Avrupa Türkleri Sözlüğü</title>
-  </programme>
-  <programme start="20260817164500 +0300" stop="20260817173000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Yerden Yüksek</title>
-  </programme>
-  <programme start="20260817173000 +0300" stop="20260817180000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Gönül Verenler</title>
-  </programme>
-  <programme start="20260817180000 +0300" stop="20260817184500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Hoş Geldin Kahvesi</title>
-  </programme>
-  <programme start="20260817184500 +0300" stop="20260817190000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Kıbrıs Sözlüğü</title>
-  </programme>
-  <programme start="20260817190000 +0300" stop="20260817194500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Sıcak Haber</title>
-  </programme>
-  <programme start="20260817194500 +0300" stop="20260817200000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Zuhurat</title>
-  </programme>
-  <programme start="20260817200000 +0300" stop="20260817210000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Gönlümdeki Köln</title>
-  </programme>
-  <programme start="20260817210000 +0300" stop="20260817214500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Seksenler</title>
-  </programme>
-  <programme start="20260817214500 +0300" stop="20260817223000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Yalnız Minare</title>
-  </programme>
-  <programme start="20260817223000 +0300" stop="20260817231500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Yamak Ahmet</title>
-  </programme>
-  <programme start="20260817231500 +0300" stop="20260817234500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Memleket Kreuzberg</title>
-  </programme>
-  <programme start="20260817234500 +0300" stop="20260818001500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Leyla ile Mecnun</title>
-  </programme>
   <programme start="20260818001500 +0300" stop="20260818011500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Hoş Geldin Kahvesi</title>
   </programme>
@@ -25871,6 +25733,141 @@
     <title lang="tr">Memleket Kreuzberg</title>
   </programme>
   <programme start="20260819234500 +0300" stop="20260820001500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Leyla ile Mecnun</title>
+  </programme>
+  <programme start="20260820001500 +0300" stop="20260820011500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Hoş Geldin Kahvesi</title>
+  </programme>
+  <programme start="20260820011500 +0300" stop="20260820020000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Kıbrıs Zafere Doğru</title>
+  </programme>
+  <programme start="20260820020000 +0300" stop="20260820030000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Türkü Evi</title>
+  </programme>
+  <programme start="20260820030000 +0300" stop="20260820040000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Gönlümdeki Köln</title>
+  </programme>
+  <programme start="20260820040000 +0300" stop="20260820044500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20260820044500 +0300" stop="20260820053000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Yalnız Minare</title>
+  </programme>
+  <programme start="20260820053000 +0300" stop="20260820070000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Leyla ile Mecnun</title>
+  </programme>
+  <programme start="20260820070000 +0300" stop="20260820072500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Almanya Camileri</title>
+  </programme>
+  <programme start="20260820072500 +0300" stop="20260820073500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">En Güzel</title>
+  </programme>
+  <programme start="20260820073500 +0300" stop="20260820074500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Efendimizin 24 Saati</title>
+  </programme>
+  <programme start="20260820074500 +0300" stop="20260820080000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Canı Gönülden</title>
+  </programme>
+  <programme start="20260820080000 +0300" stop="20260820093000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Elif Ve Arkadaşları 2: Perişler</title>
+  </programme>
+  <programme start="20260820093000 +0300" stop="20260820094000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Ferman İle Güzel Türkçem</title>
+  </programme>
+  <programme start="20260820094000 +0300" stop="20260820095000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Gökten Üç Elma Düştü</title>
+  </programme>
+  <programme start="20260820095000 +0300" stop="20260820100000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Arkadaşım Kirpi</title>
+  </programme>
+  <programme start="20260820100000 +0300" stop="20260820101000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Burak İle Bubu</title>
+  </programme>
+  <programme start="20260820101000 +0300" stop="20260820102000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Kıbrıs Masalları</title>
+  </programme>
+  <programme start="20260820102000 +0300" stop="20260820103000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Kitapçı Dükkanı</title>
+  </programme>
+  <programme start="20260820103000 +0300" stop="20260820110000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Temizlik Kulübü</title>
+  </programme>
+  <programme start="20260820110000 +0300" stop="20260820112000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Şef Olacak Çocuk</title>
+  </programme>
+  <programme start="20260820112000 +0300" stop="20260820113000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Kıbrıs Lezzetleri</title>
+  </programme>
+  <programme start="20260820113000 +0300" stop="20260820120000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Rumeli Lezzetleri</title>
+  </programme>
+  <programme start="20260820120000 +0300" stop="20260820124500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Hoş Geldin Kahvesi</title>
+  </programme>
+  <programme start="20260820124500 +0300" stop="20260820130000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Zuhurat</title>
+  </programme>
+  <programme start="20260820130000 +0300" stop="20260820140000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Acemi Anneler</title>
+  </programme>
+  <programme start="20260820140000 +0300" stop="20260820145000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Öğle Ana Haber</title>
+  </programme>
+  <programme start="20260820145000 +0300" stop="20260820150000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Ne Kadar Ekmek O Kadar Köfte</title>
+  </programme>
+  <programme start="20260820150000 +0300" stop="20260820153000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Rafet El Roman ile Her Şey Yolunda</title>
+  </programme>
+  <programme start="20260820153000 +0300" stop="20260820160000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Kültür Noktası</title>
+  </programme>
+  <programme start="20260820160000 +0300" stop="20260820161000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Balkan Sözlüğü</title>
+  </programme>
+  <programme start="20260820161000 +0300" stop="20260820162500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Fabrika Ayarı</title>
+  </programme>
+  <programme start="20260820162500 +0300" stop="20260820164000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Memlekete Doğru</title>
+  </programme>
+  <programme start="20260820164000 +0300" stop="20260820164500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Avrupa Türkleri Sözlüğü</title>
+  </programme>
+  <programme start="20260820164500 +0300" stop="20260820173000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Yerden Yüksek</title>
+  </programme>
+  <programme start="20260820173000 +0300" stop="20260820180000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Balkan Saati</title>
+  </programme>
+  <programme start="20260820180000 +0300" stop="20260820184500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Hoş Geldin Kahvesi</title>
+  </programme>
+  <programme start="20260820184500 +0300" stop="20260820190000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Kıbrıs Sözlüğü</title>
+  </programme>
+  <programme start="20260820190000 +0300" stop="20260820194500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Sıcak Haber</title>
+  </programme>
+  <programme start="20260820194500 +0300" stop="20260820200000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Zuhurat</title>
+  </programme>
+  <programme start="20260820200000 +0300" stop="20260820210000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Gönlümdeki Köln</title>
+  </programme>
+  <programme start="20260820210000 +0300" stop="20260820214500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20260820214500 +0300" stop="20260820223000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Yalnız Minare</title>
+  </programme>
+  <programme start="20260820223000 +0300" stop="20260820231500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Misafir Kapıda</title>
+  </programme>
+  <programme start="20260820231500 +0300" stop="20260820234500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Memleket Kreuzberg</title>
+  </programme>
+  <programme start="20260820234500 +0300" stop="20260821001500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Leyla ile Mecnun</title>
   </programme>
   <channel id="KRT.tr">
@@ -33199,70 +33196,61 @@
     <title lang="tr">The World Today</title>
   </programme>
   <programme start="20260818003000 +0300" stop="20260818010000 +0300" channel="CGTN.cn">
-    <title lang="tr">Travelogue</title>
+    <title lang="tr">The Vibe</title>
   </programme>
-  <programme start="20260818010000 +0300" stop="20260818013000 +0300" channel="CGTN.cn">
-    <title lang="tr">The World Today</title>
+  <programme start="20260818010000 +0300" stop="20260818020000 +0300" channel="CGTN.cn">
+    <title lang="tr">Global Business</title>
   </programme>
-  <programme start="20260818013000 +0300" stop="20260818020000 +0300" channel="CGTN.cn">
-    <title lang="tr">Razor</title>
-  </programme>
-  <programme start="20260818020000 +0300" stop="20260818023000 +0300" channel="CGTN.cn">
+  <programme start="20260818020000 +0300" stop="20260818030000 +0300" channel="CGTN.cn">
     <title lang="tr">Africa Live</title>
   </programme>
-  <programme start="20260818023000 +0300" stop="20260818030000 +0300" channel="CGTN.cn">
-    <title lang="tr">Faces of Africa</title>
-  </programme>
-  <programme start="20260818030000 +0300" stop="20260818033000 +0300" channel="CGTN.cn">
-    <title lang="tr">Razor</title>
-  </programme>
-  <programme start="20260818033000 +0300" stop="20260818040000 +0300" channel="CGTN.cn">
-    <title lang="tr">Talk Africa</title>
+  <programme start="20260818030000 +0300" stop="20260818040000 +0300" channel="CGTN.cn">
+    <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260818040000 +0300" stop="20260818043000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
   </programme>
   <programme start="20260818043000 +0300" stop="20260818050000 +0300" channel="CGTN.cn">
-    <title lang="tr">Inheritors</title>
+    <title lang="tr">World Insight with Tian Wei</title>
   </programme>
   <programme start="20260818050000 +0300" stop="20260818053000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
   </programme>
   <programme start="20260818053000 +0300" stop="20260818060000 +0300" channel="CGTN.cn">
-    <title lang="tr">Travelogue</title>
+    <title lang="tr">Dialogue</title>
   </programme>
   <programme start="20260818060000 +0300" stop="20260818063000 +0300" channel="CGTN.cn">
-    <title lang="tr">The World Today</title>
+    <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260818063000 +0300" stop="20260818070000 +0300" channel="CGTN.cn">
-    <title lang="tr">Assignment Asia</title>
+    <title lang="tr">The Point with Liu Xin</title>
   </programme>
-  <programme start="20260818070000 +0300" stop="20260818080000 +0300" channel="CGTN.cn">
-    <title lang="tr">Americas Now</title>
+  <programme start="20260818070000 +0300" stop="20260818073000 +0300" channel="CGTN.cn">
+    <title lang="tr">The World Today</title>
+  </programme>
+  <programme start="20260818073000 +0300" stop="20260818080000 +0300" channel="CGTN.cn">
+    <title lang="tr">Rediscovering China</title>
   </programme>
   <programme start="20260818080000 +0300" stop="20260818083000 +0300" channel="CGTN.cn">
-    <title lang="tr">The World Today</title>
+    <title lang="tr">The Heat</title>
   </programme>
   <programme start="20260818083000 +0300" stop="20260818090000 +0300" channel="CGTN.cn">
-    <title lang="tr">Faces of Africa</title>
-  </programme>
-  <programme start="20260818090000 +0300" stop="20260818093000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
   </programme>
-  <programme start="20260818093000 +0300" stop="20260818100000 +0300" channel="CGTN.cn">
-    <title lang="tr">Inheritors</title>
+  <programme start="20260818090000 +0300" stop="20260818100000 +0300" channel="CGTN.cn">
+    <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260818100000 +0300" stop="20260818103000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
   </programme>
   <programme start="20260818103000 +0300" stop="20260818110000 +0300" channel="CGTN.cn">
-    <title lang="tr">Razor</title>
+    <title lang="tr">China 24</title>
   </programme>
   <programme start="20260818110000 +0300" stop="20260818113000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
   </programme>
   <programme start="20260818113000 +0300" stop="20260818120000 +0300" channel="CGTN.cn">
-    <title lang="tr">Travelogue</title>
+    <title lang="tr">World Insight with Tian Wei</title>
   </programme>
   <programme start="20260818120000 +0300" stop="20260818121500 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33271,7 +33259,7 @@
     <title lang="tr">Sports Scene</title>
   </programme>
   <programme start="20260818123000 +0300" stop="20260818130000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">The Hub With Wang Guan</title>
   </programme>
   <programme start="20260818130000 +0300" stop="20260818140000 +0300" channel="CGTN.cn">
     <title lang="tr">Global Watch</title>
@@ -33289,7 +33277,7 @@
     <title lang="tr">The World Today</title>
   </programme>
   <programme start="20260818153000 +0300" stop="20260818160000 +0300" channel="CGTN.cn">
-    <title lang="tr">Razor</title>
+    <title lang="tr">The Heat</title>
   </programme>
   <programme start="20260818160000 +0300" stop="20260818163000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33331,7 +33319,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260818223000 +0300" stop="20260818230000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">The Hub With Wang Guan</title>
   </programme>
   <programme start="20260818230000 +0300" stop="20260818233000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33370,7 +33358,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260819063000 +0300" stop="20260819070000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">The Hub With Wang Guan</title>
   </programme>
   <programme start="20260819070000 +0300" stop="20260819073000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33406,7 +33394,7 @@
     <title lang="tr">Sports Scene</title>
   </programme>
   <programme start="20260819123000 +0300" stop="20260819130000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Hub With Wang Guan</title>
+    <title lang="tr">The Point with Liu Xin</title>
   </programme>
   <programme start="20260819130000 +0300" stop="20260819140000 +0300" channel="CGTN.cn">
     <title lang="tr">Global Watch</title>
@@ -33466,7 +33454,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260819223000 +0300" stop="20260819230000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Hub With Wang Guan</title>
+    <title lang="tr">The Point with Liu Xin</title>
   </programme>
   <programme start="20260819230000 +0300" stop="20260819233000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33505,7 +33493,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260820063000 +0300" stop="20260820070000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Hub With Wang Guan</title>
+    <title lang="tr">The Point with Liu Xin</title>
   </programme>
   <programme start="20260820070000 +0300" stop="20260820073000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33541,7 +33529,7 @@
     <title lang="tr">Sports Scene</title>
   </programme>
   <programme start="20260820123000 +0300" stop="20260820130000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">The Hub With Wang Guan</title>
   </programme>
   <programme start="20260820130000 +0300" stop="20260820140000 +0300" channel="CGTN.cn">
     <title lang="tr">Global Watch</title>
@@ -33601,7 +33589,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260820223000 +0300" stop="20260820230000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">The Hub With Wang Guan</title>
   </programme>
   <programme start="20260820230000 +0300" stop="20260820233000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -35402,25 +35390,28 @@
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png" />
   </channel>
   <programme start="20260818003000 +0300" stop="20260818012000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Aslı Şafak'la İşin Aslı</title>
+  </programme>
+  <programme start="20260818012000 +0300" stop="20260818021000 +0300" channel="BloombergTV.us">
     <title lang="tr">HT Kulüp</title>
   </programme>
-  <programme start="20260818012000 +0300" stop="20260818015000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Bloomberg Primer</title>
+  <programme start="20260818021000 +0300" stop="20260818023500 +0300" channel="BloombergTV.us">
+    <title lang="tr">Fon Saati</title>
   </programme>
-  <programme start="20260818015000 +0300" stop="20260818024000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Last Of the Giants</title>
+  <programme start="20260818023500 +0300" stop="20260818030000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Varlık Yönetimi</title>
   </programme>
-  <programme start="20260818024000 +0300" stop="20260818031000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Great British Railway Journeys</title>
+  <programme start="20260818030000 +0300" stop="20260818040500 +0300" channel="BloombergTV.us">
+    <title lang="tr">Spor Kulübü</title>
   </programme>
-  <programme start="20260818031000 +0300" stop="20260818040000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Grand Designs</title>
+  <programme start="20260818040500 +0300" stop="20260818043000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Aile Ekonomisi</title>
   </programme>
-  <programme start="20260818040000 +0300" stop="20260818044500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Celebrity Escape to the Country</title>
+  <programme start="20260818043000 +0300" stop="20260818045500 +0300" channel="BloombergTV.us">
+    <title lang="tr">Fon Saati</title>
   </programme>
-  <programme start="20260818044500 +0300" stop="20260818052000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Macerasever</title>
+  <programme start="20260818045500 +0300" stop="20260818052000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Varlık Yönetimi</title>
   </programme>
   <programme start="20260818052000 +0300" stop="20260818061000 +0300" channel="BloombergTV.us">
     <title lang="tr">HT Kulüp</title>
@@ -35440,11 +35431,8 @@
   <programme start="20260818094500 +0300" stop="20260818101500 +0300" channel="BloombergTV.us">
     <title lang="tr">Piyasa Masası</title>
   </programme>
-  <programme start="20260818101500 +0300" stop="20260818110000 +0300" channel="BloombergTV.us">
+  <programme start="20260818101500 +0300" stop="20260818111500 +0300" channel="BloombergTV.us">
     <title lang="tr">Yatırım Kulübü</title>
-  </programme>
-  <programme start="20260818110000 +0300" stop="20260818111500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Grafik Düellosu</title>
   </programme>
   <programme start="20260818111500 +0300" stop="20260818120000 +0300" channel="BloombergTV.us">
     <title lang="tr">Fokus</title>
@@ -35453,13 +35441,13 @@
     <title lang="tr">30 Dakika</title>
   </programme>
   <programme start="20260818123000 +0300" stop="20260818130000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Aile Ekonomisi</title>
+    <title lang="tr">Girişimcilik Dünyası</title>
   </programme>
   <programme start="20260818130000 +0300" stop="20260818133000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Fon Saati</title>
+    <title lang="tr">Seans Ortası</title>
   </programme>
   <programme start="20260818133000 +0300" stop="20260818140000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Varlık Yönetimi</title>
+    <title lang="tr">Akıllı Tarım</title>
   </programme>
   <programme start="20260818140000 +0300" stop="20260818144500 +0300" channel="BloombergTV.us">
     <title lang="tr">Piyasa Hattı</title>
@@ -35497,35 +35485,38 @@
   <programme start="20260818220000 +0300" stop="20260818231000 +0300" channel="BloombergTV.us">
     <title lang="tr">Küresel Piyasalar</title>
   </programme>
-  <programme start="20260818231000 +0300" stop="20260819003000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Spor Kulübü</title>
+  <programme start="20260818231000 +0300" stop="20260819001000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Açık Hava Sineması</title>
   </programme>
-  <programme start="20260819003000 +0300" stop="20260819012000 +0300" channel="BloombergTV.us">
+  <programme start="20260819001000 +0300" stop="20260819004000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Bloomberg Wealth With David Rubenstein</title>
+  </programme>
+  <programme start="20260819004000 +0300" stop="20260819013000 +0300" channel="BloombergTV.us">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
   </programme>
-  <programme start="20260819012000 +0300" stop="20260819021000 +0300" channel="BloombergTV.us">
-    <title lang="tr">HT Kulüp</title>
+  <programme start="20260819013000 +0300" stop="20260819022000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Ece Saruhan'la Oyuna Devam</title>
   </programme>
-  <programme start="20260819021000 +0300" stop="20260819023500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Fon Saati</title>
+  <programme start="20260819022000 +0300" stop="20260819024500 +0300" channel="BloombergTV.us">
+    <title lang="tr">Girişimcilik Dünyası</title>
   </programme>
-  <programme start="20260819023500 +0300" stop="20260819030000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Varlık Yönetimi</title>
+  <programme start="20260819024500 +0300" stop="20260819031000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Akıllı Tarım</title>
   </programme>
-  <programme start="20260819030000 +0300" stop="20260819040500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Spor Kulübü</title>
+  <programme start="20260819031000 +0300" stop="20260819040500 +0300" channel="BloombergTV.us">
+    <title lang="tr">Açık Hava Sineması</title>
   </programme>
   <programme start="20260819040500 +0300" stop="20260819043000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Aile Ekonomisi</title>
+    <title lang="tr">Bloomberg Wealth With David Rubenstein</title>
   </programme>
   <programme start="20260819043000 +0300" stop="20260819045500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Fon Saati</title>
+    <title lang="tr">Girişimcilik Dünyası</title>
   </programme>
   <programme start="20260819045500 +0300" stop="20260819052000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Varlık Yönetimi</title>
+    <title lang="tr">Akıllı Tarım</title>
   </programme>
   <programme start="20260819052000 +0300" stop="20260819061000 +0300" channel="BloombergTV.us">
-    <title lang="tr">HT Kulüp</title>
+    <title lang="tr">Ece Saruhan'la Oyuna Devam</title>
   </programme>
   <programme start="20260819061000 +0300" stop="20260819070000 +0300" channel="BloombergTV.us">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
@@ -35542,8 +35533,11 @@
   <programme start="20260819094500 +0300" stop="20260819101500 +0300" channel="BloombergTV.us">
     <title lang="tr">Piyasa Masası</title>
   </programme>
-  <programme start="20260819101500 +0300" stop="20260819111500 +0300" channel="BloombergTV.us">
+  <programme start="20260819101500 +0300" stop="20260819110000 +0300" channel="BloombergTV.us">
     <title lang="tr">Yatırım Kulübü</title>
+  </programme>
+  <programme start="20260819110000 +0300" stop="20260819111500 +0300" channel="BloombergTV.us">
+    <title lang="tr">Grafik Düellosu</title>
   </programme>
   <programme start="20260819111500 +0300" stop="20260819120000 +0300" channel="BloombergTV.us">
     <title lang="tr">Fokus</title>
@@ -35552,13 +35546,10 @@
     <title lang="tr">30 Dakika</title>
   </programme>
   <programme start="20260819123000 +0300" stop="20260819130000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Girişimcilik Dünyası</title>
+    <title lang="tr">Tarım Analiz</title>
   </programme>
-  <programme start="20260819130000 +0300" stop="20260819133000 +0300" channel="BloombergTV.us">
+  <programme start="20260819130000 +0300" stop="20260819140000 +0300" channel="BloombergTV.us">
     <title lang="tr">Seans Ortası</title>
-  </programme>
-  <programme start="20260819133000 +0300" stop="20260819140000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Akıllı Tarım</title>
   </programme>
   <programme start="20260819140000 +0300" stop="20260819144500 +0300" channel="BloombergTV.us">
     <title lang="tr">Piyasa Hattı</title>
@@ -35566,8 +35557,11 @@
   <programme start="20260819144500 +0300" stop="20260819151500 +0300" channel="BloombergTV.us">
     <title lang="tr">İş Dünyası</title>
   </programme>
-  <programme start="20260819151500 +0300" stop="20260819160000 +0300" channel="BloombergTV.us">
+  <programme start="20260819151500 +0300" stop="20260819153000 +0300" channel="BloombergTV.us">
     <title lang="tr">Akıllı Para</title>
+  </programme>
+  <programme start="20260819153000 +0300" stop="20260819160000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Tarih Keyfi</title>
   </programme>
   <programme start="20260819160000 +0300" stop="20260819170000 +0300" channel="BloombergTV.us">
     <title lang="tr">Finans Merkezi</title>
@@ -35597,37 +35591,37 @@
     <title lang="tr">Küresel Piyasalar</title>
   </programme>
   <programme start="20260819231000 +0300" stop="20260820001000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Açık Hava Sineması</title>
+    <title lang="tr">İşin Zirvesinde</title>
   </programme>
   <programme start="20260820001000 +0300" stop="20260820004000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Bloomberg Wealth With David Rubenstein</title>
+    <title lang="tr">Leaders With Lacqua</title>
   </programme>
   <programme start="20260820004000 +0300" stop="20260820013000 +0300" channel="BloombergTV.us">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
   </programme>
   <programme start="20260820013000 +0300" stop="20260820022000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Ece Saruhan'la Oyuna Devam</title>
+    <title lang="tr">Akustikhane</title>
   </programme>
   <programme start="20260820022000 +0300" stop="20260820024500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Girişimcilik Dünyası</title>
+    <title lang="tr">Tarım Analiz</title>
   </programme>
   <programme start="20260820024500 +0300" stop="20260820031000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Akıllı Tarım</title>
+    <title lang="tr">İş Dünyası</title>
   </programme>
   <programme start="20260820031000 +0300" stop="20260820040500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Açık Hava Sineması</title>
+    <title lang="tr">İşin Zirvesinde</title>
   </programme>
   <programme start="20260820040500 +0300" stop="20260820043000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Bloomberg Wealth With David Rubenstein</title>
+    <title lang="tr">Leaders With Lacqua</title>
   </programme>
   <programme start="20260820043000 +0300" stop="20260820045500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Girişimcilik Dünyası</title>
+    <title lang="tr">Tarım Analiz</title>
   </programme>
   <programme start="20260820045500 +0300" stop="20260820052000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Akıllı Tarım</title>
+    <title lang="tr">İş Dünyası</title>
   </programme>
   <programme start="20260820052000 +0300" stop="20260820061000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Ece Saruhan'la Oyuna Devam</title>
+    <title lang="tr">Akustikhane</title>
   </programme>
   <programme start="20260820061000 +0300" stop="20260820070000 +0300" channel="BloombergTV.us">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
@@ -35657,9 +35651,12 @@
     <title lang="tr">30 Dakika</title>
   </programme>
   <programme start="20260820123000 +0300" stop="20260820130000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Tarım Analiz</title>
+    <title lang="tr">Üst Düzey</title>
   </programme>
-  <programme start="20260820130000 +0300" stop="20260820140000 +0300" channel="BloombergTV.us">
+  <programme start="20260820130000 +0300" stop="20260820133000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Gündem Teknoloji</title>
+  </programme>
+  <programme start="20260820133000 +0300" stop="20260820140000 +0300" channel="BloombergTV.us">
     <title lang="tr">Seans Ortası</title>
   </programme>
   <programme start="20260820140000 +0300" stop="20260820144500 +0300" channel="BloombergTV.us">
@@ -35668,11 +35665,8 @@
   <programme start="20260820144500 +0300" stop="20260820151500 +0300" channel="BloombergTV.us">
     <title lang="tr">İş Dünyası</title>
   </programme>
-  <programme start="20260820151500 +0300" stop="20260820153000 +0300" channel="BloombergTV.us">
+  <programme start="20260820151500 +0300" stop="20260820160000 +0300" channel="BloombergTV.us">
     <title lang="tr">Akıllı Para</title>
-  </programme>
-  <programme start="20260820153000 +0300" stop="20260820160000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Tarih Keyfi</title>
   </programme>
   <programme start="20260820160000 +0300" stop="20260820170000 +0300" channel="BloombergTV.us">
     <title lang="tr">Finans Merkezi</title>
@@ -35686,11 +35680,8 @@
   <programme start="20260820182000 +0300" stop="20260820190000 +0300" channel="BloombergTV.us">
     <title lang="tr">Günden Kalanlar</title>
   </programme>
-  <programme start="20260820190000 +0300" stop="20260820192000 +0300" channel="BloombergTV.us">
+  <programme start="20260820190000 +0300" stop="20260820200000 +0300" channel="BloombergTV.us">
     <title lang="tr">60 Dakika</title>
-  </programme>
-  <programme start="20260820192000 +0300" stop="20260820200000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Başarıya Doğru</title>
   </programme>
   <programme start="20260820200000 +0300" stop="20260820210000 +0300" channel="BloombergTV.us">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
@@ -35701,8 +35692,8 @@
   <programme start="20260820220000 +0300" stop="20260820231000 +0300" channel="BloombergTV.us">
     <title lang="tr">Küresel Piyasalar</title>
   </programme>
-  <programme start="20260820231000 +0300" stop="20260821001000 +0300" channel="BloombergTV.us">
-    <title lang="tr">İşin Zirvesinde</title>
+  <programme start="20260820231000 +0300" stop="20260821004000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Oyun Dışı</title>
   </programme>
   <channel id="ANews.tr">
     <display-name>A News</display-name>
@@ -39637,92 +39628,86 @@
   <programme start="20260818000000 +0300" stop="20260818001000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
   </programme>
-  <programme start="20260818001000 +0300" stop="20260818004000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">J-Melo</title>
+  <programme start="20260818001000 +0300" stop="20260818002300 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Biz Stream Special Edition</title>
   </programme>
-  <programme start="20260818004000 +0300" stop="20260818005000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Little Charo</title>
+  <programme start="20260818002300 +0300" stop="20260818003000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">One in Every Japanese</title>
   </programme>
-  <programme start="20260818005000 +0300" stop="20260818005500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Japanology Plus Mini</title>
+  <programme start="20260818003000 +0300" stop="20260818004500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Bosai: Science That Can Save Your Life</title>
+  </programme>
+  <programme start="20260818004500 +0300" stop="20260818005500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">IMPACTS: Climates Change the World</title>
   </programme>
   <programme start="20260818005500 +0300" stop="20260818010000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">A Cat's-eye View Of Japan</title>
+    <title lang="tr">Time-lapse Japan</title>
   </programme>
   <programme start="20260818010000 +0300" stop="20260818011000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
   </programme>
-  <programme start="20260818011000 +0300" stop="20260818012500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Ramen Japan</title>
+  <programme start="20260818011000 +0300" stop="20260818013000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">My Street Piano</title>
   </programme>
-  <programme start="20260818012500 +0300" stop="20260818013000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Core Kyoto Mini</title>
+  <programme start="20260818013000 +0300" stop="20260818014000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Magical Japanese</title>
   </programme>
-  <programme start="20260818013000 +0300" stop="20260818014500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Easy Japanese For Work</title>
+  <programme start="20260818014000 +0300" stop="20260818014500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Easy Japanese</title>
   </programme>
-  <programme start="20260818014500 +0300" stop="20260818020000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Zero Waste Life</title>
+  <programme start="20260818014500 +0300" stop="20260818015500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Culture Crossroads</title>
+  </programme>
+  <programme start="20260818015500 +0300" stop="20260818020000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Hello! NHK World Japan</title>
   </programme>
   <programme start="20260818020000 +0300" stop="20260818021000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
   </programme>
-  <programme start="20260818021000 +0300" stop="20260818025700 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Somewhere Street</title>
+  <programme start="20260818021000 +0300" stop="20260818022500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">CINEMATIC JOURNEY</title>
+  </programme>
+  <programme start="20260818022500 +0300" stop="20260818023000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Ramen Japan</title>
+  </programme>
+  <programme start="20260818023000 +0300" stop="20260818025700 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Hometown Stories</title>
   </programme>
   <programme start="20260818025700 +0300" stop="20260818030000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Time-lapse Japan</title>
+    <title lang="tr">Satoyama Kitchen Diary</title>
   </programme>
   <programme start="20260818030000 +0300" stop="20260818031000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
   </programme>
-  <programme start="20260818031000 +0300" stop="20260818031500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Chatroom Japan</title>
+  <programme start="20260818031000 +0300" stop="20260818032300 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Biz Stream Special Edition</title>
   </programme>
-  <programme start="20260818031500 +0300" stop="20260818032500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">IMPACTS: Climates Change the World</title>
+  <programme start="20260818032300 +0300" stop="20260818033000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Japan From Above: Up Close</title>
   </programme>
-  <programme start="20260818032500 +0300" stop="20260818033000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Design Museum Japan</title>
-  </programme>
-  <programme start="20260818033000 +0300" stop="20260818035500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">The Factory Wonders</title>
-  </programme>
-  <programme start="20260818035500 +0300" stop="20260818040000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Time-lapse Japan</title>
+  <programme start="20260818033000 +0300" stop="20260818040000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Journeys in Japan</title>
   </programme>
   <programme start="20260818040000 +0300" stop="20260818041000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
   </programme>
-  <programme start="20260818041000 +0300" stop="20260818041500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">The Seasons Of Yamato</title>
+  <programme start="20260818041000 +0300" stop="20260818043000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">My Street Piano</title>
   </programme>
-  <programme start="20260818041500 +0300" stop="20260818043000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Bosai: Science That Can Save Your Life</title>
-  </programme>
-  <programme start="20260818043000 +0300" stop="20260818044000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Magical Japanese</title>
-  </programme>
-  <programme start="20260818044000 +0300" stop="20260818044500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Easy Japanese</title>
-  </programme>
-  <programme start="20260818044500 +0300" stop="20260818045500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Culture Crossroads</title>
-  </programme>
-  <programme start="20260818045500 +0300" stop="20260818050000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Hello! NHK World Japan</title>
+  <programme start="20260818043000 +0300" stop="20260818050000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Dining with the Chef</title>
   </programme>
   <programme start="20260818050000 +0300" stop="20260818051000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
   </programme>
-  <programme start="20260818051000 +0300" stop="20260818052500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Somewhere Street</title>
+  <programme start="20260818051000 +0300" stop="20260818052300 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Biz Stream Special Edition</title>
   </programme>
-  <programme start="20260818052500 +0300" stop="20260818053000 +0300" channel="NHKWorldJapan.jp">
+  <programme start="20260818052300 +0300" stop="20260818053000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">One in Every Japanese</title>
   </programme>
   <programme start="20260818053000 +0300" stop="20260818060000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Seasoning the Seasons</title>
+    <title lang="tr">Document 72 Hours</title>
   </programme>
   <programme start="20260818060000 +0300" stop="20260818061000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39733,26 +39718,26 @@
   <programme start="20260818062000 +0300" stop="20260818063000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Herbal Symphony</title>
   </programme>
-  <programme start="20260818063000 +0300" stop="20260818065500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Darwin's Amazing Animals</title>
-  </programme>
-  <programme start="20260818065500 +0300" stop="20260818070000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Time-lapse Japan</title>
+  <programme start="20260818063000 +0300" stop="20260818070000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Medical Frontiers</title>
   </programme>
   <programme start="20260818070000 +0300" stop="20260818071000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
   </programme>
-  <programme start="20260818071000 +0300" stop="20260818072500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Somewhere Street</title>
+  <programme start="20260818071000 +0300" stop="20260818072300 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Biz Stream Special Edition</title>
   </programme>
-  <programme start="20260818072500 +0300" stop="20260818073000 +0300" channel="NHKWorldJapan.jp">
+  <programme start="20260818072300 +0300" stop="20260818073000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Japan From Above: Up Close</title>
   </programme>
-  <programme start="20260818073000 +0300" stop="20260818075700 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Hometown Stories</title>
+  <programme start="20260818073000 +0300" stop="20260818074500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Activate Your Japanese</title>
   </programme>
-  <programme start="20260818075700 +0300" stop="20260818080000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Satoyama Kitchen Diary</title>
+  <programme start="20260818074500 +0300" stop="20260818075500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Dig More Japan!</title>
+  </programme>
+  <programme start="20260818075500 +0300" stop="20260818080000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Dining With the Chef Mini</title>
   </programme>
   <programme start="20260818080000 +0300" stop="20260818081000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39763,11 +39748,8 @@
   <programme start="20260818082500 +0300" stop="20260818083000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Ramen Japan</title>
   </programme>
-  <programme start="20260818083000 +0300" stop="20260818085500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">The Factory Wonders</title>
-  </programme>
-  <programme start="20260818085500 +0300" stop="20260818090000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Time-lapse Japan</title>
+  <programme start="20260818083000 +0300" stop="20260818090000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Journeys in Japan</title>
   </programme>
   <programme start="20260818090000 +0300" stop="20260818091000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39778,17 +39760,8 @@
   <programme start="20260818092300 +0300" stop="20260818093000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">One in Every Japanese</title>
   </programme>
-  <programme start="20260818093000 +0300" stop="20260818094000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Magical Japanese</title>
-  </programme>
-  <programme start="20260818094000 +0300" stop="20260818094500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Easy Japanese</title>
-  </programme>
-  <programme start="20260818094500 +0300" stop="20260818095500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Culture Crossroads</title>
-  </programme>
-  <programme start="20260818095500 +0300" stop="20260818100000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Hello! NHK World Japan</title>
+  <programme start="20260818093000 +0300" stop="20260818100000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Dining with the Chef</title>
   </programme>
   <programme start="20260818100000 +0300" stop="20260818101000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39800,7 +39773,7 @@
     <title lang="tr">Nun's Seasonal Calendar</title>
   </programme>
   <programme start="20260818103000 +0300" stop="20260818110000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Seasoning the Seasons</title>
+    <title lang="tr">Document 72 Hours</title>
   </programme>
   <programme start="20260818110000 +0300" stop="20260818111000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39808,11 +39781,11 @@
   <programme start="20260818111000 +0300" stop="20260818113000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">My Street Piano</title>
   </programme>
-  <programme start="20260818113000 +0300" stop="20260818115700 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Hometown Stories</title>
+  <programme start="20260818113000 +0300" stop="20260818114500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Activate Your Japanese</title>
   </programme>
-  <programme start="20260818115700 +0300" stop="20260818120000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Satoyama Kitchen Diary</title>
+  <programme start="20260818114500 +0300" stop="20260818120000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Bosai: Science That Can Save Your Life</title>
   </programme>
   <programme start="20260818120000 +0300" stop="20260818121000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39824,7 +39797,7 @@
     <title lang="tr">Herbal Symphony</title>
   </programme>
   <programme start="20260818123000 +0300" stop="20260818130000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Journeys in Japan</title>
+    <title lang="tr">Medical Frontiers</title>
   </programme>
   <programme start="20260818130000 +0300" stop="20260818131500 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39833,7 +39806,7 @@
     <title lang="tr">CINEMATIC JOURNEY</title>
   </programme>
   <programme start="20260818133000 +0300" stop="20260818135500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">The Factory Wonders</title>
+    <title lang="tr">Darwin's Amazing Animals</title>
   </programme>
   <programme start="20260818135500 +0300" stop="20260818140000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Time-lapse Japan</title>
@@ -39848,10 +39821,10 @@
     <title lang="tr">Direct Talk</title>
   </programme>
   <programme start="20260818144300 +0300" stop="20260818145500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Culture Crossroads</title>
+    <title lang="tr">Magical Japanese</title>
   </programme>
   <programme start="20260818145500 +0300" stop="20260818150000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Hello! NHK World Japan</title>
+    <title lang="tr">Easy Japanese</title>
   </programme>
   <programme start="20260818150000 +0300" stop="20260818151500 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39860,7 +39833,7 @@
     <title lang="tr">The World Heritage Sites In Japan</title>
   </programme>
   <programme start="20260818153000 +0300" stop="20260818160000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dive in Tokyo</title>
+    <title lang="tr">Dining with the Chef</title>
   </programme>
   <programme start="20260818160000 +0300" stop="20260818161000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39872,7 +39845,7 @@
     <title lang="tr">Herbal Symphony</title>
   </programme>
   <programme start="20260818163000 +0300" stop="20260818170000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Seasoning the Seasons</title>
+    <title lang="tr">Document 72 Hours</title>
   </programme>
   <programme start="20260818170000 +0300" stop="20260818171000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39884,7 +39857,7 @@
     <title lang="tr">Nun's Seasonal Calendar</title>
   </programme>
   <programme start="20260818173000 +0300" stop="20260818180000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Medical Frontiers</title>
+    <title lang="tr">Science View</title>
   </programme>
   <programme start="20260818180000 +0300" stop="20260818181000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39895,11 +39868,8 @@
   <programme start="20260818182500 +0300" stop="20260818183000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Ramen Japan</title>
   </programme>
-  <programme start="20260818183000 +0300" stop="20260818185500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">The Factory Wonders</title>
-  </programme>
-  <programme start="20260818185500 +0300" stop="20260818190000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Time-lapse Japan</title>
+  <programme start="20260818183000 +0300" stop="20260818190000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Journeys in Japan</title>
   </programme>
   <programme start="20260818190000 +0300" stop="20260818191000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39907,11 +39877,14 @@
   <programme start="20260818191000 +0300" stop="20260818193000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">My Street Piano</title>
   </programme>
-  <programme start="20260818193000 +0300" stop="20260818195700 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Hometown Stories</title>
+  <programme start="20260818193000 +0300" stop="20260818194500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Activate Your Japanese</title>
   </programme>
-  <programme start="20260818195700 +0300" stop="20260818200000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Satoyama Kitchen Diary</title>
+  <programme start="20260818194500 +0300" stop="20260818195500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Dig More Japan!</title>
+  </programme>
+  <programme start="20260818195500 +0300" stop="20260818200000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Dining With the Chef Mini</title>
   </programme>
   <programme start="20260818200000 +0300" stop="20260818201000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39922,17 +39895,8 @@
   <programme start="20260818202000 +0300" stop="20260818203000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Herbal Symphony</title>
   </programme>
-  <programme start="20260818203000 +0300" stop="20260818204000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Magical Japanese</title>
-  </programme>
-  <programme start="20260818204000 +0300" stop="20260818204500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Easy Japanese</title>
-  </programme>
-  <programme start="20260818204500 +0300" stop="20260818205500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Culture Crossroads</title>
-  </programme>
-  <programme start="20260818205500 +0300" stop="20260818210000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Hello! NHK World Japan</title>
+  <programme start="20260818203000 +0300" stop="20260818210000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Dining with the Chef</title>
   </programme>
   <programme start="20260818210000 +0300" stop="20260818211000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39952,14 +39916,14 @@
   <programme start="20260818215500 +0300" stop="20260818220000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Ukiyoe Edo-life</title>
   </programme>
-  <programme start="20260818220000 +0300" stop="20260818222500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Spiritual Explorers</title>
+  <programme start="20260818220000 +0300" stop="20260818222000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">The A-Bomb Experience of a 12-year-old</title>
   </programme>
-  <programme start="20260818222500 +0300" stop="20260818223000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">One in Every Japanese</title>
+  <programme start="20260818222000 +0300" stop="20260818223000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Trails to Oishii Tokyo</title>
   </programme>
   <programme start="20260818223000 +0300" stop="20260818230000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Seasoning the Seasons</title>
+    <title lang="tr">Document 72 Hours</title>
   </programme>
   <programme start="20260818230000 +0300" stop="20260818231000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39971,7 +39935,7 @@
     <title lang="tr">Nun's Seasonal Calendar</title>
   </programme>
   <programme start="20260818233000 +0300" stop="20260819000000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Medical Frontiers</title>
+    <title lang="tr">Science View</title>
   </programme>
   <programme start="20260819000000 +0300" stop="20260819001000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39982,14 +39946,8 @@
   <programme start="20260819002300 +0300" stop="20260819003000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">One in Every Japanese</title>
   </programme>
-  <programme start="20260819003000 +0300" stop="20260819004500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Bosai: Science That Can Save Your Life</title>
-  </programme>
-  <programme start="20260819004500 +0300" stop="20260819005500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">IMPACTS: Climates Change the World</title>
-  </programme>
-  <programme start="20260819005500 +0300" stop="20260819010000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Time-lapse Japan</title>
+  <programme start="20260819003000 +0300" stop="20260819010000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Journeys in Japan</title>
   </programme>
   <programme start="20260819010000 +0300" stop="20260819011000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -39997,17 +39955,8 @@
   <programme start="20260819011000 +0300" stop="20260819013000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">My Street Piano</title>
   </programme>
-  <programme start="20260819013000 +0300" stop="20260819014000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Magical Japanese</title>
-  </programme>
-  <programme start="20260819014000 +0300" stop="20260819014500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Easy Japanese</title>
-  </programme>
-  <programme start="20260819014500 +0300" stop="20260819015500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Culture Crossroads</title>
-  </programme>
-  <programme start="20260819015500 +0300" stop="20260819020000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Hello! NHK World Japan</title>
+  <programme start="20260819013000 +0300" stop="20260819020000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Dining with the Chef</title>
   </programme>
   <programme start="20260819020000 +0300" stop="20260819021000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40018,11 +39967,14 @@
   <programme start="20260819022500 +0300" stop="20260819023000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Ramen Japan</title>
   </programme>
-  <programme start="20260819023000 +0300" stop="20260819025700 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Hometown Stories</title>
+  <programme start="20260819023000 +0300" stop="20260819024500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Activate Your Japanese</title>
   </programme>
-  <programme start="20260819025700 +0300" stop="20260819030000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Satoyama Kitchen Diary</title>
+  <programme start="20260819024500 +0300" stop="20260819025500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Dig More Japan!</title>
+  </programme>
+  <programme start="20260819025500 +0300" stop="20260819030000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Dining With the Chef Mini</title>
   </programme>
   <programme start="20260819030000 +0300" stop="20260819031000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40034,7 +39986,7 @@
     <title lang="tr">Japan From Above: Up Close</title>
   </programme>
   <programme start="20260819033000 +0300" stop="20260819040000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Journeys in Japan</title>
+    <title lang="tr">Dive in Tokyo</title>
   </programme>
   <programme start="20260819040000 +0300" stop="20260819041000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40042,8 +39994,11 @@
   <programme start="20260819041000 +0300" stop="20260819043000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">My Street Piano</title>
   </programme>
-  <programme start="20260819043000 +0300" stop="20260819050000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dining with the Chef</title>
+  <programme start="20260819043000 +0300" stop="20260819044500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Direct Talk</title>
+  </programme>
+  <programme start="20260819044500 +0300" stop="20260819050000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Japan's Top Inventions</title>
   </programme>
   <programme start="20260819050000 +0300" stop="20260819051000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40055,7 +40010,7 @@
     <title lang="tr">One in Every Japanese</title>
   </programme>
   <programme start="20260819053000 +0300" stop="20260819060000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Document 72 Hours</title>
+    <title lang="tr">Frontrunners</title>
   </programme>
   <programme start="20260819060000 +0300" stop="20260819061000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40067,7 +40022,7 @@
     <title lang="tr">Herbal Symphony</title>
   </programme>
   <programme start="20260819063000 +0300" stop="20260819070000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Medical Frontiers</title>
+    <title lang="tr">Science View</title>
   </programme>
   <programme start="20260819070000 +0300" stop="20260819071000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40078,14 +40033,8 @@
   <programme start="20260819072300 +0300" stop="20260819073000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Japan From Above: Up Close</title>
   </programme>
-  <programme start="20260819073000 +0300" stop="20260819074500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Activate Your Japanese</title>
-  </programme>
-  <programme start="20260819074500 +0300" stop="20260819075500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dig More Japan!</title>
-  </programme>
-  <programme start="20260819075500 +0300" stop="20260819080000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dining With the Chef Mini</title>
+  <programme start="20260819073000 +0300" stop="20260819080000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">The Garden Way</title>
   </programme>
   <programme start="20260819080000 +0300" stop="20260819081000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40097,7 +40046,7 @@
     <title lang="tr">Ramen Japan</title>
   </programme>
   <programme start="20260819083000 +0300" stop="20260819090000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Journeys in Japan</title>
+    <title lang="tr">Dive in Tokyo</title>
   </programme>
   <programme start="20260819090000 +0300" stop="20260819091000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40108,8 +40057,11 @@
   <programme start="20260819092300 +0300" stop="20260819093000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">One in Every Japanese</title>
   </programme>
-  <programme start="20260819093000 +0300" stop="20260819100000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dining with the Chef</title>
+  <programme start="20260819093000 +0300" stop="20260819094500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Direct Talk</title>
+  </programme>
+  <programme start="20260819094500 +0300" stop="20260819100000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Japan's Top Inventions</title>
   </programme>
   <programme start="20260819100000 +0300" stop="20260819101000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40121,7 +40073,7 @@
     <title lang="tr">Nun's Seasonal Calendar</title>
   </programme>
   <programme start="20260819103000 +0300" stop="20260819110000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Document 72 Hours</title>
+    <title lang="tr">Frontrunners</title>
   </programme>
   <programme start="20260819110000 +0300" stop="20260819111000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40129,11 +40081,8 @@
   <programme start="20260819111000 +0300" stop="20260819113000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">My Street Piano</title>
   </programme>
-  <programme start="20260819113000 +0300" stop="20260819114500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Activate Your Japanese</title>
-  </programme>
-  <programme start="20260819114500 +0300" stop="20260819120000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Bosai: Science That Can Save Your Life</title>
+  <programme start="20260819113000 +0300" stop="20260819120000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">The Garden Way</title>
   </programme>
   <programme start="20260819120000 +0300" stop="20260819121000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40145,7 +40094,7 @@
     <title lang="tr">Herbal Symphony</title>
   </programme>
   <programme start="20260819123000 +0300" stop="20260819130000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Medical Frontiers</title>
+    <title lang="tr">Science View</title>
   </programme>
   <programme start="20260819130000 +0300" stop="20260819131500 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40153,8 +40102,11 @@
   <programme start="20260819131500 +0300" stop="20260819133000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">CINEMATIC JOURNEY</title>
   </programme>
-  <programme start="20260819133000 +0300" stop="20260819135500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Darwin's Amazing Animals</title>
+  <programme start="20260819133000 +0300" stop="20260819134500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Bosai: Science That Can Save Your Life</title>
+  </programme>
+  <programme start="20260819134500 +0300" stop="20260819135500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">IMPACTS: Climates Change the World</title>
   </programme>
   <programme start="20260819135500 +0300" stop="20260819140000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Time-lapse Japan</title>
@@ -40169,10 +40121,10 @@
     <title lang="tr">Direct Talk</title>
   </programme>
   <programme start="20260819144300 +0300" stop="20260819145500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Magical Japanese</title>
+    <title lang="tr">MATSURI: The Heartbeat of Japan</title>
   </programme>
   <programme start="20260819145500 +0300" stop="20260819150000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Easy Japanese</title>
+    <title lang="tr">Ukiyoe Edo-life</title>
   </programme>
   <programme start="20260819150000 +0300" stop="20260819151500 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40180,8 +40132,11 @@
   <programme start="20260819151500 +0300" stop="20260819153000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">The World Heritage Sites In Japan</title>
   </programme>
-  <programme start="20260819153000 +0300" stop="20260819160000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dining with the Chef</title>
+  <programme start="20260819153000 +0300" stop="20260819154500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Direct Talk</title>
+  </programme>
+  <programme start="20260819154500 +0300" stop="20260819160000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Japan's Top Inventions</title>
   </programme>
   <programme start="20260819160000 +0300" stop="20260819161000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40193,7 +40148,7 @@
     <title lang="tr">Herbal Symphony</title>
   </programme>
   <programme start="20260819163000 +0300" stop="20260819170000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Document 72 Hours</title>
+    <title lang="tr">Frontrunners</title>
   </programme>
   <programme start="20260819170000 +0300" stop="20260819171000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40205,7 +40160,7 @@
     <title lang="tr">Nun's Seasonal Calendar</title>
   </programme>
   <programme start="20260819173000 +0300" stop="20260819180000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Science View</title>
+    <title lang="tr">Trails to Oishii Tokyo</title>
   </programme>
   <programme start="20260819180000 +0300" stop="20260819181000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40217,7 +40172,7 @@
     <title lang="tr">Ramen Japan</title>
   </programme>
   <programme start="20260819183000 +0300" stop="20260819190000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Journeys in Japan</title>
+    <title lang="tr">Dive in Tokyo</title>
   </programme>
   <programme start="20260819190000 +0300" stop="20260819191000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40225,14 +40180,8 @@
   <programme start="20260819191000 +0300" stop="20260819193000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">My Street Piano</title>
   </programme>
-  <programme start="20260819193000 +0300" stop="20260819194500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Activate Your Japanese</title>
-  </programme>
-  <programme start="20260819194500 +0300" stop="20260819195500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dig More Japan!</title>
-  </programme>
-  <programme start="20260819195500 +0300" stop="20260819200000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dining With the Chef Mini</title>
+  <programme start="20260819193000 +0300" stop="20260819200000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">The Garden Way</title>
   </programme>
   <programme start="20260819200000 +0300" stop="20260819201000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40243,8 +40192,11 @@
   <programme start="20260819202000 +0300" stop="20260819203000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Herbal Symphony</title>
   </programme>
-  <programme start="20260819203000 +0300" stop="20260819210000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dining with the Chef</title>
+  <programme start="20260819203000 +0300" stop="20260819204500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Direct Talk</title>
+  </programme>
+  <programme start="20260819204500 +0300" stop="20260819210000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Japan's Top Inventions</title>
   </programme>
   <programme start="20260819210000 +0300" stop="20260819211000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40264,14 +40216,11 @@
   <programme start="20260819215500 +0300" stop="20260819220000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Ukiyoe Edo-life</title>
   </programme>
-  <programme start="20260819220000 +0300" stop="20260819222000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">The A-Bomb Experience of a 12-year-old</title>
-  </programme>
-  <programme start="20260819222000 +0300" stop="20260819223000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Trails to Oishii Tokyo</title>
+  <programme start="20260819220000 +0300" stop="20260819223000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Science View</title>
   </programme>
   <programme start="20260819223000 +0300" stop="20260819230000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Document 72 Hours</title>
+    <title lang="tr">Frontrunners</title>
   </programme>
   <programme start="20260819230000 +0300" stop="20260819231000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40283,7 +40232,7 @@
     <title lang="tr">Nun's Seasonal Calendar</title>
   </programme>
   <programme start="20260819233000 +0300" stop="20260820000000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Science View</title>
+    <title lang="tr">Trails to Oishii Tokyo</title>
   </programme>
   <programme start="20260820000000 +0300" stop="20260820001000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40295,7 +40244,7 @@
     <title lang="tr">One in Every Japanese</title>
   </programme>
   <programme start="20260820003000 +0300" stop="20260820010000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Journeys in Japan</title>
+    <title lang="tr">Dive in Tokyo</title>
   </programme>
   <programme start="20260820010000 +0300" stop="20260820011000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40303,8 +40252,11 @@
   <programme start="20260820011000 +0300" stop="20260820013000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">My Street Piano</title>
   </programme>
-  <programme start="20260820013000 +0300" stop="20260820020000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dining with the Chef</title>
+  <programme start="20260820013000 +0300" stop="20260820014500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Direct Talk</title>
+  </programme>
+  <programme start="20260820014500 +0300" stop="20260820020000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Japan's Top Inventions</title>
   </programme>
   <programme start="20260820020000 +0300" stop="20260820021000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40315,14 +40267,8 @@
   <programme start="20260820022500 +0300" stop="20260820023000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Ramen Japan</title>
   </programme>
-  <programme start="20260820023000 +0300" stop="20260820024500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Activate Your Japanese</title>
-  </programme>
-  <programme start="20260820024500 +0300" stop="20260820025500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dig More Japan!</title>
-  </programme>
-  <programme start="20260820025500 +0300" stop="20260820030000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dining With the Chef Mini</title>
+  <programme start="20260820023000 +0300" stop="20260820030000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">The Garden Way</title>
   </programme>
   <programme start="20260820030000 +0300" stop="20260820031000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40333,8 +40279,11 @@
   <programme start="20260820032300 +0300" stop="20260820033000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Japan From Above: Up Close</title>
   </programme>
-  <programme start="20260820033000 +0300" stop="20260820040000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dive in Tokyo</title>
+  <programme start="20260820033000 +0300" stop="20260820035500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Spiritual Explorers</title>
+  </programme>
+  <programme start="20260820035500 +0300" stop="20260820040000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">One in Every Japanese</title>
   </programme>
   <programme start="20260820040000 +0300" stop="20260820041000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40342,11 +40291,8 @@
   <programme start="20260820041000 +0300" stop="20260820043000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">My Street Piano</title>
   </programme>
-  <programme start="20260820043000 +0300" stop="20260820044500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Direct Talk</title>
-  </programme>
-  <programme start="20260820044500 +0300" stop="20260820050000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Japan's Top Inventions</title>
+  <programme start="20260820043000 +0300" stop="20260820050000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Core Kyoto</title>
   </programme>
   <programme start="20260820050000 +0300" stop="20260820051000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40358,7 +40304,7 @@
     <title lang="tr">One in Every Japanese</title>
   </programme>
   <programme start="20260820053000 +0300" stop="20260820060000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Frontrunners</title>
+    <title lang="tr">Japanology Plus</title>
   </programme>
   <programme start="20260820060000 +0300" stop="20260820061000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40370,7 +40316,7 @@
     <title lang="tr">Herbal Symphony</title>
   </programme>
   <programme start="20260820063000 +0300" stop="20260820070000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Science View</title>
+    <title lang="tr">Trails to Oishii Tokyo</title>
   </programme>
   <programme start="20260820070000 +0300" stop="20260820071000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40382,7 +40328,7 @@
     <title lang="tr">Japan From Above: Up Close</title>
   </programme>
   <programme start="20260820073000 +0300" stop="20260820080000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">The Garden Way</title>
+    <title lang="tr">Backstage Japan</title>
   </programme>
   <programme start="20260820080000 +0300" stop="20260820081000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40393,8 +40339,11 @@
   <programme start="20260820082500 +0300" stop="20260820083000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Ramen Japan</title>
   </programme>
-  <programme start="20260820083000 +0300" stop="20260820090000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dive in Tokyo</title>
+  <programme start="20260820083000 +0300" stop="20260820085500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Spiritual Explorers</title>
+  </programme>
+  <programme start="20260820085500 +0300" stop="20260820090000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">One in Every Japanese</title>
   </programme>
   <programme start="20260820090000 +0300" stop="20260820091000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40405,11 +40354,8 @@
   <programme start="20260820092300 +0300" stop="20260820093000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">One in Every Japanese</title>
   </programme>
-  <programme start="20260820093000 +0300" stop="20260820094500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Direct Talk</title>
-  </programme>
-  <programme start="20260820094500 +0300" stop="20260820100000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Japan's Top Inventions</title>
+  <programme start="20260820093000 +0300" stop="20260820100000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Core Kyoto</title>
   </programme>
   <programme start="20260820100000 +0300" stop="20260820101000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40421,7 +40367,7 @@
     <title lang="tr">Nun's Seasonal Calendar</title>
   </programme>
   <programme start="20260820103000 +0300" stop="20260820110000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Frontrunners</title>
+    <title lang="tr">Japanology Plus</title>
   </programme>
   <programme start="20260820110000 +0300" stop="20260820111000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40430,7 +40376,7 @@
     <title lang="tr">My Street Piano</title>
   </programme>
   <programme start="20260820113000 +0300" stop="20260820120000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">The Garden Way</title>
+    <title lang="tr">Backstage Japan</title>
   </programme>
   <programme start="20260820120000 +0300" stop="20260820121000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40442,7 +40388,7 @@
     <title lang="tr">Herbal Symphony</title>
   </programme>
   <programme start="20260820123000 +0300" stop="20260820130000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Science View</title>
+    <title lang="tr">Trails to Oishii Tokyo</title>
   </programme>
   <programme start="20260820130000 +0300" stop="20260820131500 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40450,14 +40396,11 @@
   <programme start="20260820131500 +0300" stop="20260820133000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">CINEMATIC JOURNEY</title>
   </programme>
-  <programme start="20260820133000 +0300" stop="20260820134500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Bosai: Science That Can Save Your Life</title>
-  </programme>
-  <programme start="20260820134500 +0300" stop="20260820135500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">IMPACTS: Climates Change the World</title>
+  <programme start="20260820133000 +0300" stop="20260820135500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Spiritual Explorers</title>
   </programme>
   <programme start="20260820135500 +0300" stop="20260820140000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Time-lapse Japan</title>
+    <title lang="tr">One in Every Japanese</title>
   </programme>
   <programme start="20260820140000 +0300" stop="20260820141500 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40480,11 +40423,8 @@
   <programme start="20260820151500 +0300" stop="20260820153000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">The World Heritage Sites In Japan</title>
   </programme>
-  <programme start="20260820153000 +0300" stop="20260820154500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Direct Talk</title>
-  </programme>
-  <programme start="20260820154500 +0300" stop="20260820160000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Japan's Top Inventions</title>
+  <programme start="20260820153000 +0300" stop="20260820160000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Core Kyoto</title>
   </programme>
   <programme start="20260820160000 +0300" stop="20260820161000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40496,7 +40436,7 @@
     <title lang="tr">Herbal Symphony</title>
   </programme>
   <programme start="20260820163000 +0300" stop="20260820170000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Frontrunners</title>
+    <title lang="tr">Japanology Plus</title>
   </programme>
   <programme start="20260820170000 +0300" stop="20260820171000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40508,7 +40448,7 @@
     <title lang="tr">Nun's Seasonal Calendar</title>
   </programme>
   <programme start="20260820173000 +0300" stop="20260820180000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Trails to Oishii Tokyo</title>
+    <title lang="tr">Japan Railway Journal</title>
   </programme>
   <programme start="20260820180000 +0300" stop="20260820181000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40519,8 +40459,11 @@
   <programme start="20260820182500 +0300" stop="20260820183000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Ramen Japan</title>
   </programme>
-  <programme start="20260820183000 +0300" stop="20260820190000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Dive in Tokyo</title>
+  <programme start="20260820183000 +0300" stop="20260820185500 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Spiritual Explorers</title>
+  </programme>
+  <programme start="20260820185500 +0300" stop="20260820190000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">One in Every Japanese</title>
   </programme>
   <programme start="20260820190000 +0300" stop="20260820191000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40529,7 +40472,7 @@
     <title lang="tr">My Street Piano</title>
   </programme>
   <programme start="20260820193000 +0300" stop="20260820200000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">The Garden Way</title>
+    <title lang="tr">Backstage Japan</title>
   </programme>
   <programme start="20260820200000 +0300" stop="20260820201000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40540,11 +40483,8 @@
   <programme start="20260820202000 +0300" stop="20260820203000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Herbal Symphony</title>
   </programme>
-  <programme start="20260820203000 +0300" stop="20260820204500 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Direct Talk</title>
-  </programme>
-  <programme start="20260820204500 +0300" stop="20260820210000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Japan's Top Inventions</title>
+  <programme start="20260820203000 +0300" stop="20260820210000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Core Kyoto</title>
   </programme>
   <programme start="20260820210000 +0300" stop="20260820211000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40564,11 +40504,14 @@
   <programme start="20260820215500 +0300" stop="20260820220000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">Ukiyoe Edo-life</title>
   </programme>
-  <programme start="20260820220000 +0300" stop="20260820223000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Science View</title>
+  <programme start="20260820220000 +0300" stop="20260820222700 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Hometown Stories</title>
+  </programme>
+  <programme start="20260820222700 +0300" stop="20260820223000 +0300" channel="NHKWorldJapan.jp">
+    <title lang="tr">Satoyama Kitchen Diary</title>
   </programme>
   <programme start="20260820223000 +0300" stop="20260820230000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Frontrunners</title>
+    <title lang="tr">Japanology Plus</title>
   </programme>
   <programme start="20260820230000 +0300" stop="20260820231000 +0300" channel="NHKWorldJapan.jp">
     <title lang="tr">NHK Newsline</title>
@@ -40580,7 +40523,7 @@
     <title lang="tr">Nun's Seasonal Calendar</title>
   </programme>
   <programme start="20260820233000 +0300" stop="20260821000000 +0300" channel="NHKWorldJapan.jp">
-    <title lang="tr">Trails to Oishii Tokyo</title>
+    <title lang="tr">Japan Railway Journal</title>
   </programme>
   <channel id="TRTEBA.tr">
     <display-name lang="tr">TRT EBA</display-name>
