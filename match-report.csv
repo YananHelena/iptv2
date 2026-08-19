@@ -24,6 +24,7 @@ NTV,NTV.tr,NTV.tr,yes,epgshare-tr3,NTV.HD.tr,NTV HD,1.000,288,no
 CNN Türk,CNNTurk.tr,CNNTurk.tr,yes,epgshare-tr3,CNN.TÜRK.HD.tr,CNN TÜRK HD,1.000,65,no
 A Para,APara.tr,APara.tr,yes,epgshare-tr3,A.PARA.HD.tr,A PARA HD,1.000,129,no
 Habertürk,HaberturkTV.tr,HaberturkTV.tr,yes,epgshare-tr3,HABERTÜRK.tr,HABERTÜRK,1.000,67,no
+TGRT Haber,TGRTHaber.tr,TGRTHaber.tr,yes,epgshare-tr3,TGRT.HABER.HD.tr,TGRT HABER HD,1.000,134,no
 Ekotürk,Ekoturk.tr,Ekoturk.tr,yes,epgshare-tr3,EKOTÜRK.tr,EKOTÜRK,1.000,141,no
 Haber Global,HaberGlobal.tr,HaberGlobal.tr,yes,epgshare-tr3,HABER.GLOBAL.HD.tr,HABER GLOBAL HD,1.000,46,no
 TELE1,Tele1.tr,Tele1.tr,yes,epgshare-tr3,TELE1.tr,TELE1,1.000,72,no
@@ -48,6 +49,7 @@ Diyanet TV,DiyanetTV.tr,DiyanetTV.tr,yes,epgshare-tr3,DİYANET.TV.tr,DİYANET TV
 Akit TV,AkitTV.tr,AkitTV.tr,yes,epgshare-tr3,AKİT.TV.tr,AKİT TV,1.000,62,no
 HT Spor,HTSporTV.tr,HTSporTV.tr,yes,epgshare-tr3,HT.SPOR.HD.tr,HT SPOR HD,1.000,61,no
 FB TV,FBTV.tr,FBTV.tr,yes,epgshare-tr3,FB.TV.tr,FB TV,1.000,118,no
+TRT Spor,TRTSpor.tr,TRTSpor.tr,yes,globetv-4,TRT SPOR.tr,TRT SPOR.tr,1.000,74,no
 TRT Spor Yıldız,TRTSporYildiz.tr,TRTSporYildiz.tr,yes,globetv-5,TRT SPOR YILDIZ.tr,TRT SPOR YILDIZ.tr,1.000,101,no
 A Spor,ASpor.tr,ASpor.tr,yes,epgshare-tr3,A.SPOR.HD.tr,A SPOR HD,1.000,61,no
 TJK TV,TJKTV.tr,TJKTV.tr,no,,,,0.000,0,no
