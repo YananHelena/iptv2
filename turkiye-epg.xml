@@ -11900,66 +11900,6 @@
     <url>http://www.turksatkablo.com.tr</url>
     <icon src="https://i.imgur.com/8FO41es.png" />
   </channel>
-  <programme start="20260818010000 +0300" stop="20260818020000 +0300" channel="24TV.tr">
-    <title lang="tr">Günün Manşeti</title>
-  </programme>
-  <programme start="20260818020000 +0300" stop="20260818023000 +0300" channel="24TV.tr">
-    <title lang="tr">Brifing Saati</title>
-  </programme>
-  <programme start="20260818023000 +0300" stop="20260818041500 +0300" channel="24TV.tr">
-    <title lang="tr">Arafta Sorular</title>
-  </programme>
-  <programme start="20260818041500 +0300" stop="20260818044500 +0300" channel="24TV.tr">
-    <title lang="tr">Neler Oluyor Hayatta</title>
-  </programme>
-  <programme start="20260818044500 +0300" stop="20260818060000 +0300" channel="24TV.tr">
-    <title lang="tr">Masada Ne Var ?</title>
-  </programme>
-  <programme start="20260818060000 +0300" stop="20260818070000 +0300" channel="24TV.tr">
-    <title lang="tr">Masada Ne Var ?</title>
-  </programme>
-  <programme start="20260818070000 +0300" stop="20260818090000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör Sabah</title>
-  </programme>
-  <programme start="20260818090000 +0300" stop="20260818105000 +0300" channel="24TV.tr">
-    <title lang="tr">Analiz Sentez</title>
-  </programme>
-  <programme start="20260818105000 +0300" stop="20260818110000 +0300" channel="24TV.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260818110000 +0300" stop="20260818120000 +0300" channel="24TV.tr">
-    <title lang="tr">Günün Manşeti</title>
-  </programme>
-  <programme start="20260818120000 +0300" stop="20260818123500 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör</title>
-  </programme>
-  <programme start="20260818123500 +0300" stop="20260818130000 +0300" channel="24TV.tr">
-    <title lang="tr">Kahve Molası</title>
-  </programme>
-  <programme start="20260818130000 +0300" stop="20260818142000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör</title>
-  </programme>
-  <programme start="20260818142000 +0300" stop="20260818150000 +0300" channel="24TV.tr">
-    <title lang="tr">Tercih Rehberi</title>
-  </programme>
-  <programme start="20260818150000 +0300" stop="20260818170000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör</title>
-  </programme>
-  <programme start="20260818170000 +0300" stop="20260818180000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör</title>
-  </programme>
-  <programme start="20260818180000 +0300" stop="20260818200000 +0300" channel="24TV.tr">
-    <title lang="tr">Akşam Haberleri</title>
-  </programme>
-  <programme start="20260818200000 +0300" stop="20260818204500 +0300" channel="24TV.tr">
-    <title lang="tr">Mercek</title>
-  </programme>
-  <programme start="20260818204500 +0300" stop="20260818230000 +0300" channel="24TV.tr">
-    <title lang="tr">Basın Ekspres</title>
-  </programme>
-  <programme start="20260818230000 +0300" stop="20260819010000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör Gece</title>
-  </programme>
   <programme start="20260819010000 +0300" stop="20260819020000 +0300" channel="24TV.tr">
     <title lang="tr">Günün Manşeti</title>
   </programme>
@@ -12072,6 +12012,63 @@
     <title lang="tr">Temsil Heyeti</title>
   </programme>
   <programme start="20260820230000 +0300" stop="20260821010000 +0300" channel="24TV.tr">
+    <title lang="tr">Moderatör Gece</title>
+  </programme>
+  <programme start="20260821010000 +0300" stop="20260821020000 +0300" channel="24TV.tr">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260821020000 +0300" stop="20260821023000 +0300" channel="24TV.tr">
+    <title lang="tr">Mercek</title>
+  </programme>
+  <programme start="20260821023000 +0300" stop="20260821041500 +0300" channel="24TV.tr">
+    <title lang="tr">Bu Ülke</title>
+  </programme>
+  <programme start="20260821041500 +0300" stop="20260821044500 +0300" channel="24TV.tr">
+    <title lang="tr">Neler Oluyor Hayatta</title>
+  </programme>
+  <programme start="20260821044500 +0300" stop="20260821060000 +0300" channel="24TV.tr">
+    <title lang="tr">Temsil Heyeti</title>
+  </programme>
+  <programme start="20260821060000 +0300" stop="20260821070000 +0300" channel="24TV.tr">
+    <title lang="tr">Temsil Heyeti</title>
+  </programme>
+  <programme start="20260821070000 +0300" stop="20260821090000 +0300" channel="24TV.tr">
+    <title lang="tr">Moderatör Sabah</title>
+  </programme>
+  <programme start="20260821090000 +0300" stop="20260821105000 +0300" channel="24TV.tr">
+    <title lang="tr">Analiz Sentez</title>
+  </programme>
+  <programme start="20260821105000 +0300" stop="20260821110000 +0300" channel="24TV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20260821110000 +0300" stop="20260821120000 +0300" channel="24TV.tr">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260821120000 +0300" stop="20260821123500 +0300" channel="24TV.tr">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260821123500 +0300" stop="20260821130000 +0300" channel="24TV.tr">
+    <title lang="tr">Kahve Molası</title>
+  </programme>
+  <programme start="20260821130000 +0300" stop="20260821140000 +0300" channel="24TV.tr">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260821140000 +0300" stop="20260821142000 +0300" channel="24TV.tr">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260821142000 +0300" stop="20260821160000 +0300" channel="24TV.tr">
+    <title lang="tr">Tercih Rehberi</title>
+  </programme>
+  <programme start="20260821160000 +0300" stop="20260821180000 +0300" channel="24TV.tr">
+    <title lang="tr">Moderatör</title>
+  </programme>
+  <programme start="20260821180000 +0300" stop="20260821200000 +0300" channel="24TV.tr">
+    <title lang="tr">Akşam Haberleri</title>
+  </programme>
+  <programme start="20260821200000 +0300" stop="20260821230000 +0300" channel="24TV.tr">
+    <title lang="tr">Esas Mesele</title>
+  </programme>
+  <programme start="20260821230000 +0300" stop="20260822010000 +0300" channel="24TV.tr">
     <title lang="tr">Moderatör Gece</title>
   </programme>
   <channel id="NTV.tr">
@@ -15459,819 +15456,6 @@
     <rating system="TR">
       <value>0+</value>
     </rating>
-  </programme>
-  <channel id="TGRTHaber.tr">
-    <display-name>TGRT Haber</display-name>
-    <display-name lang="tr">TGRT HABER HD</display-name>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140505/001300/001300000008479072/cb9c4fda-ef75-4269-87a0-95cc90a3eadd.png" />
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140505/001300/001300000008479072/cb9c4fda-ef75-4269-87a0-95cc90a3eadd.png" />
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839201.png" />
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839201.png" />
-    <url>http://www.tvplus.com.tr</url>
-  </channel>
-  <programme start="20260819000000 +0000" stop="20260819003000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gece Haberleri</title>
-    <desc lang="tr">Gün sona ererken yaşanan önemli gelişmeler, son dakika başlıkları ve gündemin öne çıkan detayları bu programda derlenir. Kısa analizler ve özetlerle izleyiciye geceye uygun, net bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/87/2305309119435eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819003000 +0000" stop="20260819010000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gecenin İçinden</title>
-    <desc lang="tr">Günün sonunda öne çıkan gelişmeler, dikkat çeken olaylar ve gündemin sıcak başlıkları bu programda ele alınır. Kısa analizler, değerlendirmeler ve özetlerle izleyiciye geceye dair kapsamlı bir bakış sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/93/2305309119515eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819010000 +0000" stop="20260819013000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gece Haberleri</title>
-    <desc lang="tr">Gün sona ererken yaşanan önemli gelişmeler, son dakika başlıkları ve gündemin öne çıkan detayları bu programda derlenir. Kısa analizler ve özetlerle izleyiciye geceye uygun, net bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/76/2305309129595eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819013000 +0000" stop="20260819020000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gecenin İçinden</title>
-    <desc lang="tr">Günün sonunda öne çıkan gelişmeler, dikkat çeken olaylar ve gündemin sıcak başlıkları bu programda ele alınır. Kısa analizler, değerlendirmeler ve özetlerle izleyiciye geceye dair kapsamlı bir bakış sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/60/2305309129675eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819020000 +0000" stop="20260819023000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gece Haberleri</title>
-    <desc lang="tr">Gün sona ererken yaşanan önemli gelişmeler, son dakika başlıkları ve gündemin öne çıkan detayları bu programda derlenir. Kısa analizler ve özetlerle izleyiciye geceye uygun, net bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/10/2305309129755eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819023000 +0000" stop="20260819024500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Huzura Doğru</title>
-    <desc lang="tr">Gündelik hayatın telaşından uzaklaşmak, ruhunu dinlendirmek ve içsel dengeyi yeniden bulmak isteyenler için bu program, manevi sohbetler ve anlamlı paylaşımlarla ekrana gelir. İzleyiciye huzurlu bir mola sunar.</desc>
-    <category lang="tr">Tartışma</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/81/2305309129835eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819024500 +0000" stop="20260819030000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gecenin İçinden</title>
-    <desc lang="tr">Günün sonunda öne çıkan gelişmeler, dikkat çeken olaylar ve gündemin sıcak başlıkları bu programda ele alınır. Kısa analizler, değerlendirmeler ve özetlerle izleyiciye geceye dair kapsamlı bir bakış sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260810/87/2305309139915eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819030000 +0000" stop="20260819040000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Günün önemli gelişmeleri ve son dakika haberleri bu bültende izleyiciye aktarılıyor. Türkiye ve dünyadan dikkat çeken başlıklar, siyaset, ekonomi ve toplum gündemindeki gelişmelerle birlikte ekrana geliyor. Program, günün haber akışını hızlı ve kapsamlı şekilde sunuyor.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/68/2305318736955eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819040000 +0000" stop="20260819045000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günaydın Türkiye</title>
-    <desc lang="tr">Güne dair en önemli gelişmeleri, sıcak haberleri ve hayatı yakından ilgilendiren konuları izleyiciyle buluşturan program; ekonomiden sağlığa, gündemden yaşamın içinden hikâyelere uzanan içeriğiyle izleyiciye güvenilir bir rehber olur.</desc>
-    <category lang="tr">Eğlence</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/4/2305318737035eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819045000 +0000" stop="20260819050000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/68/2305318747115eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819050000 +0000" stop="20260819060000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günaydın Türkiye</title>
-    <desc lang="tr">Güne dair en önemli gelişmeleri, sıcak haberleri ve hayatı yakından ilgilendiren konuları izleyiciyle buluşturan program; ekonomiden sağlığa, gündemden yaşamın içinden hikâyelere uzanan içeriğiyle izleyiciye güvenilir bir rehber olur.</desc>
-    <category lang="tr">Eğlence</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/26/2305318747195eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819060000 +0000" stop="20260819064500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günaydın Türkiye</title>
-    <desc lang="tr">Güne dair en önemli gelişmeleri, sıcak haberleri ve hayatı yakından ilgilendiren konuları izleyiciyle buluşturan program; ekonomiden sağlığa, gündemden yaşamın içinden hikâyelere uzanan içeriğiyle izleyiciye güvenilir bir rehber olur.</desc>
-    <category lang="tr">Eğlence</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/47/2305318747275eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819064500 +0000" stop="20260819070000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/63/2305318747355eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819070000 +0000" stop="20260819081500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Haberin İçinden</title>
-    <desc lang="tr">Gündemin öne çıkan başlıkları, arka planı ve bilinmeyen yönleriyle bu programda ele alınır. Sıcak gelişmeler, saha bağlantıları ve uzman yorumlarıyla derinlik kazanır. İzleyiciye yalnızca haber değil, olayların gerçek hikâyesi sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/87/2305318757435eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819081500 +0000" stop="20260819084500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gündem Ekonomi</title>
-    <desc lang="tr">Piyasalardaki hareketlilik ve ekonomik gelişmeler bu programda ayrıntılı şekilde değerlendiriliyor. Döviz, altın ve borsa başta olmak üzere yatırım araçlarında yaşanan değişimler ele alınırken ekonomi gündeminin öne çıkan başlıkları izleyiciye aktarılıyor.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/64/2305318757515eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819084500 +0000" stop="20260819090000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/71/2305318767595eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819090000 +0000" stop="20260819094500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gün Ortası</title>
-    <desc lang="tr">Günün ilk saatlerinde yaşanan önemli gelişmeler, son dakika haberleri ve gündemin öne çıkan başlıkları bu programda bir araya gelir. Saha bağlantıları, uzman yorumları ve özet analizlerle izleyiciye günün fotoğrafı sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/17/2305318767675eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819094500 +0000" stop="20260819100000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/47/2305318777755eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819100000 +0000" stop="20260819104500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gün Ortası</title>
-    <desc lang="tr">Günün ilk saatlerinde yaşanan önemli gelişmeler, son dakika haberleri ve gündemin öne çıkan başlıkları bu programda bir araya gelir. Saha bağlantıları, uzman yorumları ve özet analizlerle izleyiciye günün fotoğrafı sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/34/2305318777835eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819104500 +0000" stop="20260819110000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/7/2305318777915eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819110000 +0000" stop="20260819114500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günün İçinden</title>
-    <desc lang="tr">Gün içinde yaşanan önemli gelişmeler, toplumu yakından ilgilendiren olaylar ve hayatın içinden renkli anlar bu programda ekrana taşınır. Haber, yaşam ve gündem başlıklarıyla izleyiciye günün nabzı net ve anlaşılır bir dille aktarılır.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/57/2305318777995eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819114500 +0000" stop="20260819120000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/26/2305318788075eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819120000 +0000" stop="20260819124500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günün İçinden</title>
-    <desc lang="tr">Gün içinde yaşanan önemli gelişmeler, toplumu yakından ilgilendiren olaylar ve hayatın içinden renkli anlar bu programda ekrana taşınır. Haber, yaşam ve gündem başlıklarıyla izleyiciye günün nabzı net ve anlaşılır bir dille aktarılır.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/73/2305318788155eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819124500 +0000" stop="20260819130000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/48/2305318798235eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819130000 +0000" stop="20260819134500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gündem</title>
-    <desc lang="tr">Ülkede ve dünyada yaşanan önemli gelişmeler, siyaset, ekonomi ve toplum başlıklarıyla bu programda ele alınır. Sıcak haberler, kısa analizler ve uzman yorumlarıyla izleyiciye gündemin fotoğrafı sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/47/2305318798315eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819134500 +0000" stop="20260819140000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/35/2305318798395eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819140000 +0000" stop="20260819143000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gündem</title>
-    <desc lang="tr">Ülkede ve dünyada yaşanan önemli gelişmeler, siyaset, ekonomi ve toplum başlıklarıyla bu programda ele alınır. Sıcak haberler, kısa analizler ve uzman yorumlarıyla izleyiciye gündemin fotoğrafı sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/59/2305318808475eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819143000 +0000" stop="20260819163000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Pınar Ardor Işık ile Bu Akşam</title>
-    <desc lang="tr">Pınar Ardor Işık ile Bu Akşam programında Türkiye ve dünyada gün boyunca yaşanan önemli gelişmeler ekrana taşınıyor. Siyaset ekonomi ve toplumsal olaylar programın ana başlıklarını oluşturuyor. Günün gündemi sade bir anlatımla izleyiciye aktarılırken olayların perde arkası da ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/20/2305318808555eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819163000 +0000" stop="20260819164500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/81/2305318808635eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819164500 +0000" stop="20260819180000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Ana Haber Bülteni</title>
-    <desc lang="tr">Siyaset, ekonomi, toplum ve yaşam alanlarındaki öne çıkan gelişmeleri saha bağlantıları, analizler ve uzman yorumlarıyla birlikte izleyiciye aktaran güçlü bir yayın. Gündemin arka planını da ele alarak olaylara daha geniş bir perspektif sunuyor.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/76/2305318808715eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819180000 +0000" stop="20260819200000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Medya Kritik</title>
-    <desc lang="tr">Televizyon, dijital platformlar ve basın dünyasında yaşanan gelişmeler bu programda ele alınır. Yayınlar, içerikler ve gündem yaratan olaylar; yorumlar ve değerlendirmelerle birlikte izleyiciye aktarılır.</desc>
-    <category lang="tr">Tartışma</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/46/2305318818795eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819200000 +0000" stop="20260819220000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Yakup Sağlam ile Bugünden Yarına</title>
-    <desc lang="tr">Güncel gelişmelerin topluma ve geleceğe yansımaları bu programda ele alınır. Siyaset, ekonomi ve sosyal hayattan öne çıkan başlıklar; analizler ve değerlendirmelerle izleyiciye kapsamlı bir bakış açısı sunar.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/24/2305318828875eb8f42a.jpg" />
-  </programme>
-  <programme start="20260819220000 +0000" stop="20260820010000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Medya Kritik</title>
-    <desc lang="tr">Televizyon, dijital platformlar ve basın dünyasında yaşanan gelişmeler bu programda ele alınır. Yayınlar, içerikler ve gündem yaratan olaylar; yorumlar ve değerlendirmelerle birlikte izleyiciye aktarılır.</desc>
-    <category lang="tr">Tartışma</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/93/2305318828955eb8f42a.jpg" />
-  </programme>
-  <programme start="20260820010000 +0000" stop="20260820013000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gece Haberleri</title>
-    <desc lang="tr">Gün sona ererken yaşanan önemli gelişmeler, son dakika başlıkları ve gündemin öne çıkan detayları bu programda derlenir. Kısa analizler ve özetlerle izleyiciye geceye uygun, net bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/39/2305318829035eb8f42a.jpg" />
-  </programme>
-  <programme start="20260820013000 +0000" stop="20260820020000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gecenin İçinden</title>
-    <desc lang="tr">Günün sonunda öne çıkan gelişmeler, dikkat çeken olaylar ve gündemin sıcak başlıkları bu programda ele alınır. Kısa analizler, değerlendirmeler ve özetlerle izleyiciye geceye dair kapsamlı bir bakış sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/56/2305318829115eb8f42a.jpg" />
-  </programme>
-  <programme start="20260820020000 +0000" stop="20260820023000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gece Haberleri</title>
-    <desc lang="tr">Gün sona ererken yaşanan önemli gelişmeler, son dakika başlıkları ve gündemin öne çıkan detayları bu programda derlenir. Kısa analizler ve özetlerle izleyiciye geceye uygun, net bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/13/2305318839195eb8f42a.jpg" />
-  </programme>
-  <programme start="20260820023000 +0000" stop="20260820024500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Huzura Doğru</title>
-    <desc lang="tr">Gündelik hayatın telaşından uzaklaşmak, ruhunu dinlendirmek ve içsel dengeyi yeniden bulmak isteyenler için bu program, manevi sohbetler ve anlamlı paylaşımlarla ekrana gelir. İzleyiciye huzurlu bir mola sunar.</desc>
-    <category lang="tr">Tartışma</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/22/2305318839275eb8f42a.jpg" />
-  </programme>
-  <programme start="20260820024500 +0000" stop="20260820030000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gecenin İçinden</title>
-    <desc lang="tr">Günün sonunda öne çıkan gelişmeler, dikkat çeken olaylar ve gündemin sıcak başlıkları bu programda ele alınır. Kısa analizler, değerlendirmeler ve özetlerle izleyiciye geceye dair kapsamlı bir bakış sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260811/33/2305318839355eb8f42a.jpg" />
-  </programme>
-  <programme start="20260820030000 +0000" stop="20260820040000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Günün önemli gelişmeleri ve son dakika haberleri bu bültende izleyiciye aktarılıyor. Türkiye ve dünyadan dikkat çeken başlıklar, siyaset, ekonomi ve toplum gündemindeki gelişmelerle birlikte ekrana geliyor. Program, günün haber akışını hızlı ve kapsamlı şekilde sunuyor.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/33/2305314880175eb7f426.jpg" />
-  </programme>
-  <programme start="20260820040000 +0000" stop="20260820045000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günaydın Türkiye</title>
-    <desc lang="tr">Güne dair en önemli gelişmeleri, sıcak haberleri ve hayatı yakından ilgilendiren konuları izleyiciyle buluşturan program; ekonomiden sağlığa, gündemden yaşamın içinden hikâyelere uzanan içeriğiyle izleyiciye güvenilir bir rehber olur.</desc>
-    <category lang="tr">Eğlence</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/15/2305314890255eb7f426.jpg" />
-  </programme>
-  <programme start="20260820045000 +0000" stop="20260820050000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/93/2305314890335eb7f426.jpg" />
-  </programme>
-  <programme start="20260820050000 +0000" stop="20260820060000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günaydın Türkiye</title>
-    <desc lang="tr">Güne dair en önemli gelişmeleri, sıcak haberleri ve hayatı yakından ilgilendiren konuları izleyiciyle buluşturan program; ekonomiden sağlığa, gündemden yaşamın içinden hikâyelere uzanan içeriğiyle izleyiciye güvenilir bir rehber olur.</desc>
-    <category lang="tr">Eğlence</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/53/2305314890415eb7f426.jpg" />
-  </programme>
-  <programme start="20260820060000 +0000" stop="20260820064500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günaydın Türkiye</title>
-    <desc lang="tr">Güne dair en önemli gelişmeleri, sıcak haberleri ve hayatı yakından ilgilendiren konuları izleyiciyle buluşturan program; ekonomiden sağlığa, gündemden yaşamın içinden hikâyelere uzanan içeriğiyle izleyiciye güvenilir bir rehber olur.</desc>
-    <category lang="tr">Eğlence</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/29/2305314900495eb7f426.jpg" />
-  </programme>
-  <programme start="20260820064500 +0000" stop="20260820070000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/70/2305314900575eb7f426.jpg" />
-  </programme>
-  <programme start="20260820070000 +0000" stop="20260820081500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Haberin İçinden</title>
-    <desc lang="tr">Gündemin öne çıkan başlıkları, arka planı ve bilinmeyen yönleriyle bu programda ele alınır. Sıcak gelişmeler, saha bağlantıları ve uzman yorumlarıyla derinlik kazanır. İzleyiciye yalnızca haber değil, olayların gerçek hikâyesi sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/64/2305314900655eb7f426.jpg" />
-  </programme>
-  <programme start="20260820081500 +0000" stop="20260820084500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gündem Ekonomi</title>
-    <desc lang="tr">Piyasalardaki hareketlilik ve ekonomik gelişmeler bu programda ayrıntılı şekilde değerlendiriliyor. Döviz, altın ve borsa başta olmak üzere yatırım araçlarında yaşanan değişimler ele alınırken ekonomi gündeminin öne çıkan başlıkları izleyiciye aktarılıyor.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/28/2305314910735eb7f426.jpg" />
-  </programme>
-  <programme start="20260820084500 +0000" stop="20260820090000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/54/2305314910815eb7f426.jpg" />
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820094500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gün Ortası</title>
-    <desc lang="tr">Günün ilk saatlerinde yaşanan önemli gelişmeler, son dakika haberleri ve gündemin öne çıkan başlıkları bu programda bir araya gelir. Saha bağlantıları, uzman yorumları ve özet analizlerle izleyiciye günün fotoğrafı sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/46/2305314920895eb7f426.jpg" />
-  </programme>
-  <programme start="20260820094500 +0000" stop="20260820100000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/9/2305314920975eb7f426.jpg" />
-  </programme>
-  <programme start="20260820100000 +0000" stop="20260820104500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gün Ortası</title>
-    <desc lang="tr">Günün ilk saatlerinde yaşanan önemli gelişmeler, son dakika haberleri ve gündemin öne çıkan başlıkları bu programda bir araya gelir. Saha bağlantıları, uzman yorumları ve özet analizlerle izleyiciye günün fotoğrafı sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/46/2305314921055eb7f426.jpg" />
-  </programme>
-  <programme start="20260820104500 +0000" stop="20260820110000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/46/2305314941135eb7f426.jpg" />
-  </programme>
-  <programme start="20260820110000 +0000" stop="20260820114500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günün İçinden</title>
-    <desc lang="tr">Gün içinde yaşanan önemli gelişmeler, toplumu yakından ilgilendiren olaylar ve hayatın içinden renkli anlar bu programda ekrana taşınır. Haber, yaşam ve gündem başlıklarıyla izleyiciye günün nabzı net ve anlaşılır bir dille aktarılır.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/63/2305314951215eb7f426.jpg" />
-  </programme>
-  <programme start="20260820114500 +0000" stop="20260820120000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/63/2305314951295eb7f426.jpg" />
-  </programme>
-  <programme start="20260820120000 +0000" stop="20260820124500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günün İçinden</title>
-    <desc lang="tr">Gün içinde yaşanan önemli gelişmeler, toplumu yakından ilgilendiren olaylar ve hayatın içinden renkli anlar bu programda ekrana taşınır. Haber, yaşam ve gündem başlıklarıyla izleyiciye günün nabzı net ve anlaşılır bir dille aktarılır.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/28/2305314951375eb7f426.jpg" />
-  </programme>
-  <programme start="20260820124500 +0000" stop="20260820130000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/25/2305314961455eb7f426.jpg" />
-  </programme>
-  <programme start="20260820130000 +0000" stop="20260820134500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gündem</title>
-    <desc lang="tr">Ülkede ve dünyada yaşanan önemli gelişmeler, siyaset, ekonomi ve toplum başlıklarıyla bu programda ele alınır. Sıcak haberler, kısa analizler ve uzman yorumlarıyla izleyiciye gündemin fotoğrafı sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/59/2305314961535eb7f426.jpg" />
-  </programme>
-  <programme start="20260820134500 +0000" stop="20260820140000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/67/2305314961615eb7f426.jpg" />
-  </programme>
-  <programme start="20260820140000 +0000" stop="20260820143000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gündem</title>
-    <desc lang="tr">Ülkede ve dünyada yaşanan önemli gelişmeler, siyaset, ekonomi ve toplum başlıklarıyla bu programda ele alınır. Sıcak haberler, kısa analizler ve uzman yorumlarıyla izleyiciye gündemin fotoğrafı sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/38/2305314961695eb7f426.jpg" />
-  </programme>
-  <programme start="20260820143000 +0000" stop="20260820163000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Pınar Ardor Işık ile Bu Akşam</title>
-    <desc lang="tr">Pınar Ardor Işık ile Bu Akşam programında Türkiye ve dünyada gün boyunca yaşanan önemli gelişmeler ekrana taşınıyor. Siyaset ekonomi ve toplumsal olaylar programın ana başlıklarını oluşturuyor. Günün gündemi sade bir anlatımla izleyiciye aktarılırken olayların perde arkası da ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/52/2305314971775eb7f426.jpg" />
-  </programme>
-  <programme start="20260820163000 +0000" stop="20260820164500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/93/2305314971855eb7f426.jpg" />
-  </programme>
-  <programme start="20260820164500 +0000" stop="20260820180000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Ana Haber Bülteni</title>
-    <desc lang="tr">Siyaset, ekonomi, toplum ve yaşam alanlarındaki öne çıkan gelişmeleri saha bağlantıları, analizler ve uzman yorumlarıyla birlikte izleyiciye aktaran güçlü bir yayın. Gündemin arka planını da ele alarak olaylara daha geniş bir perspektif sunuyor.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/63/2305314981935eb7f426.jpg" />
-  </programme>
-  <programme start="20260820180000 +0000" stop="20260820200000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Medya Kritik</title>
-    <desc lang="tr">Televizyon, dijital platformlar ve basın dünyasında yaşanan gelişmeler bu programda ele alınır. Yayınlar, içerikler ve gündem yaratan olaylar; yorumlar ve değerlendirmelerle birlikte izleyiciye aktarılır.</desc>
-    <category lang="tr">Tartışma</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/5/2305314982015eb7f426.jpg" />
-  </programme>
-  <programme start="20260820200000 +0000" stop="20260820220000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Yakup Sağlam ile Bugünden Yarına</title>
-    <desc lang="tr">Güncel gelişmelerin topluma ve geleceğe yansımaları bu programda ele alınır. Siyaset, ekonomi ve sosyal hayattan öne çıkan başlıklar; analizler ve değerlendirmelerle izleyiciye kapsamlı bir bakış açısı sunar.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/93/2305314992095eb7f426.jpg" />
-  </programme>
-  <programme start="20260820220000 +0000" stop="20260821000000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Medya Kritik</title>
-    <desc lang="tr">Televizyon, dijital platformlar ve basın dünyasında yaşanan gelişmeler bu programda ele alınır. Yayınlar, içerikler ve gündem yaratan olaylar; yorumlar ve değerlendirmelerle birlikte izleyiciye aktarılır.</desc>
-    <category lang="tr">Tartışma</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/25/2305314992175eb7f426.jpg" />
-  </programme>
-  <programme start="20260821000000 +0000" stop="20260821003000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gece Haberleri</title>
-    <desc lang="tr">Gün sona ererken yaşanan önemli gelişmeler, son dakika başlıkları ve gündemin öne çıkan detayları bu programda derlenir. Kısa analizler ve özetlerle izleyiciye geceye uygun, net bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/81/2305314992255eb7f426.jpg" />
-  </programme>
-  <programme start="20260821003000 +0000" stop="20260821010000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gecenin İçinden</title>
-    <desc lang="tr">Günün sonunda öne çıkan gelişmeler, dikkat çeken olaylar ve gündemin sıcak başlıkları bu programda ele alınır. Kısa analizler, değerlendirmeler ve özetlerle izleyiciye geceye dair kapsamlı bir bakış sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/65/2305314992335eb7f426.jpg" />
-  </programme>
-  <programme start="20260821010000 +0000" stop="20260821013000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gece Haberleri</title>
-    <desc lang="tr">Gün sona ererken yaşanan önemli gelişmeler, son dakika başlıkları ve gündemin öne çıkan detayları bu programda derlenir. Kısa analizler ve özetlerle izleyiciye geceye uygun, net bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/88/2305315002415eb7f426.jpg" />
-  </programme>
-  <programme start="20260821013000 +0000" stop="20260821020000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gecenin İçinden</title>
-    <desc lang="tr">Günün sonunda öne çıkan gelişmeler, dikkat çeken olaylar ve gündemin sıcak başlıkları bu programda ele alınır. Kısa analizler, değerlendirmeler ve özetlerle izleyiciye geceye dair kapsamlı bir bakış sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/20/2305315002495eb7f426.jpg" />
-  </programme>
-  <programme start="20260821020000 +0000" stop="20260821023000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gece Haberleri</title>
-    <desc lang="tr">Gün sona ererken yaşanan önemli gelişmeler, son dakika başlıkları ve gündemin öne çıkan detayları bu programda derlenir. Kısa analizler ve özetlerle izleyiciye geceye uygun, net bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/48/2305315002575eb7f426.jpg" />
-  </programme>
-  <programme start="20260821023000 +0000" stop="20260821024500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Huzura Doğru</title>
-    <desc lang="tr">Gündelik hayatın telaşından uzaklaşmak, ruhunu dinlendirmek ve içsel dengeyi yeniden bulmak isteyenler için bu program, manevi sohbetler ve anlamlı paylaşımlarla ekrana gelir. İzleyiciye huzurlu bir mola sunar.</desc>
-    <category lang="tr">Tartışma</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/49/2305315012655eb7f426.jpg" />
-  </programme>
-  <programme start="20260821024500 +0000" stop="20260821030000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gecenin İçinden</title>
-    <desc lang="tr">Günün sonunda öne çıkan gelişmeler, dikkat çeken olaylar ve gündemin sıcak başlıkları bu programda ele alınır. Kısa analizler, değerlendirmeler ve özetlerle izleyiciye geceye dair kapsamlı bir bakış sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260812/20/2305315012735eb7f426.jpg" />
-  </programme>
-  <programme start="20260821030000 +0000" stop="20260821040000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Günün önemli gelişmeleri ve son dakika haberleri bu bültende izleyiciye aktarılıyor. Türkiye ve dünyadan dikkat çeken başlıklar, siyaset, ekonomi ve toplum gündemindeki gelişmelerle birlikte ekrana geliyor. Program, günün haber akışını hızlı ve kapsamlı şekilde sunuyor.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/34/2305291096255eb7f426.jpg" />
-  </programme>
-  <programme start="20260821040000 +0000" stop="20260821045000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günaydın Türkiye</title>
-    <desc lang="tr">Güne dair en önemli gelişmeleri, sıcak haberleri ve hayatı yakından ilgilendiren konuları izleyiciyle buluşturan program; ekonomiden sağlığa, gündemden yaşamın içinden hikâyelere uzanan içeriğiyle izleyiciye güvenilir bir rehber olur.</desc>
-    <category lang="tr">Eğlence</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/26/2305291106335eb7f426.jpg" />
-  </programme>
-  <programme start="20260821045000 +0000" stop="20260821050000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/14/2305291106415eb7f426.jpg" />
-  </programme>
-  <programme start="20260821050000 +0000" stop="20260821060000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günaydın Türkiye</title>
-    <desc lang="tr">Güne dair en önemli gelişmeleri, sıcak haberleri ve hayatı yakından ilgilendiren konuları izleyiciyle buluşturan program; ekonomiden sağlığa, gündemden yaşamın içinden hikâyelere uzanan içeriğiyle izleyiciye güvenilir bir rehber olur.</desc>
-    <category lang="tr">Eğlence</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/27/2305291106495eb7f426.jpg" />
-  </programme>
-  <programme start="20260821060000 +0000" stop="20260821064500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günaydın Türkiye</title>
-    <desc lang="tr">Güne dair en önemli gelişmeleri, sıcak haberleri ve hayatı yakından ilgilendiren konuları izleyiciyle buluşturan program; ekonomiden sağlığa, gündemden yaşamın içinden hikâyelere uzanan içeriğiyle izleyiciye güvenilir bir rehber olur.</desc>
-    <category lang="tr">Eğlence</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/14/2305291116575eb7f426.jpg" />
-  </programme>
-  <programme start="20260821064500 +0000" stop="20260821070000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/1/2305291116655eb7f426.jpg" />
-  </programme>
-  <programme start="20260821070000 +0000" stop="20260821081500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Haberin İçinden</title>
-    <desc lang="tr">Gündemin öne çıkan başlıkları, arka planı ve bilinmeyen yönleriyle bu programda ele alınır. Sıcak gelişmeler, saha bağlantıları ve uzman yorumlarıyla derinlik kazanır. İzleyiciye yalnızca haber değil, olayların gerçek hikâyesi sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/11/2305291116735eb7f426.jpg" />
-  </programme>
-  <programme start="20260821081500 +0000" stop="20260821084500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gündem Ekonomi</title>
-    <desc lang="tr">Piyasalardaki hareketlilik ve ekonomik gelişmeler bu programda ayrıntılı şekilde değerlendiriliyor. Döviz, altın ve borsa başta olmak üzere yatırım araçlarında yaşanan değişimler ele alınırken ekonomi gündeminin öne çıkan başlıkları izleyiciye aktarılıyor.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/8/2305291126815eb7f426.jpg" />
-  </programme>
-  <programme start="20260821084500 +0000" stop="20260821090000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/62/2305291126895eb7f426.jpg" />
-  </programme>
-  <programme start="20260821090000 +0000" stop="20260821094500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gün Ortası</title>
-    <desc lang="tr">Günün ilk saatlerinde yaşanan önemli gelişmeler, son dakika haberleri ve gündemin öne çıkan başlıkları bu programda bir araya gelir. Saha bağlantıları, uzman yorumları ve özet analizlerle izleyiciye günün fotoğrafı sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/58/2305291136975eb7f426.jpg" />
-  </programme>
-  <programme start="20260821094500 +0000" stop="20260821100000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/25/2305291137055eb7f426.jpg" />
-  </programme>
-  <programme start="20260821100000 +0000" stop="20260821104500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gün Ortası</title>
-    <desc lang="tr">Günün ilk saatlerinde yaşanan önemli gelişmeler, son dakika haberleri ve gündemin öne çıkan başlıkları bu programda bir araya gelir. Saha bağlantıları, uzman yorumları ve özet analizlerle izleyiciye günün fotoğrafı sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/2/2305291137135eb7f426.jpg" />
-  </programme>
-  <programme start="20260821104500 +0000" stop="20260821110000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/57/2305291147215eb7f426.jpg" />
-  </programme>
-  <programme start="20260821110000 +0000" stop="20260821114500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günün İçinden</title>
-    <desc lang="tr">Gün içinde yaşanan önemli gelişmeler, toplumu yakından ilgilendiren olaylar ve hayatın içinden renkli anlar bu programda ekrana taşınır. Haber, yaşam ve gündem başlıklarıyla izleyiciye günün nabzı net ve anlaşılır bir dille aktarılır.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/33/2305291147295eb7f426.jpg" />
-  </programme>
-  <programme start="20260821114500 +0000" stop="20260821120000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/22/2305291147375eb7f426.jpg" />
-  </programme>
-  <programme start="20260821120000 +0000" stop="20260821124500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günün İçinden</title>
-    <desc lang="tr">Gün içinde yaşanan önemli gelişmeler, toplumu yakından ilgilendiren olaylar ve hayatın içinden renkli anlar bu programda ekrana taşınır. Haber, yaşam ve gündem başlıklarıyla izleyiciye günün nabzı net ve anlaşılır bir dille aktarılır.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/81/2305291157455eb7f426.jpg" />
-  </programme>
-  <programme start="20260821124500 +0000" stop="20260821130000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/30/2305291157535eb7f426.jpg" />
-  </programme>
-  <programme start="20260821130000 +0000" stop="20260821134500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gündem</title>
-    <desc lang="tr">Ülkede ve dünyada yaşanan önemli gelişmeler, siyaset, ekonomi ve toplum başlıklarıyla bu programda ele alınır. Sıcak haberler, kısa analizler ve uzman yorumlarıyla izleyiciye gündemin fotoğrafı sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/81/2305291167615eb7f426.jpg" />
-  </programme>
-  <programme start="20260821134500 +0000" stop="20260821140000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/1/2305291167695eb7f426.jpg" />
-  </programme>
-  <programme start="20260821140000 +0000" stop="20260821143000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gündem</title>
-    <desc lang="tr">Ülkede ve dünyada yaşanan önemli gelişmeler, siyaset, ekonomi ve toplum başlıklarıyla bu programda ele alınır. Sıcak haberler, kısa analizler ve uzman yorumlarıyla izleyiciye gündemin fotoğrafı sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/99/2305291167775eb7f426.jpg" />
-  </programme>
-  <programme start="20260821143000 +0000" stop="20260821163000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Pınar Ardor Işık ile Bu Akşam</title>
-    <desc lang="tr">Pınar Ardor Işık ile Bu Akşam programında Türkiye ve dünyada gün boyunca yaşanan önemli gelişmeler ekrana taşınıyor. Siyaset ekonomi ve toplumsal olaylar programın ana başlıklarını oluşturuyor. Günün gündemi sade bir anlatımla izleyiciye aktarılırken olayların perde arkası da ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/38/2305291177855eb7f426.jpg" />
-  </programme>
-  <programme start="20260821163000 +0000" stop="20260821164500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/87/2305291177935eb7f426.jpg" />
-  </programme>
-  <programme start="20260821164500 +0000" stop="20260821180000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Ana Haber Bülteni</title>
-    <desc lang="tr">Siyaset, ekonomi, toplum ve yaşam alanlarındaki öne çıkan gelişmeleri saha bağlantıları, analizler ve uzman yorumlarıyla birlikte izleyiciye aktaran güçlü bir yayın. Gündemin arka planını da ele alarak olaylara daha geniş bir perspektif sunuyor.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/14/2305291178015eb7f426.jpg" />
-  </programme>
-  <programme start="20260821180000 +0000" stop="20260821200000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Medya Kritik</title>
-    <desc lang="tr">Televizyon, dijital platformlar ve basın dünyasında yaşanan gelişmeler bu programda ele alınır. Yayınlar, içerikler ve gündem yaratan olaylar; yorumlar ve değerlendirmelerle birlikte izleyiciye aktarılır.</desc>
-    <category lang="tr">Tartışma</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/8/2305291188095eb7f426.jpg" />
-  </programme>
-  <programme start="20260821200000 +0000" stop="20260821220000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Yakup Sağlam ile Bugünden Yarına</title>
-    <desc lang="tr">Güncel gelişmelerin topluma ve geleceğe yansımaları bu programda ele alınır. Siyaset, ekonomi ve sosyal hayattan öne çıkan başlıklar; analizler ve değerlendirmelerle izleyiciye kapsamlı bir bakış açısı sunar.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/68/2305291188175eb7f426.jpg" />
-  </programme>
-  <programme start="20260821220000 +0000" stop="20260822010000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Medya Kritik</title>
-    <desc lang="tr">Televizyon, dijital platformlar ve basın dünyasında yaşanan gelişmeler bu programda ele alınır. Yayınlar, içerikler ve gündem yaratan olaylar; yorumlar ve değerlendirmelerle birlikte izleyiciye aktarılır.</desc>
-    <category lang="tr">Tartışma</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/8/2305291198255eb7f426.jpg" />
-  </programme>
-  <programme start="20260822010000 +0000" stop="20260822013000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gece Haberleri</title>
-    <desc lang="tr">Gün sona ererken yaşanan önemli gelişmeler, son dakika başlıkları ve gündemin öne çıkan detayları bu programda derlenir. Kısa analizler ve özetlerle izleyiciye geceye uygun, net bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/50/2305291198335eb7f426.jpg" />
-  </programme>
-  <programme start="20260822013000 +0000" stop="20260822020000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gecenin İçinden</title>
-    <desc lang="tr">Günün sonunda öne çıkan gelişmeler, dikkat çeken olaylar ve gündemin sıcak başlıkları bu programda ele alınır. Kısa analizler, değerlendirmeler ve özetlerle izleyiciye geceye dair kapsamlı bir bakış sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/86/2305291198415eb7f426.jpg" />
-  </programme>
-  <programme start="20260822020000 +0000" stop="20260822023000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gece Haberleri</title>
-    <desc lang="tr">Gün sona ererken yaşanan önemli gelişmeler, son dakika başlıkları ve gündemin öne çıkan detayları bu programda derlenir. Kısa analizler ve özetlerle izleyiciye geceye uygun, net bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/74/2305291208495eb7f426.jpg" />
-  </programme>
-  <programme start="20260822023000 +0000" stop="20260822024500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Huzura Doğru</title>
-    <desc lang="tr">Gündelik hayatın telaşından uzaklaşmak, ruhunu dinlendirmek ve içsel dengeyi yeniden bulmak isteyenler için bu program, manevi sohbetler ve anlamlı paylaşımlarla ekrana gelir. İzleyiciye huzurlu bir mola sunar.</desc>
-    <category lang="tr">Tartışma</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/9/2305291208575eb7f426.jpg" />
-  </programme>
-  <programme start="20260822024500 +0000" stop="20260822030000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gecenin İçinden</title>
-    <desc lang="tr">Günün sonunda öne çıkan gelişmeler, dikkat çeken olaylar ve gündemin sıcak başlıkları bu programda ele alınır. Kısa analizler, değerlendirmeler ve özetlerle izleyiciye geceye dair kapsamlı bir bakış sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260813/64/2305291208655eb7f426.jpg" />
-  </programme>
-  <programme start="20260822030000 +0000" stop="20260822040000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hafta Sonu Haber</title>
-    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/31/2305362907295eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822040000 +0000" stop="20260822050000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hafta Sonu Haber</title>
-    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/2/2305362907375eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822050000 +0000" stop="20260822055000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Seda Akbay İle Gün Başlıyor</title>
-    <desc lang="tr">Günün ilk saatlerinde öne çıkan gelişmeler, yaşamdan renkli anlar ve ilham veren sohbetler bu programda bir araya gelir. Haber, gündem ve keyifli içerikleriyle izleyiciye güne zinde ve bilinçli bir başlangıç yapma fırsatı sunar.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/67/2305362917455eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822055000 +0000" stop="20260822060000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/60/2305362917535eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822060000 +0000" stop="20260822065000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Seda Akbay İle Gün Başlıyor</title>
-    <desc lang="tr">Günün ilk saatlerinde öne çıkan gelişmeler, yaşamdan renkli anlar ve ilham veren sohbetler bu programda bir araya gelir. Haber, gündem ve keyifli içerikleriyle izleyiciye güne zinde ve bilinçli bir başlangıç yapma fırsatı sunar.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/2/2305362927615eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822065000 +0000" stop="20260822070000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/47/2305362927695eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822070000 +0000" stop="20260822073000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Seda Akbay İle Gün Başlıyor</title>
-    <desc lang="tr">Günün ilk saatlerinde öne çıkan gelişmeler, yaşamdan renkli anlar ve ilham veren sohbetler bu programda bir araya gelir. Haber, gündem ve keyifli içerikleriyle izleyiciye güne zinde ve bilinçli bir başlangıç yapma fırsatı sunar.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/11/2305362927775eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Arzu Budak ile Sanatın Kalbi</title>
-    <desc lang="tr">Resimden müziğe, tiyatrodan edebiyata uzanan geniş bir yelpazede sanatın nabzı bu programda tutulur. Yaratıcı isimlerle yapılan keyifli sohbetler, perde arkası hikâyeleri ve ilham veren paylaşımlar izleyiciyle buluşur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/16/2305362927855eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822084500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hafta Sonu Haber</title>
-    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/42/2305362937935eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822084500 +0000" stop="20260822090000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/60/2305362938015eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822090000 +0000" stop="20260822094500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hafta Sonu Haber</title>
-    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/11/2305362948095eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822094500 +0000" stop="20260822100000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/21/2305362948175eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822100000 +0000" stop="20260822103000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hafta Sonu Haber</title>
-    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/23/2305362958255eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822103000 +0000" stop="20260822110000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Doğa ve Biz</title>
-    <desc lang="tr">Doğal yaşam, çevre sorunları ve sürdürülebilirlik başlıkları bu programda anlaşılır bir dille ele alınır. İnsan ile doğa arasındaki ilişki, bilinçlendiren içerikler ve etkileyici görüntülerle izleyiciye aktarılır.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/80/2305362958335eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822110000 +0000" stop="20260822114500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hafta Sonu Haber</title>
-    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/17/2305362958415eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822114500 +0000" stop="20260822120000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/55/2305362958495eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822120000 +0000" stop="20260822124500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hafta Sonu Haber</title>
-    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/22/2305362968575eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822124500 +0000" stop="20260822130000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/29/2305362968655eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822130000 +0000" stop="20260822133000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hafta Sonu Haber</title>
-    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/60/2305362968735eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822133000 +0000" stop="20260822140000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Doğa ve Biz</title>
-    <desc lang="tr">Doğal yaşam, çevre sorunları ve sürdürülebilirlik başlıkları bu programda anlaşılır bir dille ele alınır. İnsan ile doğa arasındaki ilişki, bilinçlendiren içerikler ve etkileyici görüntülerle izleyiciye aktarılır.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/19/2305362978815eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822140000 +0000" stop="20260822144500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hafta Sonu Haber</title>
-    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/40/2305362988895eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822144500 +0000" stop="20260822150000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/8/2305362988975eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822150000 +0000" stop="20260822154500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Akşam Gündemi</title>
-    <desc lang="tr">Akşam kuşağında günün öne çıkan haber başlıklarını ve sıcak gelişmeleri bir araya getirir. Siyasi, ekonomik ve toplumsal gündemi değerlendiren bu kuşakta, uzman analizleri ve yorumlar izleyiciye günün kritik haberlerini daha iyi anlamaya dönük bir çerçevede aktarılır.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/4/2305362989055eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822154500 +0000" stop="20260822160000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/17/2305362989135eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Akşam Gündemi</title>
-    <desc lang="tr">Akşam kuşağında günün öne çıkan haber başlıklarını ve sıcak gelişmeleri bir araya getirir. Siyasi, ekonomik ve toplumsal gündemi değerlendiren bu kuşakta, uzman analizleri ve yorumlar izleyiciye günün kritik haberlerini daha iyi anlamaya dönük bir çerçevede aktarılır.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/43/2305362999215eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822163000 +0000" stop="20260822164500 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/65/2305362999295eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822164500 +0000" stop="20260822180000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Ferhat Ünlü İle Hafta Sonu Ana Haber</title>
-    <desc lang="tr">Türkiye ve dünya genelindeki gelişmeler, siyaset, ekonomi ve toplumsal konular izleyiciye aktarılırken haberlerin detayları kısa ve anlaşılır bir şekilde sunuluyor. Program, hafta sonu haber akışını takip etmek isteyenler için kapsamlı bir özet sağlıyor.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/59/2305363009375eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822180000 +0000" stop="20260822200000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Günün Gündemi</title>
-    <desc lang="tr">Türkiye ve dünyadan günün önemli gelişmelerini değerlendiren program; siyaset, ekonomi, toplum, yaşam ve gündeme dair başlıkları uzman yorumları ve kapsamlı haber içerikleriyle izleyiciye aktarıyor. Günün nabzını tutan yapısıyla güncel olaylara farklı bakış açıları sunuyor.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/63/2305363009455eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822200000 +0000" stop="20260822210000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gün Biterken</title>
-    <desc lang="tr">Günü tam biterken yakalayan, dolayısıyla hiçbir şey kaçırmak istemeyenler için. Tüm gündeme hakim olmanın en yalın, en doğru ve en çarpıcı yolu. Alper Altun'un sunumuyla Gün biterken hafta içi her gün 23:00'de TGRT Haber'de.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/7/2305363019535eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822210000 +0000" stop="20260822230000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Stüdyoda Futbol</title>
-    <desc lang="tr">Liglerden kupalara uzanan futbol gündemi, haftanın öne çıkan karşılaşmaları ve tartışmalı anları bu programda ele alınır. Uzman yorumları, istatistikler ve analizlerle izleyiciye oyunun perde arkası anlatılır.</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/8/2305363019615eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822230000 +0000" stop="20260822233000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Yasemin'in Penceresi</title>
-    <desc lang="tr">Yasemin'in Penceresi, gündemdeki önemli gelişmeleri ve günlük yaşamla ilgili ilgi çekici konuları izleyiciye aktarıyor. Program, haber ve bilgilendirici içerikleri bir araya getirerek günün öne çıkan başlıklarını sade ve anlaşılır bir dille sunuyor.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/23/2305363019695eb9b42e.jpg" />
-  </programme>
-  <programme start="20260822233000 +0000" stop="20260823000000 +0000" channel="TGRTHaber.tr">
-    <title lang="tr">Gecenin İçinden</title>
-    <desc lang="tr">Günün sonunda öne çıkan gelişmeler, dikkat çeken olaylar ve gündemin sıcak başlıkları bu programda ele alınır. Kısa analizler, değerlendirmeler ve özetlerle izleyiciye geceye dair kapsamlı bir bakış sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/96/2305363019775eb9b42e.jpg" />
   </programme>
   <channel id="Ekoturk.tr">
     <display-name>Ekotürk</display-name>
@@ -24544,144 +23728,6 @@
     <url>http://www.turksatkablo.com.tr</url>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" />
   </channel>
-  <programme start="20260818001500 +0300" stop="20260818011500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Hoş Geldin Kahvesi</title>
-  </programme>
-  <programme start="20260818011500 +0300" stop="20260818020000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Kıbrıs Zafere Doğru</title>
-  </programme>
-  <programme start="20260818020000 +0300" stop="20260818030000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Türkü Evi</title>
-  </programme>
-  <programme start="20260818030000 +0300" stop="20260818040000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Gönlümdeki Köln</title>
-  </programme>
-  <programme start="20260818040000 +0300" stop="20260818044500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Seksenler</title>
-  </programme>
-  <programme start="20260818044500 +0300" stop="20260818053000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Yalnız Minare</title>
-  </programme>
-  <programme start="20260818053000 +0300" stop="20260818065500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Leyla ile Mecnun</title>
-  </programme>
-  <programme start="20260818065500 +0300" stop="20260818070000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">İstiklal Marşı Çocuk</title>
-  </programme>
-  <programme start="20260818070000 +0300" stop="20260818072500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Almanya Camileri</title>
-  </programme>
-  <programme start="20260818072500 +0300" stop="20260818073500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">En Güzel</title>
-  </programme>
-  <programme start="20260818073500 +0300" stop="20260818074500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Efendimizin 24 Saati</title>
-  </programme>
-  <programme start="20260818074500 +0300" stop="20260818080000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Canı Gönülden</title>
-  </programme>
-  <programme start="20260818080000 +0300" stop="20260818093000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Kaptan Pengu Ve Arkadaşları 2</title>
-  </programme>
-  <programme start="20260818093000 +0300" stop="20260818094000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Ferman İle Güzel Türkçem</title>
-  </programme>
-  <programme start="20260818094000 +0300" stop="20260818095000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Gökten Üç Elma Düştü</title>
-  </programme>
-  <programme start="20260818095000 +0300" stop="20260818100000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Arkadaşım Kirpi</title>
-  </programme>
-  <programme start="20260818100000 +0300" stop="20260818101000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Burak İle Bubu</title>
-  </programme>
-  <programme start="20260818101000 +0300" stop="20260818102000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Kıbrıs Masalları</title>
-  </programme>
-  <programme start="20260818102000 +0300" stop="20260818103000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Kitapçı Dükkanı</title>
-  </programme>
-  <programme start="20260818103000 +0300" stop="20260818110000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Temizlik Kulübü</title>
-  </programme>
-  <programme start="20260818110000 +0300" stop="20260818112000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Şef Olacak Çocuk</title>
-  </programme>
-  <programme start="20260818112000 +0300" stop="20260818113000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Kıbrıs Lezzetleri</title>
-  </programme>
-  <programme start="20260818113000 +0300" stop="20260818120000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Rumeli Lezzetleri</title>
-  </programme>
-  <programme start="20260818120000 +0300" stop="20260818124500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Hoş Geldin Kahvesi</title>
-  </programme>
-  <programme start="20260818124500 +0300" stop="20260818130000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Zuhurat</title>
-  </programme>
-  <programme start="20260818130000 +0300" stop="20260818140000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Acemi Anneler</title>
-  </programme>
-  <programme start="20260818140000 +0300" stop="20260818145000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Öğle Ana Haber</title>
-  </programme>
-  <programme start="20260818145000 +0300" stop="20260818150000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Ne Kadar Ekmek O Kadar Köfte</title>
-  </programme>
-  <programme start="20260818150000 +0300" stop="20260818153000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Rafet El Roman ile Her Şey Yolunda</title>
-  </programme>
-  <programme start="20260818153000 +0300" stop="20260818160000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Kültür Noktası</title>
-  </programme>
-  <programme start="20260818160000 +0300" stop="20260818161000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Kıbrıs Sözlüğü</title>
-  </programme>
-  <programme start="20260818161000 +0300" stop="20260818162500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Fabrika Ayarı</title>
-  </programme>
-  <programme start="20260818162500 +0300" stop="20260818164000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Memlekete Doğru</title>
-  </programme>
-  <programme start="20260818164000 +0300" stop="20260818164500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Avrupa Türkleri Sözlüğü</title>
-  </programme>
-  <programme start="20260818164500 +0300" stop="20260818173000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Yerden Yüksek</title>
-  </programme>
-  <programme start="20260818173000 +0300" stop="20260818180000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Gönül Verenler</title>
-  </programme>
-  <programme start="20260818180000 +0300" stop="20260818184500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Hoş Geldin Kahvesi</title>
-  </programme>
-  <programme start="20260818184500 +0300" stop="20260818190000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Balkan Sözlüğü</title>
-  </programme>
-  <programme start="20260818190000 +0300" stop="20260818194500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Sıcak Haber</title>
-  </programme>
-  <programme start="20260818194500 +0300" stop="20260818200000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Zuhurat</title>
-  </programme>
-  <programme start="20260818200000 +0300" stop="20260818210000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Gönlümdeki Köln</title>
-  </programme>
-  <programme start="20260818210000 +0300" stop="20260818214500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Seksenler</title>
-  </programme>
-  <programme start="20260818214500 +0300" stop="20260818223000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Yalnız Minare</title>
-  </programme>
-  <programme start="20260818223000 +0300" stop="20260818231500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Yamak Ahmet</title>
-  </programme>
-  <programme start="20260818231500 +0300" stop="20260818234500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Memleket Kreuzberg</title>
-  </programme>
-  <programme start="20260818234500 +0300" stop="20260819001500 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Leyla ile Mecnun</title>
-  </programme>
   <programme start="20260819001500 +0300" stop="20260819011500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Hoş Geldin Kahvesi</title>
   </programme>
@@ -24959,6 +24005,144 @@
     <title lang="tr">Memleket Kreuzberg</title>
   </programme>
   <programme start="20260820234500 +0300" stop="20260821001500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Leyla ile Mecnun</title>
+  </programme>
+  <programme start="20260821001500 +0300" stop="20260821011500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Hoş Geldin Kahvesi</title>
+  </programme>
+  <programme start="20260821011500 +0300" stop="20260821020000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Kıbrıs Zafere Doğru</title>
+  </programme>
+  <programme start="20260821020000 +0300" stop="20260821030000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Türkü Evi</title>
+  </programme>
+  <programme start="20260821030000 +0300" stop="20260821040000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Gönlümdeki Köln</title>
+  </programme>
+  <programme start="20260821040000 +0300" stop="20260821044500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20260821044500 +0300" stop="20260821053000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Yalnız Minare</title>
+  </programme>
+  <programme start="20260821053000 +0300" stop="20260821060000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Leyla ile Mecnun</title>
+  </programme>
+  <programme start="20260821060000 +0300" stop="20260821064500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Yamak Ahmet</title>
+  </programme>
+  <programme start="20260821064500 +0300" stop="20260821065500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Örnek</title>
+  </programme>
+  <programme start="20260821065500 +0300" stop="20260821070000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">İstiklal Marşı Çocuk</title>
+  </programme>
+  <programme start="20260821070000 +0300" stop="20260821072500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Almanya Camileri</title>
+  </programme>
+  <programme start="20260821072500 +0300" stop="20260821073500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">En Güzel</title>
+  </programme>
+  <programme start="20260821073500 +0300" stop="20260821074500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Efendimizin 24 Saati</title>
+  </programme>
+  <programme start="20260821074500 +0300" stop="20260821080000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Canı Gönülden</title>
+  </programme>
+  <programme start="20260821080000 +0300" stop="20260821093000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Pırdino: Sürpriz Yumurta</title>
+  </programme>
+  <programme start="20260821093000 +0300" stop="20260821094000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Ferman İle Güzel Türkçem</title>
+  </programme>
+  <programme start="20260821094000 +0300" stop="20260821095000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Gökten Üç Elma Düştü</title>
+  </programme>
+  <programme start="20260821095000 +0300" stop="20260821100000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Arkadaşım Kirpi</title>
+  </programme>
+  <programme start="20260821100000 +0300" stop="20260821101000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Burak İle Bubu</title>
+  </programme>
+  <programme start="20260821101000 +0300" stop="20260821102000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Kıbrıs Masalları</title>
+  </programme>
+  <programme start="20260821102000 +0300" stop="20260821103000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Kitapçı Dükkanı</title>
+  </programme>
+  <programme start="20260821103000 +0300" stop="20260821110000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Temizlik Kulübü</title>
+  </programme>
+  <programme start="20260821110000 +0300" stop="20260821112000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Şef Olacak Çocuk</title>
+  </programme>
+  <programme start="20260821112000 +0300" stop="20260821113000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Kıbrıs Lezzetleri</title>
+  </programme>
+  <programme start="20260821113000 +0300" stop="20260821120000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Rumeli Lezzetleri</title>
+  </programme>
+  <programme start="20260821120000 +0300" stop="20260821124500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Hoş Geldin Kahvesi</title>
+  </programme>
+  <programme start="20260821124500 +0300" stop="20260821130000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Zuhurat</title>
+  </programme>
+  <programme start="20260821130000 +0300" stop="20260821140000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Acemi Anneler</title>
+  </programme>
+  <programme start="20260821140000 +0300" stop="20260821145000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Öğle Ana Haber</title>
+  </programme>
+  <programme start="20260821145000 +0300" stop="20260821150000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Ne Kadar Ekmek O Kadar Köfte</title>
+  </programme>
+  <programme start="20260821150000 +0300" stop="20260821153000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Rafet El Roman ile Her Şey Yolunda</title>
+  </programme>
+  <programme start="20260821153000 +0300" stop="20260821162500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Fotoğraflarımda Kalan Gazze</title>
+  </programme>
+  <programme start="20260821162500 +0300" stop="20260821164000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Memlekete Doğru</title>
+  </programme>
+  <programme start="20260821164000 +0300" stop="20260821164500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Avrupa Türkleri Sözlüğü</title>
+  </programme>
+  <programme start="20260821164500 +0300" stop="20260821173000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Yerden Yüksek</title>
+  </programme>
+  <programme start="20260821173000 +0300" stop="20260821180000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Gönül Verenler</title>
+  </programme>
+  <programme start="20260821180000 +0300" stop="20260821184500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Hoş Geldin Kahvesi</title>
+  </programme>
+  <programme start="20260821184500 +0300" stop="20260821190000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Balkan Sözlüğü</title>
+  </programme>
+  <programme start="20260821190000 +0300" stop="20260821194500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Sıcak Haber</title>
+  </programme>
+  <programme start="20260821194500 +0300" stop="20260821200000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Zuhurat</title>
+  </programme>
+  <programme start="20260821200000 +0300" stop="20260821210000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Gönlümdeki Köln</title>
+  </programme>
+  <programme start="20260821210000 +0300" stop="20260821214500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20260821214500 +0300" stop="20260821223000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Yalnız Minare</title>
+  </programme>
+  <programme start="20260821223000 +0300" stop="20260821231500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Yamak Ahmet</title>
+  </programme>
+  <programme start="20260821231500 +0300" stop="20260821234500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Memleket Kreuzberg</title>
+  </programme>
+  <programme start="20260821234500 +0300" stop="20260822001500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Leyla ile Mecnun</title>
   </programme>
   <channel id="KRT.tr">
@@ -33389,7 +32573,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260819063000 +0300" stop="20260819070000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">The Hub With Wang Guan</title>
   </programme>
   <programme start="20260819070000 +0300" stop="20260819073000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33425,7 +32609,7 @@
     <title lang="tr">Sports Scene</title>
   </programme>
   <programme start="20260819123000 +0300" stop="20260819130000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Hub With Wang Guan</title>
+    <title lang="tr">The Point with Liu Xin</title>
   </programme>
   <programme start="20260819130000 +0300" stop="20260819140000 +0300" channel="CGTN.cn">
     <title lang="tr">Global Watch</title>
@@ -33485,7 +32669,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260819223000 +0300" stop="20260819230000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Hub With Wang Guan</title>
+    <title lang="tr">The Point with Liu Xin</title>
   </programme>
   <programme start="20260819230000 +0300" stop="20260819233000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33524,7 +32708,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260820063000 +0300" stop="20260820070000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Hub With Wang Guan</title>
+    <title lang="tr">The Point with Liu Xin</title>
   </programme>
   <programme start="20260820070000 +0300" stop="20260820073000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33560,7 +32744,7 @@
     <title lang="tr">Sports Scene</title>
   </programme>
   <programme start="20260820123000 +0300" stop="20260820130000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">The Hub With Wang Guan</title>
   </programme>
   <programme start="20260820130000 +0300" stop="20260820140000 +0300" channel="CGTN.cn">
     <title lang="tr">Global Watch</title>
@@ -33620,7 +32804,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260820223000 +0300" stop="20260820230000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">The Hub With Wang Guan</title>
   </programme>
   <programme start="20260820230000 +0300" stop="20260820233000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33659,7 +32843,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260821063000 +0300" stop="20260821070000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">The Hub With Wang Guan</title>
   </programme>
   <programme start="20260821070000 +0300" stop="20260821073000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33695,7 +32879,7 @@
     <title lang="tr">Sports Scene</title>
   </programme>
   <programme start="20260821123000 +0300" stop="20260821130000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Hub With Wang Guan</title>
+    <title lang="tr">The Point with Liu Xin</title>
   </programme>
   <programme start="20260821130000 +0300" stop="20260821140000 +0300" channel="CGTN.cn">
     <title lang="tr">Global Watch</title>
@@ -33707,7 +32891,7 @@
     <title lang="tr">Sports Scene</title>
   </programme>
   <programme start="20260821143000 +0300" stop="20260821150000 +0300" channel="CGTN.cn">
-    <title lang="tr">Rediscovering China</title>
+    <title lang="tr">Assignment Asia</title>
   </programme>
   <programme start="20260821150000 +0300" stop="20260821153000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33755,7 +32939,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260821223000 +0300" stop="20260821230000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Hub With Wang Guan</title>
+    <title lang="tr">The Point with Liu Xin</title>
   </programme>
   <programme start="20260821230000 +0300" stop="20260821233000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -35727,32 +34911,35 @@
     <url>http://www.turksatkablo.com.tr</url>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png" />
   </channel>
-  <programme start="20260819003000 +0300" stop="20260819012000 +0300" channel="BloombergTV.us">
+  <programme start="20260819001000 +0300" stop="20260819004000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Bloomberg Wealth With David Rubenstein</title>
+  </programme>
+  <programme start="20260819004000 +0300" stop="20260819013000 +0300" channel="BloombergTV.us">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
   </programme>
-  <programme start="20260819012000 +0300" stop="20260819021000 +0300" channel="BloombergTV.us">
-    <title lang="tr">HT Kulüp</title>
+  <programme start="20260819013000 +0300" stop="20260819022000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Ece Saruhan'la Oyuna Devam</title>
   </programme>
-  <programme start="20260819021000 +0300" stop="20260819023500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Fon Saati</title>
+  <programme start="20260819022000 +0300" stop="20260819024500 +0300" channel="BloombergTV.us">
+    <title lang="tr">Girişimcilik Dünyası</title>
   </programme>
-  <programme start="20260819023500 +0300" stop="20260819030000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Varlık Yönetimi</title>
+  <programme start="20260819024500 +0300" stop="20260819031000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Akıllı Tarım</title>
   </programme>
-  <programme start="20260819030000 +0300" stop="20260819040500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Spor Kulübü</title>
+  <programme start="20260819031000 +0300" stop="20260819040500 +0300" channel="BloombergTV.us">
+    <title lang="tr">Açık Hava Sineması</title>
   </programme>
   <programme start="20260819040500 +0300" stop="20260819043000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Aile Ekonomisi</title>
+    <title lang="tr">Bloomberg Wealth With David Rubenstein</title>
   </programme>
   <programme start="20260819043000 +0300" stop="20260819045500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Fon Saati</title>
+    <title lang="tr">Girişimcilik Dünyası</title>
   </programme>
   <programme start="20260819045500 +0300" stop="20260819052000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Varlık Yönetimi</title>
+    <title lang="tr">Akıllı Tarım</title>
   </programme>
   <programme start="20260819052000 +0300" stop="20260819061000 +0300" channel="BloombergTV.us">
-    <title lang="tr">HT Kulüp</title>
+    <title lang="tr">Ece Saruhan'la Oyuna Devam</title>
   </programme>
   <programme start="20260819061000 +0300" stop="20260819070000 +0300" channel="BloombergTV.us">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
@@ -35769,8 +34956,11 @@
   <programme start="20260819094500 +0300" stop="20260819101500 +0300" channel="BloombergTV.us">
     <title lang="tr">Piyasa Masası</title>
   </programme>
-  <programme start="20260819101500 +0300" stop="20260819111500 +0300" channel="BloombergTV.us">
+  <programme start="20260819101500 +0300" stop="20260819110000 +0300" channel="BloombergTV.us">
     <title lang="tr">Yatırım Kulübü</title>
+  </programme>
+  <programme start="20260819110000 +0300" stop="20260819111500 +0300" channel="BloombergTV.us">
+    <title lang="tr">Grafik Düellosu</title>
   </programme>
   <programme start="20260819111500 +0300" stop="20260819120000 +0300" channel="BloombergTV.us">
     <title lang="tr">Fokus</title>
@@ -35779,13 +34969,10 @@
     <title lang="tr">30 Dakika</title>
   </programme>
   <programme start="20260819123000 +0300" stop="20260819130000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Girişimcilik Dünyası</title>
+    <title lang="tr">Tarım Analiz</title>
   </programme>
-  <programme start="20260819130000 +0300" stop="20260819133000 +0300" channel="BloombergTV.us">
+  <programme start="20260819130000 +0300" stop="20260819140000 +0300" channel="BloombergTV.us">
     <title lang="tr">Seans Ortası</title>
-  </programme>
-  <programme start="20260819133000 +0300" stop="20260819140000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Akıllı Tarım</title>
   </programme>
   <programme start="20260819140000 +0300" stop="20260819144500 +0300" channel="BloombergTV.us">
     <title lang="tr">Piyasa Hattı</title>
@@ -35793,8 +34980,11 @@
   <programme start="20260819144500 +0300" stop="20260819151500 +0300" channel="BloombergTV.us">
     <title lang="tr">İş Dünyası</title>
   </programme>
-  <programme start="20260819151500 +0300" stop="20260819160000 +0300" channel="BloombergTV.us">
+  <programme start="20260819151500 +0300" stop="20260819153000 +0300" channel="BloombergTV.us">
     <title lang="tr">Akıllı Para</title>
+  </programme>
+  <programme start="20260819153000 +0300" stop="20260819160000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Tarih Keyfi</title>
   </programme>
   <programme start="20260819160000 +0300" stop="20260819170000 +0300" channel="BloombergTV.us">
     <title lang="tr">Finans Merkezi</title>
@@ -35824,37 +35014,37 @@
     <title lang="tr">Küresel Piyasalar</title>
   </programme>
   <programme start="20260819231000 +0300" stop="20260820001000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Açık Hava Sineması</title>
+    <title lang="tr">İşin Zirvesinde</title>
   </programme>
   <programme start="20260820001000 +0300" stop="20260820004000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Bloomberg Wealth With David Rubenstein</title>
+    <title lang="tr">Leaders With Lacqua</title>
   </programme>
   <programme start="20260820004000 +0300" stop="20260820013000 +0300" channel="BloombergTV.us">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
   </programme>
   <programme start="20260820013000 +0300" stop="20260820022000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Ece Saruhan'la Oyuna Devam</title>
+    <title lang="tr">Akustikhane</title>
   </programme>
   <programme start="20260820022000 +0300" stop="20260820024500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Girişimcilik Dünyası</title>
+    <title lang="tr">Tarım Analiz</title>
   </programme>
   <programme start="20260820024500 +0300" stop="20260820031000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Akıllı Tarım</title>
+    <title lang="tr">İş Dünyası</title>
   </programme>
   <programme start="20260820031000 +0300" stop="20260820040500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Açık Hava Sineması</title>
+    <title lang="tr">İşin Zirvesinde</title>
   </programme>
   <programme start="20260820040500 +0300" stop="20260820043000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Bloomberg Wealth With David Rubenstein</title>
+    <title lang="tr">Leaders With Lacqua</title>
   </programme>
   <programme start="20260820043000 +0300" stop="20260820045500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Girişimcilik Dünyası</title>
+    <title lang="tr">Tarım Analiz</title>
   </programme>
   <programme start="20260820045500 +0300" stop="20260820052000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Akıllı Tarım</title>
+    <title lang="tr">İş Dünyası</title>
   </programme>
   <programme start="20260820052000 +0300" stop="20260820061000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Ece Saruhan'la Oyuna Devam</title>
+    <title lang="tr">Akustikhane</title>
   </programme>
   <programme start="20260820061000 +0300" stop="20260820070000 +0300" channel="BloombergTV.us">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
@@ -35884,9 +35074,12 @@
     <title lang="tr">30 Dakika</title>
   </programme>
   <programme start="20260820123000 +0300" stop="20260820130000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Tarım Analiz</title>
+    <title lang="tr">Üst Düzey</title>
   </programme>
-  <programme start="20260820130000 +0300" stop="20260820140000 +0300" channel="BloombergTV.us">
+  <programme start="20260820130000 +0300" stop="20260820133000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Gündem Teknoloji</title>
+  </programme>
+  <programme start="20260820133000 +0300" stop="20260820140000 +0300" channel="BloombergTV.us">
     <title lang="tr">Seans Ortası</title>
   </programme>
   <programme start="20260820140000 +0300" stop="20260820144500 +0300" channel="BloombergTV.us">
@@ -35895,11 +35088,8 @@
   <programme start="20260820144500 +0300" stop="20260820151500 +0300" channel="BloombergTV.us">
     <title lang="tr">İş Dünyası</title>
   </programme>
-  <programme start="20260820151500 +0300" stop="20260820153000 +0300" channel="BloombergTV.us">
+  <programme start="20260820151500 +0300" stop="20260820160000 +0300" channel="BloombergTV.us">
     <title lang="tr">Akıllı Para</title>
-  </programme>
-  <programme start="20260820153000 +0300" stop="20260820160000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Tarih Keyfi</title>
   </programme>
   <programme start="20260820160000 +0300" stop="20260820170000 +0300" channel="BloombergTV.us">
     <title lang="tr">Finans Merkezi</title>
@@ -35913,11 +35103,8 @@
   <programme start="20260820182000 +0300" stop="20260820190000 +0300" channel="BloombergTV.us">
     <title lang="tr">Günden Kalanlar</title>
   </programme>
-  <programme start="20260820190000 +0300" stop="20260820192000 +0300" channel="BloombergTV.us">
+  <programme start="20260820190000 +0300" stop="20260820200000 +0300" channel="BloombergTV.us">
     <title lang="tr">60 Dakika</title>
-  </programme>
-  <programme start="20260820192000 +0300" stop="20260820200000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Başarıya Doğru</title>
   </programme>
   <programme start="20260820200000 +0300" stop="20260820210000 +0300" channel="BloombergTV.us">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
@@ -35928,38 +35115,35 @@
   <programme start="20260820220000 +0300" stop="20260820231000 +0300" channel="BloombergTV.us">
     <title lang="tr">Küresel Piyasalar</title>
   </programme>
-  <programme start="20260820231000 +0300" stop="20260821001000 +0300" channel="BloombergTV.us">
-    <title lang="tr">İşin Zirvesinde</title>
-  </programme>
-  <programme start="20260821001000 +0300" stop="20260821004000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Leaders With Lacqua</title>
+  <programme start="20260820231000 +0300" stop="20260821004000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Oyun Dışı</title>
   </programme>
   <programme start="20260821004000 +0300" stop="20260821013000 +0300" channel="BloombergTV.us">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
   </programme>
-  <programme start="20260821013000 +0300" stop="20260821022000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Akustikhane</title>
+  <programme start="20260821013000 +0300" stop="20260821021500 +0300" channel="BloombergTV.us">
+    <title lang="tr">Bloomberg Investigates</title>
   </programme>
-  <programme start="20260821022000 +0300" stop="20260821024500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Tarım Analiz</title>
+  <programme start="20260821021500 +0300" stop="20260821024000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Üst Düzey</title>
   </programme>
-  <programme start="20260821024500 +0300" stop="20260821031000 +0300" channel="BloombergTV.us">
+  <programme start="20260821024000 +0300" stop="20260821030500 +0300" channel="BloombergTV.us">
     <title lang="tr">İş Dünyası</title>
   </programme>
-  <programme start="20260821031000 +0300" stop="20260821040500 +0300" channel="BloombergTV.us">
-    <title lang="tr">İşin Zirvesinde</title>
+  <programme start="20260821030500 +0300" stop="20260821033000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Gündem Teknoloji</title>
   </programme>
-  <programme start="20260821040500 +0300" stop="20260821043000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Leaders With Lacqua</title>
-  </programme>
-  <programme start="20260821043000 +0300" stop="20260821045500 +0300" channel="BloombergTV.us">
-    <title lang="tr">Tarım Analiz</title>
+  <programme start="20260821033000 +0300" stop="20260821045500 +0300" channel="BloombergTV.us">
+    <title lang="tr">Oyun Dışı</title>
   </programme>
   <programme start="20260821045500 +0300" stop="20260821052000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Üst Düzey</title>
+  </programme>
+  <programme start="20260821052000 +0300" stop="20260821054500 +0300" channel="BloombergTV.us">
     <title lang="tr">İş Dünyası</title>
   </programme>
-  <programme start="20260821052000 +0300" stop="20260821061000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Akustikhane</title>
+  <programme start="20260821054500 +0300" stop="20260821061000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Gündem Teknoloji</title>
   </programme>
   <programme start="20260821061000 +0300" stop="20260821070000 +0300" channel="BloombergTV.us">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
@@ -35982,17 +35166,20 @@
   <programme start="20260821110000 +0300" stop="20260821111500 +0300" channel="BloombergTV.us">
     <title lang="tr">Grafik Düellosu</title>
   </programme>
-  <programme start="20260821111500 +0300" stop="20260821120000 +0300" channel="BloombergTV.us">
+  <programme start="20260821111500 +0300" stop="20260821114500 +0300" channel="BloombergTV.us">
     <title lang="tr">Fokus</title>
   </programme>
+  <programme start="20260821114500 +0300" stop="20260821120000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Risk Yönetimi</title>
+  </programme>
   <programme start="20260821120000 +0300" stop="20260821123000 +0300" channel="BloombergTV.us">
-    <title lang="tr">30 Dakika</title>
+    <title lang="tr">Gelecek Enerji</title>
   </programme>
   <programme start="20260821123000 +0300" stop="20260821130000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Üst Düzey</title>
+    <title lang="tr">Reklam Arkası</title>
   </programme>
   <programme start="20260821130000 +0300" stop="20260821133000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Gündem Teknoloji</title>
+    <title lang="tr">Sürdürülebilir Gelecek</title>
   </programme>
   <programme start="20260821133000 +0300" stop="20260821140000 +0300" channel="BloombergTV.us">
     <title lang="tr">Seans Ortası</title>
@@ -36030,8 +35217,8 @@
   <programme start="20260821220000 +0300" stop="20260821231000 +0300" channel="BloombergTV.us">
     <title lang="tr">Küresel Piyasalar</title>
   </programme>
-  <programme start="20260821231000 +0300" stop="20260822004000 +0300" channel="BloombergTV.us">
-    <title lang="tr">Oyun Dışı</title>
+  <programme start="20260821231000 +0300" stop="20260822003000 +0300" channel="BloombergTV.us">
+    <title lang="tr">Tarih Keyfi</title>
   </programme>
   <channel id="ANews.tr">
     <display-name>A News</display-name>
