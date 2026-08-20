@@ -12602,63 +12602,6 @@
     <url>http://www.turksatkablo.com.tr</url>
     <icon src="https://i.imgur.com/8FO41es.png" />
   </channel>
-  <programme start="20260819010000 +0300" stop="20260819020000 +0300" channel="24TV.tr">
-    <title lang="tr">Günün Manşeti</title>
-  </programme>
-  <programme start="20260819020000 +0300" stop="20260819023000 +0300" channel="24TV.tr">
-    <title lang="tr">Mercek</title>
-  </programme>
-  <programme start="20260819023000 +0300" stop="20260819041500 +0300" channel="24TV.tr">
-    <title lang="tr">Bu Ülke</title>
-  </programme>
-  <programme start="20260819041500 +0300" stop="20260819044500 +0300" channel="24TV.tr">
-    <title lang="tr">8. Etap</title>
-  </programme>
-  <programme start="20260819044500 +0300" stop="20260819060000 +0300" channel="24TV.tr">
-    <title lang="tr">Basın Ekspres</title>
-  </programme>
-  <programme start="20260819060000 +0300" stop="20260819070000 +0300" channel="24TV.tr">
-    <title lang="tr">Basın Ekspres</title>
-  </programme>
-  <programme start="20260819070000 +0300" stop="20260819090000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör Sabah</title>
-  </programme>
-  <programme start="20260819090000 +0300" stop="20260819105000 +0300" channel="24TV.tr">
-    <title lang="tr">Analiz Sentez</title>
-  </programme>
-  <programme start="20260819105000 +0300" stop="20260819110000 +0300" channel="24TV.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260819110000 +0300" stop="20260819120000 +0300" channel="24TV.tr">
-    <title lang="tr">Günün Manşeti</title>
-  </programme>
-  <programme start="20260819120000 +0300" stop="20260819123500 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör</title>
-  </programme>
-  <programme start="20260819123500 +0300" stop="20260819130000 +0300" channel="24TV.tr">
-    <title lang="tr">Kahve Molası</title>
-  </programme>
-  <programme start="20260819130000 +0300" stop="20260819142000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör</title>
-  </programme>
-  <programme start="20260819142000 +0300" stop="20260819150000 +0300" channel="24TV.tr">
-    <title lang="tr">Tercih Rehberi</title>
-  </programme>
-  <programme start="20260819150000 +0300" stop="20260819170000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör</title>
-  </programme>
-  <programme start="20260819170000 +0300" stop="20260819180000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör</title>
-  </programme>
-  <programme start="20260819180000 +0300" stop="20260819200000 +0300" channel="24TV.tr">
-    <title lang="tr">Akşam Haberleri</title>
-  </programme>
-  <programme start="20260819200000 +0300" stop="20260819230000 +0300" channel="24TV.tr">
-    <title lang="tr">24 Özel</title>
-  </programme>
-  <programme start="20260819230000 +0300" stop="20260820010000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör Gece</title>
-  </programme>
   <programme start="20260820010000 +0300" stop="20260820020000 +0300" channel="24TV.tr">
     <title lang="tr">Günün Manşeti</title>
   </programme>
@@ -12772,6 +12715,72 @@
   </programme>
   <programme start="20260821230000 +0300" stop="20260822010000 +0300" channel="24TV.tr">
     <title lang="tr">Moderatör Gece</title>
+  </programme>
+  <programme start="20260822010000 +0300" stop="20260822020000 +0300" channel="24TV.tr">
+    <title lang="tr">Günün Manşeti</title>
+  </programme>
+  <programme start="20260822020000 +0300" stop="20260822044500 +0300" channel="24TV.tr">
+    <title lang="tr">Esas Mesele</title>
+  </programme>
+  <programme start="20260822044500 +0300" stop="20260822060000 +0300" channel="24TV.tr">
+    <title lang="tr">Bu Ülke</title>
+  </programme>
+  <programme start="20260822060000 +0300" stop="20260822063000 +0300" channel="24TV.tr">
+    <title lang="tr">Bu Ülke</title>
+  </programme>
+  <programme start="20260822063000 +0300" stop="20260822080000 +0300" channel="24TV.tr">
+    <title lang="tr">Arafta Sorular</title>
+  </programme>
+  <programme start="20260822080000 +0300" stop="20260822100000 +0300" channel="24TV.tr">
+    <title lang="tr">An Ve Zaman</title>
+  </programme>
+  <programme start="20260822100000 +0300" stop="20260822120000 +0300" channel="24TV.tr">
+    <title lang="tr">Moderatör Hafta Sonu</title>
+  </programme>
+  <programme start="20260822120000 +0300" stop="20260822121500 +0300" channel="24TV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20260822121500 +0300" stop="20260822130000 +0300" channel="24TV.tr">
+    <title lang="tr">8. Etap</title>
+  </programme>
+  <programme start="20260822130000 +0300" stop="20260822140000 +0300" channel="24TV.tr">
+    <title lang="tr">Hafta Sonu Gün Ortası</title>
+  </programme>
+  <programme start="20260822140000 +0300" stop="20260822142500 +0300" channel="24TV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20260822142500 +0300" stop="20260822150000 +0300" channel="24TV.tr">
+    <title lang="tr">Okur Yazar</title>
+  </programme>
+  <programme start="20260822150000 +0300" stop="20260822161000 +0300" channel="24TV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20260822161000 +0300" stop="20260822170000 +0300" channel="24TV.tr">
+    <title lang="tr">Neler Oluyor Hayatta</title>
+  </programme>
+  <programme start="20260822170000 +0300" stop="20260822172500 +0300" channel="24TV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20260822172500 +0300" stop="20260822180000 +0300" channel="24TV.tr">
+    <title lang="tr">Kırmızı Halı</title>
+  </programme>
+  <programme start="20260822180000 +0300" stop="20260822190000 +0300" channel="24TV.tr">
+    <title lang="tr">Hafta Sonu Akşam Haberleri</title>
+  </programme>
+  <programme start="20260822190000 +0300" stop="20260822210000 +0300" channel="24TV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20260822210000 +0300" stop="20260822211500 +0300" channel="24TV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20260822211500 +0300" stop="20260822230000 +0300" channel="24TV.tr">
+    <title lang="tr">Doğrusu Ne?</title>
+  </programme>
+  <programme start="20260822230000 +0300" stop="20260822231500 +0300" channel="24TV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20260822231500 +0300" stop="20260823010000 +0300" channel="24TV.tr">
+    <title lang="tr">An Ve Zaman</title>
   </programme>
   <channel id="NTV.tr">
     <display-name>NTV</display-name>
@@ -14844,432 +14853,671 @@
   </programme>
   <channel id="APara.tr">
     <display-name>A Para</display-name>
-    <display-name lang="tr">A PARA</display-name>
-    <url>http://www.turksatkablo.com.tr</url>
-    <icon src="https://i.imgur.com/GjHnq0c.png" />
+    <display-name lang="tr">A PARA HD</display-name>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20180908/001300/XTV100000934/be088e5d-9cf5-4257-b935-e9841a0ff8c1.png" />
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20180908/001300/XTV100000934/be088e5d-9cf5-4257-b935-e9841a0ff8c1.png" />
+    <url>http://www.tvplus.com.tr</url>
   </channel>
-  <programme start="20260819000000 +0300" stop="20260819010000 +0300" channel="APara.tr">
-    <title lang="tr">Her Şeyi Konuşalım</title>
-  </programme>
-  <programme start="20260819010000 +0300" stop="20260819030000 +0300" channel="APara.tr">
-    <title lang="tr">Canım Ailem</title>
-  </programme>
-  <programme start="20260819030000 +0300" stop="20260819040000 +0300" channel="APara.tr">
+  <programme start="20260820000000 +0000" stop="20260820010000 +0000" channel="APara.tr">
     <title lang="tr">Sır Küpü</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/43/1800397591375eb88428.jpg" />
   </programme>
-  <programme start="20260819040000 +0300" stop="20260819050000 +0300" channel="APara.tr">
-    <title lang="tr">Başarının Anahtarı</title>
-  </programme>
-  <programme start="20260819050000 +0300" stop="20260819060000 +0300" channel="APara.tr">
-    <title lang="tr">Yıldızlı Sohbetler</title>
-  </programme>
-  <programme start="20260819060000 +0300" stop="20260819070000 +0300" channel="APara.tr">
-    <title lang="tr">Her Şeyi Konuşalım</title>
-  </programme>
-  <programme start="20260819070000 +0300" stop="20260819080000 +0300" channel="APara.tr">
-    <title lang="tr">Seans Öncesi</title>
-  </programme>
-  <programme start="20260819080000 +0300" stop="20260819085500 +0300" channel="APara.tr">
-    <title lang="tr">Seans Öncesi</title>
-  </programme>
-  <programme start="20260819085500 +0300" stop="20260819090000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260819090000 +0300" stop="20260819102000 +0300" channel="APara.tr">
-    <title lang="tr">Paranın Rotası</title>
-  </programme>
-  <programme start="20260819102000 +0300" stop="20260819105500 +0300" channel="APara.tr">
-    <title lang="tr">Ekonomi Notları</title>
-  </programme>
-  <programme start="20260819105500 +0300" stop="20260819110000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260819110000 +0300" stop="20260819115000 +0300" channel="APara.tr">
-    <title lang="tr">Piyasa Saati</title>
-  </programme>
-  <programme start="20260819115000 +0300" stop="20260819115500 +0300" channel="APara.tr">
-    <title lang="tr">Yatırım Haberleri</title>
-  </programme>
-  <programme start="20260819115500 +0300" stop="20260819120000 +0300" channel="APara.tr">
-    <title lang="tr">Yatırım Dünyası</title>
-  </programme>
-  <programme start="20260819120000 +0300" stop="20260819125500 +0300" channel="APara.tr">
-    <title lang="tr">Teknoloji Ve Gelecek</title>
-  </programme>
-  <programme start="20260819125500 +0300" stop="20260819130000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260819130000 +0300" stop="20260819133000 +0300" channel="APara.tr">
-    <title lang="tr">Yatırım Günlüğü</title>
-  </programme>
-  <programme start="20260819133000 +0300" stop="20260819135000 +0300" channel="APara.tr">
-    <title lang="tr">Fon Dünyası</title>
-  </programme>
-  <programme start="20260819135000 +0300" stop="20260819140000 +0300" channel="APara.tr">
-    <title lang="tr">Hisse Atlası</title>
-  </programme>
-  <programme start="20260819140000 +0300" stop="20260819145500 +0300" channel="APara.tr">
-    <title lang="tr">Piyasa Gündemi</title>
-  </programme>
-  <programme start="20260819145500 +0300" stop="20260819150000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260819150000 +0300" stop="20260819155500 +0300" channel="APara.tr">
-    <title lang="tr">Paranın Yönü</title>
-  </programme>
-  <programme start="20260819155500 +0300" stop="20260819160000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260819160000 +0300" stop="20260819163000 +0300" channel="APara.tr">
-    <title lang="tr">Piyasa Notları</title>
-  </programme>
-  <programme start="20260819163000 +0300" stop="20260819165500 +0300" channel="APara.tr">
-    <title lang="tr">Anadolu Planı</title>
-  </programme>
-  <programme start="20260819165500 +0300" stop="20260819170000 +0300" channel="APara.tr">
-    <title lang="tr">Yatırım Dünyası</title>
-  </programme>
-  <programme start="20260819170000 +0300" stop="20260819175500 +0300" channel="APara.tr">
-    <title lang="tr">Bize Sorun</title>
-  </programme>
-  <programme start="20260819175500 +0300" stop="20260819180000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260819180000 +0300" stop="20260819185500 +0300" channel="APara.tr">
-    <title lang="tr">Z Raporu</title>
-  </programme>
-  <programme start="20260819185500 +0300" stop="20260819190000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260819190000 +0300" stop="20260819195500 +0300" channel="APara.tr">
+  <programme start="20260820010000 +0000" stop="20260820020000 +0000" channel="APara.tr">
     <title lang="tr">Nostalji</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/35/1800397601445eb88428.jpg" />
   </programme>
-  <programme start="20260819195500 +0300" stop="20260819200000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260819200000 +0300" stop="20260819210000 +0300" channel="APara.tr">
-    <title lang="tr">Sır Küpü</title>
-  </programme>
-  <programme start="20260819210000 +0300" stop="20260819230000 +0300" channel="APara.tr">
-    <title lang="tr">Canım Ailem</title>
-  </programme>
-  <programme start="20260819230000 +0300" stop="20260820000000 +0300" channel="APara.tr">
-    <title lang="tr">Evvel Zaman İçinde</title>
-  </programme>
-  <programme start="20260820000000 +0300" stop="20260820010000 +0300" channel="APara.tr">
-    <title lang="tr">Her Şeyi Konuşalım</title>
-  </programme>
-  <programme start="20260820010000 +0300" stop="20260820030000 +0300" channel="APara.tr">
-    <title lang="tr">Canım Ailem</title>
-  </programme>
-  <programme start="20260820030000 +0300" stop="20260820040000 +0300" channel="APara.tr">
-    <title lang="tr">Sır Küpü</title>
-  </programme>
-  <programme start="20260820040000 +0300" stop="20260820050000 +0300" channel="APara.tr">
-    <title lang="tr">Başarının Anahtarı</title>
-  </programme>
-  <programme start="20260820050000 +0300" stop="20260820060000 +0300" channel="APara.tr">
-    <title lang="tr">Yıldızlı Sohbetler</title>
-  </programme>
-  <programme start="20260820060000 +0300" stop="20260820070000 +0300" channel="APara.tr">
-    <title lang="tr">Her Şeyi Konuşalım</title>
-  </programme>
-  <programme start="20260820070000 +0300" stop="20260820080000 +0300" channel="APara.tr">
-    <title lang="tr">Seans Öncesi</title>
-  </programme>
-  <programme start="20260820080000 +0300" stop="20260820085500 +0300" channel="APara.tr">
-    <title lang="tr">Seans Öncesi</title>
-  </programme>
-  <programme start="20260820085500 +0300" stop="20260820090000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260820090000 +0300" stop="20260820102000 +0300" channel="APara.tr">
-    <title lang="tr">Paranın Rotası</title>
-  </programme>
-  <programme start="20260820102000 +0300" stop="20260820105500 +0300" channel="APara.tr">
-    <title lang="tr">Ekonomi Notları</title>
-  </programme>
-  <programme start="20260820105500 +0300" stop="20260820110000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260820110000 +0300" stop="20260820115000 +0300" channel="APara.tr">
-    <title lang="tr">Piyasa Saati</title>
-  </programme>
-  <programme start="20260820115000 +0300" stop="20260820115500 +0300" channel="APara.tr">
-    <title lang="tr">Yatırım Haberleri</title>
-  </programme>
-  <programme start="20260820115500 +0300" stop="20260820120000 +0300" channel="APara.tr">
-    <title lang="tr">Yatırım Dünyası</title>
-  </programme>
-  <programme start="20260820120000 +0300" stop="20260820125500 +0300" channel="APara.tr">
-    <title lang="tr">Teknoloji Ve Gelecek</title>
-  </programme>
-  <programme start="20260820125500 +0300" stop="20260820130000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260820130000 +0300" stop="20260820133000 +0300" channel="APara.tr">
-    <title lang="tr">Yatırım Günlüğü</title>
-  </programme>
-  <programme start="20260820133000 +0300" stop="20260820135000 +0300" channel="APara.tr">
-    <title lang="tr">Fon Dünyası</title>
-  </programme>
-  <programme start="20260820135000 +0300" stop="20260820140000 +0300" channel="APara.tr">
-    <title lang="tr">Hisse Atlası</title>
-  </programme>
-  <programme start="20260820140000 +0300" stop="20260820145500 +0300" channel="APara.tr">
-    <title lang="tr">Piyasa Gündemi</title>
-  </programme>
-  <programme start="20260820145500 +0300" stop="20260820150000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260820150000 +0300" stop="20260820155500 +0300" channel="APara.tr">
-    <title lang="tr">Paranın Yönü</title>
-  </programme>
-  <programme start="20260820155500 +0300" stop="20260820160000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260820160000 +0300" stop="20260820163000 +0300" channel="APara.tr">
-    <title lang="tr">Piyasa Notları</title>
-  </programme>
-  <programme start="20260820163000 +0300" stop="20260820165500 +0300" channel="APara.tr">
-    <title lang="tr">Anadolu Planı</title>
-  </programme>
-  <programme start="20260820165500 +0300" stop="20260820170000 +0300" channel="APara.tr">
-    <title lang="tr">Yatırım Dünyası</title>
-  </programme>
-  <programme start="20260820170000 +0300" stop="20260820175500 +0300" channel="APara.tr">
-    <title lang="tr">Bize Sorun</title>
-  </programme>
-  <programme start="20260820175500 +0300" stop="20260820180000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260820180000 +0300" stop="20260820185500 +0300" channel="APara.tr">
-    <title lang="tr">Z Raporu</title>
-  </programme>
-  <programme start="20260820185500 +0300" stop="20260820190000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260820190000 +0300" stop="20260820195500 +0300" channel="APara.tr">
-    <title lang="tr">Nostalji</title>
-  </programme>
-  <programme start="20260820195500 +0300" stop="20260820200000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260820200000 +0300" stop="20260820210000 +0300" channel="APara.tr">
-    <title lang="tr">Sır Küpü</title>
-  </programme>
-  <programme start="20260820210000 +0300" stop="20260820230000 +0300" channel="APara.tr">
-    <title lang="tr">Canım Ailem</title>
-  </programme>
-  <programme start="20260820230000 +0300" stop="20260821000000 +0300" channel="APara.tr">
-    <title lang="tr">Evvel Zaman İçinde</title>
-  </programme>
-  <programme start="20260821000000 +0300" stop="20260821010000 +0300" channel="APara.tr">
-    <title lang="tr">Yıldızlı Sohbetler</title>
-  </programme>
-  <programme start="20260821010000 +0300" stop="20260821030000 +0300" channel="APara.tr">
-    <title lang="tr">Canım Ailem</title>
-  </programme>
-  <programme start="20260821030000 +0300" stop="20260821040000 +0300" channel="APara.tr">
-    <title lang="tr">Sır Küpü</title>
-  </programme>
-  <programme start="20260821040000 +0300" stop="20260821050000 +0300" channel="APara.tr">
-    <title lang="tr">Nostalji</title>
-  </programme>
-  <programme start="20260821050000 +0300" stop="20260821060000 +0300" channel="APara.tr">
+  <programme start="20260820020000 +0000" stop="20260820030000 +0000" channel="APara.tr">
     <title lang="tr">A Para'da Söylediler</title>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/2/1800397601525eb88428.jpg" />
   </programme>
-  <programme start="20260821060000 +0300" stop="20260821070000 +0300" channel="APara.tr">
+  <programme start="20260820030000 +0000" stop="20260820040000 +0000" channel="APara.tr">
     <title lang="tr">Evvel Zaman İçinde</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/16/1800397611605eb88428.jpg" />
   </programme>
-  <programme start="20260821070000 +0300" stop="20260821080000 +0300" channel="APara.tr">
+  <programme start="20260820040000 +0000" stop="20260820050000 +0000" channel="APara.tr">
     <title lang="tr">Seans Öncesi</title>
+    <desc lang="tr">Piyasa açılmadan hemen önce günün beklentileri aktarılıyor. Avrupa’dan ABD’ye, Asya’dan Körfez ülkelerine tüm piyasalar detaylı bir şekilde piyasanın önde gelen aktörleriyle değerlendiriliyor. Grafiklerle yurt içinde ve küresel piyasalarda açıklanacak verilerin etkileri analiz ediliyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/39/1800397611685eb88428.jpg" />
   </programme>
-  <programme start="20260821080000 +0300" stop="20260821085500 +0300" channel="APara.tr">
+  <programme start="20260820050000 +0000" stop="20260820055500 +0000" channel="APara.tr">
     <title lang="tr">Seans Öncesi</title>
+    <desc lang="tr">Piyasa açılmadan hemen önce günün beklentileri aktarılıyor. Avrupa’dan ABD’ye, Asya’dan Körfez ülkelerine tüm piyasalar detaylı bir şekilde piyasanın önde gelen aktörleriyle değerlendiriliyor. Grafiklerle yurt içinde ve küresel piyasalarda açıklanacak verilerin etkileri analiz ediliyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/79/1800397621765eb88428.jpg" />
   </programme>
-  <programme start="20260821085500 +0300" stop="20260821090000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260821090000 +0300" stop="20260821102000 +0300" channel="APara.tr">
-    <title lang="tr">Paranın Rotası</title>
-  </programme>
-  <programme start="20260821102000 +0300" stop="20260821105500 +0300" channel="APara.tr">
-    <title lang="tr">Ekonomi Notları</title>
-  </programme>
-  <programme start="20260821105500 +0300" stop="20260821110000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260821110000 +0300" stop="20260821115000 +0300" channel="APara.tr">
-    <title lang="tr">Piyasa Saati</title>
-  </programme>
-  <programme start="20260821115000 +0300" stop="20260821115500 +0300" channel="APara.tr">
-    <title lang="tr">Yatırım Haberleri</title>
-  </programme>
-  <programme start="20260821115500 +0300" stop="20260821120000 +0300" channel="APara.tr">
+  <programme start="20260820055500 +0000" stop="20260820060000 +0000" channel="APara.tr">
     <title lang="tr">Yatırım Dünyası</title>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/20/1800397621845eb88428.jpg" />
   </programme>
-  <programme start="20260821120000 +0300" stop="20260821123000 +0300" channel="APara.tr">
+  <programme start="20260820060000 +0000" stop="20260820071500 +0000" channel="APara.tr">
+    <title lang="tr">Paranın Rotası</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/8/1800397621905eb88428.jpg" />
+  </programme>
+  <programme start="20260820071500 +0000" stop="20260820075500 +0000" channel="APara.tr">
+    <title lang="tr">Ekonomi Notları</title>
+    <desc lang="tr">Küresel piyasalarda son açıklanan veriler aktarılırken, dünya piyasalarını ilgilendiren haberler uzman konuklarla değerlendiriliyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/35/1800397621975eb88428.jpg" />
+  </programme>
+  <programme start="20260820075500 +0000" stop="20260820080000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/61/1800397632055eb88428.jpg" />
+  </programme>
+  <programme start="20260820080000 +0000" stop="20260820085000 +0000" channel="APara.tr">
+    <title lang="tr">Piyasa Saati</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/93/1800397632135eb88428.jpg" />
+  </programme>
+  <programme start="20260820085000 +0000" stop="20260820085500 +0000" channel="APara.tr">
+    <title lang="tr">Yatırım Haberleri</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/23/1800397632195eb88428.jpg" />
+  </programme>
+  <programme start="20260820085500 +0000" stop="20260820090000 +0000" channel="APara.tr">
+    <title lang="tr">Yatırım Dünyası</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/77/1800397642265eb88428.jpg" />
+  </programme>
+  <programme start="20260820090000 +0000" stop="20260820093000 +0000" channel="APara.tr">
     <title lang="tr">Tarladan Sofraya</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/76/1800397642345eb88428.jpg" />
   </programme>
-  <programme start="20260821123000 +0300" stop="20260821125500 +0300" channel="APara.tr">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="APara.tr">
     <title lang="tr">Araba Sevdası</title>
+    <desc lang="tr">Otomotiv sektöründeki güncel tablo, uzman konuklar eşliğinde değerlendiriliyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/55/1800397652425eb88428.jpg" />
   </programme>
-  <programme start="20260821125500 +0300" stop="20260821130000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260821130000 +0300" stop="20260821134000 +0300" channel="APara.tr">
+  <programme start="20260820100000 +0000" stop="20260820104000 +0000" channel="APara.tr">
     <title lang="tr">Yatırım Günlüğü</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/21/1800397652505eb88428.jpg" />
   </programme>
-  <programme start="20260821134000 +0300" stop="20260821135000 +0300" channel="APara.tr">
+  <programme start="20260820104000 +0000" stop="20260820105000 +0000" channel="APara.tr">
     <title lang="tr">Tarım Dünyası</title>
+    <desc lang="tr">Sürdürülebilir tarımın püf noktaları ekrana taşınıyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260819/2/1400156867125eb9542c.jpg" />
   </programme>
-  <programme start="20260821135000 +0300" stop="20260821140000 +0300" channel="APara.tr">
+  <programme start="20260820105000 +0000" stop="20260820105500 +0000" channel="APara.tr">
     <title lang="tr">Hisse Atlası</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/76/1800397652565eb88428.jpg" />
   </programme>
-  <programme start="20260821140000 +0300" stop="20260821145500 +0300" channel="APara.tr">
+  <programme start="20260820105500 +0000" stop="20260820110000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/38/1800397652635eb88428.jpg" />
+  </programme>
+  <programme start="20260820110000 +0000" stop="20260820115500 +0000" channel="APara.tr">
     <title lang="tr">Piyasa Gündemi</title>
+    <desc lang="tr">Özel dosya haberler ve grafiklerle piyasaların günü nasıl geçirdiği değerlendiriliyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/48/1800397662715eb88428.jpg" />
   </programme>
-  <programme start="20260821145500 +0300" stop="20260821150000 +0300" channel="APara.tr">
+  <programme start="20260820115500 +0000" stop="20260820120000 +0000" channel="APara.tr">
     <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/25/1800397662795eb88428.jpg" />
   </programme>
-  <programme start="20260821150000 +0300" stop="20260821155500 +0300" channel="APara.tr">
+  <programme start="20260820120000 +0000" stop="20260820125500 +0000" channel="APara.tr">
     <title lang="tr">Paranın Yönü</title>
+    <desc lang="tr">Paranın yönünü belirleyen duraklardan canlı bağlantılar ile güne damgasını vuran haberler, uzman isimlerle değerlendiriliyor. Piyasaların, reel sektörün nabzı tutuluyor, parasına yön vermek isteyenlere yol tarifi yapılıyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/64/1800397672875eb88428.jpg" />
   </programme>
-  <programme start="20260821155500 +0300" stop="20260821160000 +0300" channel="APara.tr">
+  <programme start="20260820125500 +0000" stop="20260820130000 +0000" channel="APara.tr">
     <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/6/1800397672955eb88428.jpg" />
   </programme>
-  <programme start="20260821160000 +0300" stop="20260821175500 +0300" channel="APara.tr">
+  <programme start="20260820130000 +0000" stop="20260820145500 +0000" channel="APara.tr">
     <title lang="tr">Piyasa Notları</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260818/86/2204324472825eb9b42e.jpg" />
   </programme>
-  <programme start="20260821175500 +0300" stop="20260821180000 +0300" channel="APara.tr">
+  <programme start="20260820145500 +0000" stop="20260820150000 +0000" channel="APara.tr">
     <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/76/1800397683165eb88428.jpg" />
   </programme>
-  <programme start="20260821180000 +0300" stop="20260821185500 +0300" channel="APara.tr">
+  <programme start="20260820150000 +0000" stop="20260820155500 +0000" channel="APara.tr">
     <title lang="tr">Z Raporu</title>
+    <desc lang="tr">Borsada yükselen düşen hisseler ele alınırken, yurt içi ve yurt dışı bağlantılar ile uzman konuklarla gün sonu performanslar ışığında ertesi günün gündemi değerlendiriliyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/76/1800397683245eb88428.jpg" />
   </programme>
-  <programme start="20260821185500 +0300" stop="20260821190000 +0300" channel="APara.tr">
+  <programme start="20260820155500 +0000" stop="20260820160000 +0000" channel="APara.tr">
     <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/69/1800397693325eb88428.jpg" />
   </programme>
-  <programme start="20260821190000 +0300" stop="20260821195500 +0300" channel="APara.tr">
+  <programme start="20260820160000 +0000" stop="20260820165500 +0000" channel="APara.tr">
     <title lang="tr">Her Şeyi Konuşalım</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/95/1800397693405eb88428.jpg" />
   </programme>
-  <programme start="20260821195500 +0300" stop="20260821200000 +0300" channel="APara.tr">
+  <programme start="20260820165500 +0000" stop="20260820170000 +0000" channel="APara.tr">
     <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/74/1800397693485eb88428.jpg" />
   </programme>
-  <programme start="20260821200000 +0300" stop="20260821210000 +0300" channel="APara.tr">
+  <programme start="20260820170000 +0000" stop="20260820180000 +0000" channel="APara.tr">
     <title lang="tr">Sır Küpü</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/66/1800397703545eb88428.jpg" />
   </programme>
-  <programme start="20260821210000 +0300" stop="20260821230000 +0300" channel="APara.tr">
+  <programme start="20260820180000 +0000" stop="20260820200000 +0000" channel="APara.tr">
     <title lang="tr">Canım Ailem</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/23/1800397703595eb88428.jpg" />
   </programme>
-  <programme start="20260821230000 +0300" stop="20260822010000 +0300" channel="APara.tr">
+  <programme start="20260820200000 +0000" stop="20260820220000 +0000" channel="APara.tr">
     <title lang="tr">İzlence</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260814/46/1800397703665eb88428.jpg" />
   </programme>
-  <programme start="20260822010000 +0300" stop="20260822030000 +0300" channel="APara.tr">
+  <programme start="20260820220000 +0000" stop="20260821000000 +0000" channel="APara.tr">
     <title lang="tr">Canım Ailem</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/91/2204320089895eb9542c.jpg" />
   </programme>
-  <programme start="20260822030000 +0300" stop="20260822040000 +0300" channel="APara.tr">
+  <programme start="20260821000000 +0000" stop="20260821010000 +0000" channel="APara.tr">
     <title lang="tr">Sır Küpü</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/14/2204320089945eb9542c.jpg" />
   </programme>
-  <programme start="20260822040000 +0300" stop="20260822060000 +0300" channel="APara.tr">
+  <programme start="20260821010000 +0000" stop="20260821030000 +0000" channel="APara.tr">
     <title lang="tr">İzlence</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/58/2204320080015eb9542c.jpg" />
   </programme>
-  <programme start="20260822060000 +0300" stop="20260822070000 +0300" channel="APara.tr">
+  <programme start="20260821030000 +0000" stop="20260821040000 +0000" channel="APara.tr">
     <title lang="tr">Muhteşem Düetler</title>
+    <category lang="tr">Müzik</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/34/2204320080075eb9542c.jpg" />
   </programme>
-  <programme start="20260822070000 +0300" stop="20260822080000 +0300" channel="APara.tr">
+  <programme start="20260821040000 +0000" stop="20260821050000 +0000" channel="APara.tr">
     <title lang="tr">Seans Öncesi</title>
+    <desc lang="tr">Piyasa açılmadan hemen önce günün beklentileri aktarılıyor. Avrupa’dan ABD’ye, Asya’dan Körfez ülkelerine tüm piyasalar detaylı bir şekilde piyasanın önde gelen aktörleriyle değerlendiriliyor. Grafiklerle yurt içinde ve küresel piyasalarda açıklanacak verilerin etkileri analiz ediliyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/52/2204320090145eb9542c.jpg" />
   </programme>
-  <programme start="20260822080000 +0300" stop="20260822085500 +0300" channel="APara.tr">
+  <programme start="20260821050000 +0000" stop="20260821055500 +0000" channel="APara.tr">
     <title lang="tr">Seans Öncesi</title>
+    <desc lang="tr">Piyasa açılmadan hemen önce günün beklentileri aktarılıyor. Avrupa’dan ABD’ye, Asya’dan Körfez ülkelerine tüm piyasalar detaylı bir şekilde piyasanın önde gelen aktörleriyle değerlendiriliyor. Grafiklerle yurt içinde ve küresel piyasalarda açıklanacak verilerin etkileri analiz ediliyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/54/2204320090225eb9542c.jpg" />
   </programme>
-  <programme start="20260822085500 +0300" stop="20260822090000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
+  <programme start="20260821055500 +0000" stop="20260821060000 +0000" channel="APara.tr">
+    <title lang="tr">Yatırım Dünyası</title>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/62/2204320100305eb9542c.jpg" />
   </programme>
-  <programme start="20260822090000 +0300" stop="20260822102000 +0300" channel="APara.tr">
+  <programme start="20260821060000 +0000" stop="20260821071500 +0000" channel="APara.tr">
     <title lang="tr">Paranın Rotası</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/78/2204320100365eb9542c.jpg" />
   </programme>
-  <programme start="20260822102000 +0300" stop="20260822105500 +0300" channel="APara.tr">
+  <programme start="20260821071500 +0000" stop="20260821075500 +0000" channel="APara.tr">
     <title lang="tr">Ekonomi Notları</title>
+    <desc lang="tr">Küresel piyasalarda son açıklanan veriler aktarılırken, dünya piyasalarını ilgilendiren haberler uzman konuklarla değerlendiriliyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/95/2204320100435eb9542c.jpg" />
   </programme>
-  <programme start="20260822105500 +0300" stop="20260822110000 +0300" channel="APara.tr">
+  <programme start="20260821075500 +0000" stop="20260821080000 +0000" channel="APara.tr">
     <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/41/2204320100515eb9542c.jpg" />
   </programme>
-  <programme start="20260822110000 +0300" stop="20260822115000 +0300" channel="APara.tr">
+  <programme start="20260821080000 +0000" stop="20260821085000 +0000" channel="APara.tr">
     <title lang="tr">Piyasa Saati</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/66/2204320110595eb9542c.jpg" />
   </programme>
-  <programme start="20260822115000 +0300" stop="20260822115500 +0300" channel="APara.tr">
+  <programme start="20260821085000 +0000" stop="20260821085500 +0000" channel="APara.tr">
     <title lang="tr">Yatırım Haberleri</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/55/2204320110655eb9542c.jpg" />
   </programme>
-  <programme start="20260822115500 +0300" stop="20260822120000 +0300" channel="APara.tr">
+  <programme start="20260821085500 +0000" stop="20260821090000 +0000" channel="APara.tr">
     <title lang="tr">Yatırım Dünyası</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/96/2204320110725eb9542c.jpg" />
   </programme>
-  <programme start="20260822120000 +0300" stop="20260822123000 +0300" channel="APara.tr">
+  <programme start="20260821090000 +0000" stop="20260821093000 +0000" channel="APara.tr">
     <title lang="tr">Enerji Hattı</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/76/2204320120805eb9542c.jpg" />
   </programme>
-  <programme start="20260822123000 +0300" stop="20260822125500 +0300" channel="APara.tr">
+  <programme start="20260821093000 +0000" stop="20260821100000 +0000" channel="APara.tr">
     <title lang="tr">Çarklar Dönüyor</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/10/2204320120885eb9542c.jpg" />
   </programme>
-  <programme start="20260822125500 +0300" stop="20260822130000 +0300" channel="APara.tr">
-    <title lang="tr">Hava Durumu</title>
-  </programme>
-  <programme start="20260822130000 +0300" stop="20260822134000 +0300" channel="APara.tr">
+  <programme start="20260821100000 +0000" stop="20260821104000 +0000" channel="APara.tr">
     <title lang="tr">Yatırım Günlüğü</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/43/2204320120965eb9542c.jpg" />
   </programme>
-  <programme start="20260822134000 +0300" stop="20260822135000 +0300" channel="APara.tr">
+  <programme start="20260821104000 +0000" stop="20260821105000 +0000" channel="APara.tr">
     <title lang="tr">Tarım Dünyası</title>
+    <desc lang="tr">Sürdürülebilir tarımın püf noktaları ekrana taşınıyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260819/33/2204311781645eb7f426.jpg" />
   </programme>
-  <programme start="20260822135000 +0300" stop="20260822140000 +0300" channel="APara.tr">
+  <programme start="20260821105000 +0000" stop="20260821105500 +0000" channel="APara.tr">
     <title lang="tr">Hisse Atlası</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/53/2204320131025eb9542c.jpg" />
   </programme>
-  <programme start="20260822140000 +0300" stop="20260822145500 +0300" channel="APara.tr">
+  <programme start="20260821105500 +0000" stop="20260821110000 +0000" channel="APara.tr">
+    <title lang="tr">Tarım Dünyası</title>
+    <desc lang="tr">Sürdürülebilir tarımın püf noktaları ekrana taşınıyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/41/2204320131095eb9542c.jpg" />
+  </programme>
+  <programme start="20260821110000 +0000" stop="20260821115500 +0000" channel="APara.tr">
     <title lang="tr">Piyasa Gündemi</title>
+    <desc lang="tr">Özel dosya haberler ve grafiklerle piyasaların günü nasıl geçirdiği değerlendiriliyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/31/2204320131175eb9542c.jpg" />
   </programme>
-  <programme start="20260822145500 +0300" stop="20260822150000 +0300" channel="APara.tr">
+  <programme start="20260821115500 +0000" stop="20260821120000 +0000" channel="APara.tr">
     <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/70/2204320141255eb9542c.jpg" />
   </programme>
-  <programme start="20260822150000 +0300" stop="20260822155500 +0300" channel="APara.tr">
+  <programme start="20260821120000 +0000" stop="20260821125500 +0000" channel="APara.tr">
     <title lang="tr">Paranın Yönü</title>
+    <desc lang="tr">Paranın yönünü belirleyen duraklardan canlı bağlantılar ile güne damgasını vuran haberler, uzman isimlerle değerlendiriliyor. Piyasaların, reel sektörün nabzı tutuluyor, parasına yön vermek isteyenlere yol tarifi yapılıyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/98/2204320141335eb9542c.jpg" />
   </programme>
-  <programme start="20260822155500 +0300" stop="20260822160000 +0300" channel="APara.tr">
+  <programme start="20260821125500 +0000" stop="20260821130000 +0000" channel="APara.tr">
     <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/36/2204320141415eb9542c.jpg" />
   </programme>
-  <programme start="20260822160000 +0300" stop="20260822163000 +0300" channel="APara.tr">
+  <programme start="20260821130000 +0000" stop="20260821133000 +0000" channel="APara.tr">
     <title lang="tr">Küresel Bakış</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/74/2204320151495eb9542c.jpg" />
   </programme>
-  <programme start="20260822163000 +0300" stop="20260822165500 +0300" channel="APara.tr">
+  <programme start="20260821133000 +0000" stop="20260821135500 +0000" channel="APara.tr">
     <title lang="tr">Spor Ekonomisi</title>
+    <desc lang="tr">Spor dünyasının ekonomik boyutu masaya yatırılıyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/11/2204320151575eb9542c.jpg" />
   </programme>
-  <programme start="20260822165500 +0300" stop="20260822170000 +0300" channel="APara.tr">
+  <programme start="20260821135500 +0000" stop="20260821140000 +0000" channel="APara.tr">
     <title lang="tr">Yatırım Dünyası</title>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/64/2204320151655eb9542c.jpg" />
   </programme>
-  <programme start="20260822170000 +0300" stop="20260822175500 +0300" channel="APara.tr">
-    <title lang="tr">Teknoloji Ve Gelecek</title>
+  <programme start="20260821140000 +0000" stop="20260821145500 +0000" channel="APara.tr">
+    <title lang="tr">Teknoloji ve Gelecek</title>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/7/2204320161715eb9542c.jpg" />
   </programme>
-  <programme start="20260822175500 +0300" stop="20260822180000 +0300" channel="APara.tr">
+  <programme start="20260821145500 +0000" stop="20260821150000 +0000" channel="APara.tr">
     <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/15/2204320161785eb9542c.jpg" />
   </programme>
-  <programme start="20260822180000 +0300" stop="20260822185500 +0300" channel="APara.tr">
+  <programme start="20260821150000 +0000" stop="20260821155500 +0000" channel="APara.tr">
     <title lang="tr">Z Raporu</title>
+    <desc lang="tr">Borsada yükselen düşen hisseler ele alınırken, yurt içi ve yurt dışı bağlantılar ile uzman konuklarla gün sonu performanslar ışığında ertesi günün gündemi değerlendiriliyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/49/2204320171865eb9542c.jpg" />
   </programme>
-  <programme start="20260822185500 +0300" stop="20260822190000 +0300" channel="APara.tr">
+  <programme start="20260821155500 +0000" stop="20260821160000 +0000" channel="APara.tr">
     <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/11/2204320171945eb9542c.jpg" />
   </programme>
-  <programme start="20260822190000 +0300" stop="20260822195500 +0300" channel="APara.tr">
+  <programme start="20260821160000 +0000" stop="20260821165500 +0000" channel="APara.tr">
     <title lang="tr">Yüksek Topuklar</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/50/2204320172005eb9542c.jpg" />
   </programme>
-  <programme start="20260822195500 +0300" stop="20260822200000 +0300" channel="APara.tr">
+  <programme start="20260821165500 +0000" stop="20260821170000 +0000" channel="APara.tr">
     <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/2/2204320172075eb9542c.jpg" />
   </programme>
-  <programme start="20260822200000 +0300" stop="20260822210000 +0300" channel="APara.tr">
+  <programme start="20260821170000 +0000" stop="20260821180000 +0000" channel="APara.tr">
     <title lang="tr">Sır Küpü</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/97/2204320182135eb9542c.jpg" />
   </programme>
-  <programme start="20260822210000 +0300" stop="20260822230000 +0300" channel="APara.tr">
+  <programme start="20260821180000 +0000" stop="20260821200000 +0000" channel="APara.tr">
     <title lang="tr">Canım Ailem</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/66/2204320182185eb9542c.jpg" />
   </programme>
-  <programme start="20260822230000 +0300" stop="20260823010000 +0300" channel="APara.tr">
+  <programme start="20260821200000 +0000" stop="20260821220000 +0000" channel="APara.tr">
     <title lang="tr">İnsan Hali</title>
+    <desc lang="tr">İnsan Hali insanın karmaşık duygularına kılavuz oluyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260815/19/2204320182255eb9542c.jpg" />
+  </programme>
+  <programme start="20260821220000 +0000" stop="20260822000000 +0000" channel="APara.tr">
+    <title lang="tr">Canım Ailem</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/26/2204314920395eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822000000 +0000" stop="20260822010000 +0000" channel="APara.tr">
+    <title lang="tr">Sır Küpü</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/28/2204314930445eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822010000 +0000" stop="20260822030000 +0000" channel="APara.tr">
+    <title lang="tr">İnsan Hali</title>
+    <desc lang="tr">İnsan Hali insanın karmaşık duygularına kılavuz oluyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/32/2204314930515eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822030000 +0000" stop="20260822040000 +0000" channel="APara.tr">
+    <title lang="tr">Yüksek Topuklar</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/21/2204314930575eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822040000 +0000" stop="20260822050000 +0000" channel="APara.tr">
+    <title lang="tr">A Para'da Söylediler</title>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/91/2204314930645eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822050000 +0000" stop="20260822055500 +0000" channel="APara.tr">
+    <title lang="tr">Nostalji</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/19/2204314940725eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822055500 +0000" stop="20260822060000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/75/2204314940805eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822060000 +0000" stop="20260822070000 +0000" channel="APara.tr">
+    <title lang="tr">İzlence Çocuk</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/8/2204314950885eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822070000 +0000" stop="20260822075500 +0000" channel="APara.tr">
+    <title lang="tr">Minikler ile Büyük Hayaller</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/26/2204314950965eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822075500 +0000" stop="20260822080000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/3/2204314961045eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822080000 +0000" stop="20260822095500 +0000" channel="APara.tr">
+    <title lang="tr">Biz Bize</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/97/2204314961125eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822095500 +0000" stop="20260822100000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/61/2204314961205eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822100000 +0000" stop="20260822110000 +0000" channel="APara.tr">
+    <title lang="tr">Evvel Zaman İçinde</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/50/2204314971285eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822110000 +0000" stop="20260822125500 +0000" channel="APara.tr">
+    <title lang="tr">İzlence</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/9/2204314971445eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822125500 +0000" stop="20260822130000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/92/2204314981525eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822130000 +0000" stop="20260822140000 +0000" channel="APara.tr">
+    <title lang="tr">Dijital Çağ</title>
+    <desc lang="tr">En yeni teknolojiler, son çıkan ürünler ve teknoloji haberleri Dijital Çağ ile ekranlara geliyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/39/2204314981605eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822140000 +0000" stop="20260822145500 +0000" channel="APara.tr">
+    <title lang="tr">Her Şeyi Konuşalım</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/94/2204314991685eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822145500 +0000" stop="20260822150000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/36/2204314991765eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822150000 +0000" stop="20260822155500 +0000" channel="APara.tr">
+    <title lang="tr">Yüksek Topuklar</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/2/2204314991825eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822155500 +0000" stop="20260822160000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/84/2204315001895eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822165500 +0000" channel="APara.tr">
+    <title lang="tr">Muhteşem Düetler</title>
+    <category lang="tr">Müzik</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/46/2204315001955eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822165500 +0000" stop="20260822170000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/42/2204315002025eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822170000 +0000" stop="20260822190000 +0000" channel="APara.tr">
+    <title lang="tr">Film Kuşağı</title>
+    <desc lang="tr">Türk ve dünya sinemasından sevilen filmler ekrana geliyor.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/65/2204315002105eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822190000 +0000" stop="20260822200000 +0000" channel="APara.tr">
+    <title lang="tr">Sır Küpü</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/94/2204315012165eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822200000 +0000" stop="20260822220000 +0000" channel="APara.tr">
+    <title lang="tr">Biz Bize</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260816/57/2204315012235eb8f42a.jpg" />
+  </programme>
+  <programme start="20260822220000 +0000" stop="20260822230000 +0000" channel="APara.tr">
+    <title lang="tr">Sır Küpü</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/83/2204301861105eb78424.jpg" />
+  </programme>
+  <programme start="20260822230000 +0000" stop="20260823000000 +0000" channel="APara.tr">
+    <title lang="tr">Film Kuşağı</title>
+    <desc lang="tr">Türk ve dünya sinemasından sevilen filmler ekrana geliyor.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/82/2204301861175eb78424.jpg" />
+  </programme>
+  <programme start="20260823000000 +0000" stop="20260823030000 +0000" channel="APara.tr">
+    <title lang="tr">Biz Bize</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/94/2204301871255eb78424.jpg" />
+  </programme>
+  <programme start="20260823030000 +0000" stop="20260823040000 +0000" channel="APara.tr">
+    <title lang="tr">Dijital Çağ</title>
+    <desc lang="tr">En yeni teknolojiler, son çıkan ürünler ve teknoloji haberleri Dijital Çağ ile ekranlara geliyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/33/2204301871335eb78424.jpg" />
+  </programme>
+  <programme start="20260823040000 +0000" stop="20260823050000 +0000" channel="APara.tr">
+    <title lang="tr">A Para'da Söylediler</title>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/20/2204301871415eb78424.jpg" />
+  </programme>
+  <programme start="20260823050000 +0000" stop="20260823055500 +0000" channel="APara.tr">
+    <title lang="tr">Muhteşem Düetler</title>
+    <category lang="tr">Müzik</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260819/37/2204311781705eb7f426.jpg" />
+  </programme>
+  <programme start="20260823055500 +0000" stop="20260823060000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/99/2204301891575eb78424.jpg" />
+  </programme>
+  <programme start="20260823060000 +0000" stop="20260823070000 +0000" channel="APara.tr">
+    <title lang="tr">İzlence Çocuk</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/0/2204301891655eb78424.jpg" />
+  </programme>
+  <programme start="20260823070000 +0000" stop="20260823075500 +0000" channel="APara.tr">
+    <title lang="tr">Minikler ile Büyük Hayaller</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/68/2204301891735eb78424.jpg" />
+  </programme>
+  <programme start="20260823075500 +0000" stop="20260823080000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/3/2204301901815eb78424.jpg" />
+  </programme>
+  <programme start="20260823080000 +0000" stop="20260823095500 +0000" channel="APara.tr">
+    <title lang="tr">Biz Bize</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/70/2204301901895eb78424.jpg" />
+  </programme>
+  <programme start="20260823095500 +0000" stop="20260823100000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/89/2204301901975eb78424.jpg" />
+  </programme>
+  <programme start="20260823100000 +0000" stop="20260823105500 +0000" channel="APara.tr">
+    <title lang="tr">Dijital Çağ</title>
+    <desc lang="tr">En yeni teknolojiler, son çıkan ürünler ve teknoloji haberleri Dijital Çağ ile ekranlara geliyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/86/2204301912055eb78424.jpg" />
+  </programme>
+  <programme start="20260823105500 +0000" stop="20260823110000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/15/2204301912135eb78424.jpg" />
+  </programme>
+  <programme start="20260823110000 +0000" stop="20260823120000 +0000" channel="APara.tr">
+    <title lang="tr">Dünyanın Rengi</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/14/2204301922215eb78424.jpg" />
+  </programme>
+  <programme start="20260823120000 +0000" stop="20260823125500 +0000" channel="APara.tr">
+    <title lang="tr">Evvel Zaman İçinde</title>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/29/2204301922295eb78424.jpg" />
+  </programme>
+  <programme start="20260823125500 +0000" stop="20260823130000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/67/2204301922375eb78424.jpg" />
+  </programme>
+  <programme start="20260823130000 +0000" stop="20260823145500 +0000" channel="APara.tr">
+    <title lang="tr">İzlence</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/57/2204301932455eb78424.jpg" />
+  </programme>
+  <programme start="20260823145500 +0000" stop="20260823150000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/21/2204301932535eb78424.jpg" />
+  </programme>
+  <programme start="20260823150000 +0000" stop="20260823155500 +0000" channel="APara.tr">
+    <title lang="tr">Her Şeyi Konuşalım</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/26/2204301942615eb78424.jpg" />
+  </programme>
+  <programme start="20260823155500 +0000" stop="20260823160000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/50/2204301942695eb78424.jpg" />
+  </programme>
+  <programme start="20260823160000 +0000" stop="20260823165500 +0000" channel="APara.tr">
+    <title lang="tr">Muhteşem Düetler</title>
+    <category lang="tr">Müzik</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/47/2204301942755eb78424.jpg" />
+  </programme>
+  <programme start="20260823165500 +0000" stop="20260823170000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/24/2204301952825eb78424.jpg" />
+  </programme>
+  <programme start="20260823170000 +0000" stop="20260823185500 +0000" channel="APara.tr">
+    <title lang="tr">Film Kuşağı</title>
+    <desc lang="tr">Türk ve dünya sinemasından sevilen filmler ekrana geliyor.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/79/2204301952905eb78424.jpg" />
+  </programme>
+  <programme start="20260823185500 +0000" stop="20260823190000 +0000" channel="APara.tr">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/90/2204301952985eb78424.jpg" />
+  </programme>
+  <programme start="20260823190000 +0000" stop="20260823200000 +0000" channel="APara.tr">
+    <title lang="tr">Sır Küpü</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/53/2204301963045eb78424.jpg" />
+  </programme>
+  <programme start="20260823200000 +0000" stop="20260823220000 +0000" channel="APara.tr">
+    <title lang="tr">İnsan Hali</title>
+    <desc lang="tr">İnsan Hali insanın karmaşık duygularına kılavuz oluyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260817/24/2204301963115eb78424.jpg" />
+  </programme>
+  <programme start="20260823220000 +0000" stop="20260823230000 +0000" channel="APara.tr">
+    <title lang="tr">Sır Küpü</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260818/68/2204324472875eb9b42e.jpg" />
+  </programme>
+  <programme start="20260823230000 +0000" stop="20260824010000 +0000" channel="APara.tr">
+    <title lang="tr">Film Kuşağı</title>
+    <desc lang="tr">Türk ve dünya sinemasından sevilen filmler ekrana geliyor.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmottvsc24.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260818/24/2204324472945eb9b42e.jpg" />
   </programme>
   <channel id="HaberturkTV.tr">
     <display-name>Habertürk</display-name>
@@ -33850,7 +34098,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260820063000 +0300" stop="20260820070000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Hub With Wang Guan</title>
+    <title lang="tr">The Point with Liu Xin</title>
   </programme>
   <programme start="20260820070000 +0300" stop="20260820073000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33886,7 +34134,7 @@
     <title lang="tr">Sports Scene</title>
   </programme>
   <programme start="20260820123000 +0300" stop="20260820130000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">The Hub With Wang Guan</title>
   </programme>
   <programme start="20260820130000 +0300" stop="20260820140000 +0300" channel="CGTN.cn">
     <title lang="tr">Global Watch</title>
@@ -33946,7 +34194,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260820223000 +0300" stop="20260820230000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">The Hub With Wang Guan</title>
   </programme>
   <programme start="20260820230000 +0300" stop="20260820233000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -33985,7 +34233,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260821063000 +0300" stop="20260821070000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">The Hub With Wang Guan</title>
   </programme>
   <programme start="20260821070000 +0300" stop="20260821073000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -34021,7 +34269,7 @@
     <title lang="tr">Sports Scene</title>
   </programme>
   <programme start="20260821123000 +0300" stop="20260821130000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Hub With Wang Guan</title>
+    <title lang="tr">The Point with Liu Xin</title>
   </programme>
   <programme start="20260821130000 +0300" stop="20260821140000 +0300" channel="CGTN.cn">
     <title lang="tr">Global Watch</title>
@@ -34033,7 +34281,7 @@
     <title lang="tr">Sports Scene</title>
   </programme>
   <programme start="20260821143000 +0300" stop="20260821150000 +0300" channel="CGTN.cn">
-    <title lang="tr">Rediscovering China</title>
+    <title lang="tr">Assignment Asia</title>
   </programme>
   <programme start="20260821150000 +0300" stop="20260821153000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -34081,7 +34329,7 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260821223000 +0300" stop="20260821230000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Hub With Wang Guan</title>
+    <title lang="tr">The Point with Liu Xin</title>
   </programme>
   <programme start="20260821230000 +0300" stop="20260821233000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -34120,13 +34368,10 @@
     <title lang="tr">Global Business</title>
   </programme>
   <programme start="20260822063000 +0300" stop="20260822070000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Hub With Wang Guan</title>
+    <title lang="tr">The Point with Liu Xin</title>
   </programme>
-  <programme start="20260822070000 +0300" stop="20260822073000 +0300" channel="CGTN.cn">
-    <title lang="tr">The World Today</title>
-  </programme>
-  <programme start="20260822073000 +0300" stop="20260822080000 +0300" channel="CGTN.cn">
-    <title lang="tr">Rediscovering China</title>
+  <programme start="20260822070000 +0300" stop="20260822080000 +0300" channel="CGTN.cn">
+    <title lang="tr">Americas Now</title>
   </programme>
   <programme start="20260822080000 +0300" stop="20260822083000 +0300" channel="CGTN.cn">
     <title lang="tr">The Heat</title>
@@ -34156,19 +34401,13 @@
     <title lang="tr">Sports Scene</title>
   </programme>
   <programme start="20260822123000 +0300" stop="20260822130000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">Travelogue</title>
   </programme>
   <programme start="20260822130000 +0300" stop="20260822140000 +0300" channel="CGTN.cn">
     <title lang="tr">Global Watch</title>
   </programme>
-  <programme start="20260822140000 +0300" stop="20260822141500 +0300" channel="CGTN.cn">
-    <title lang="tr">The World Today</title>
-  </programme>
-  <programme start="20260822141500 +0300" stop="20260822143000 +0300" channel="CGTN.cn">
-    <title lang="tr">Sports Scene</title>
-  </programme>
-  <programme start="20260822143000 +0300" stop="20260822150000 +0300" channel="CGTN.cn">
-    <title lang="tr">Assignment Asia</title>
+  <programme start="20260822140000 +0300" stop="20260822150000 +0300" channel="CGTN.cn">
+    <title lang="tr">Big Story</title>
   </programme>
   <programme start="20260822150000 +0300" stop="20260822153000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -34182,17 +34421,17 @@
   <programme start="20260822163000 +0300" stop="20260822170000 +0300" channel="CGTN.cn">
     <title lang="tr">Sports Scene</title>
   </programme>
-  <programme start="20260822170000 +0300" stop="20260822171500 +0300" channel="CGTN.cn">
+  <programme start="20260822170000 +0300" stop="20260822173000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
   </programme>
-  <programme start="20260822171500 +0300" stop="20260822180000 +0300" channel="CGTN.cn">
-    <title lang="tr">Global Business</title>
+  <programme start="20260822173000 +0300" stop="20260822180000 +0300" channel="CGTN.cn">
+    <title lang="tr">Biz Talk</title>
   </programme>
   <programme start="20260822180000 +0300" stop="20260822183000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
   </programme>
   <programme start="20260822183000 +0300" stop="20260822190000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Vibe</title>
+    <title lang="tr">Inheritors</title>
   </programme>
   <programme start="20260822190000 +0300" stop="20260822191500 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -34204,7 +34443,7 @@
     <title lang="tr">Asia Today</title>
   </programme>
   <programme start="20260822203000 +0300" stop="20260822210000 +0300" channel="CGTN.cn">
-    <title lang="tr">Dialogue</title>
+    <title lang="tr">Leaders Talk</title>
   </programme>
   <programme start="20260822210000 +0300" stop="20260822211500 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
@@ -34213,16 +34452,16 @@
     <title lang="tr">China 24</title>
   </programme>
   <programme start="20260822220000 +0300" stop="20260822223000 +0300" channel="CGTN.cn">
-    <title lang="tr">Global Business</title>
+    <title lang="tr">The World Today</title>
   </programme>
   <programme start="20260822223000 +0300" stop="20260822230000 +0300" channel="CGTN.cn">
-    <title lang="tr">The Point with Liu Xin</title>
+    <title lang="tr">Biz Talk</title>
   </programme>
   <programme start="20260822230000 +0300" stop="20260822233000 +0300" channel="CGTN.cn">
     <title lang="tr">The World Today</title>
   </programme>
   <programme start="20260822233000 +0300" stop="20260823000000 +0300" channel="CGTN.cn">
-    <title lang="tr">World Insight with Tian Wei</title>
+    <title lang="tr">Assignment Asia</title>
   </programme>
   <channel id="EuronewsEnglish.fr">
     <display-name>Euronews</display-name>
@@ -52663,10 +52902,10 @@
     <title lang="tr">Today's Top Pick</title>
   </programme>
   <programme start="20260822223000 +0300" stop="20260822230000 +0300" channel="CGTNDocumentary.cn">
-    <title lang="tr">Humanities and Geography</title>
+    <title lang="tr">Today's Top Pick</title>
   </programme>
   <programme start="20260822230000 +0300" stop="20260823000000 +0300" channel="CGTNDocumentary.cn">
-    <title lang="tr">Living China</title>
+    <title lang="tr">Today's Top Pick</title>
   </programme>
   <channel id="GuneydoguTV.tr">
     <display-name>Güneydoğu TV</display-name>

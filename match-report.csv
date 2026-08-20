@@ -19,10 +19,10 @@ Beyaz TV,BeyazTV.tr,BeyazTV.tr,yes,epgshare-tr3,BEYAZ.TV.HD.tr,BEYAZ TV HD,1.000
 tv100,TV100.tr,TV100.tr,yes,epgshare-tr3,TV100.tr,TV100,1.000,49,no
 Ülke TV,UlkeTV.tr,UlkeTV.tr,yes,epgshare-tr3,ÜLKE.TV.HD.tr,ÜLKE TV HD,1.000,66,no
 TVNET,TVNET.tr,TVNET.tr,yes,epgshare-tr3,TVNET.HD.tr,TVNET HD,1.000,158,no
-24 TV,24TV.tr,24TV.tr,yes,epgshare-tr1,24.TV.tr,24 TV,1.000,57,no
+24 TV,24TV.tr,24TV.tr,yes,epgshare-tr1,24.TV.tr,24 TV,1.000,60,no
 NTV,NTV.tr,NTV.tr,yes,epgshare-tr3,NTV.HD.tr,NTV HD,1.000,279,no
 CNN Türk,CNNTurk.tr,CNNTurk.tr,yes,epgshare-tr3,CNN.TÜRK.HD.tr,CNN TÜRK HD,1.000,64,no
-A Para,APara.tr,APara.tr,yes,epgshare-tr1,A.PARA.tr,A PARA,1.000,141,no
+A Para,APara.tr,APara.tr,yes,epgshare-tr3,A.PARA.HD.tr,A PARA HD,1.000,121,no
 Habertürk,HaberturkTV.tr,HaberturkTV.tr,yes,epgshare-tr3,HABERTÜRK.HD.tr,HABERTÜRK HD,1.000,68,no
 TGRT Haber,TGRTHaber.tr,TGRTHaber.tr,yes,epgshare-tr3,TGRT.HABER.HD.tr,TGRT HABER HD,1.000,138,no
 Ekotürk,Ekoturk.tr,Ekoturk.tr,yes,epgshare-tr3,EKOTÜRK.HD.tr,EKOTÜRK HD,1.000,118,no
@@ -56,7 +56,7 @@ TJK TV,TJKTV.tr,TJKTV.tr,no,,,,0.000,0,no
 Sports TV,SportsTV.tr,SportsTV.tr,yes,epgshare-tr3,SPORTS.TV.HD.tr,SPORTS TV HD,1.000,69,no
 TRT Müzik,TRTMuzik.tr,TRTMuzik.tr,yes,epgshare-tr3,TRT.MÜZİK.tr,TRT MÜZİK,1.000,130,no
 TRT Arabi,TRTArabi.tr,TRTArabi.tr,yes,epgshare-tr3,TRT.ARABI.tr,TRT ARABI,1.000,182,no
-CGTN,CGTN.cn,CGTN.cn,yes,epgshare-tr1,CGTN.tr,CGTN,1.000,135,no
+CGTN,CGTN.cn,CGTN.cn,yes,epgshare-tr1,CGTN.tr,CGTN,1.000,132,no
 Euronews,EuronewsEnglish.fr,EuronewsEnglish.fr,yes,epgshare-tr3,EURONEWS.tr,EURONEWS,1.000,362,no
 Bloomberg Television,BloombergTV.us,BloombergTV.us,yes,epgshare-tr3,Bloomberg.tr,Bloomberg,0.930,109,no
 A News,ANews.tr,ANews.tr,yes,epgshare-tr3,A.NEWS.HD.tr,A NEWS HD,1.000,325,no
