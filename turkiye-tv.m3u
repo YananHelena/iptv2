@@ -51,8 +51,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="Habertürk" tvg-logo="https://i.imgur.com/6Tw3rUp.png" tvg-chno="44" group-title="Türkiye TV",Habertürk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" tvg-logo="https://i.imgur.com/PrxwKDw.png" tvg-chno="45" group-title="Türkiye TV",TGRT Haber
-https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekotürk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65" tvg-chno="46" group-title="Türkiye TV",Ekotürk
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global" tvg-logo="https://i.imgur.com/fu6XeGS.png" tvg-chno="47" group-title="Türkiye TV",Haber Global
@@ -61,6 +59,8 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="FlashHaber.tr" tvg-name="Flash Haber" tvg-logo="" tvg-chno="50" group-title="Türkiye TV",Flash Haber
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+#EXTINF:-1 tvg-id="LiderHaber.tr" tvg-name="Lider Haber" tvg-logo="https://i.imgur.com/5B42KwY.png" tvg-chno="51" group-title="Türkiye TV",Lider Haber
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal" tvg-logo="https://i.imgur.com/EwSg612.png" tvg-chno="52" group-title="Türkiye TV",Ulusal Kanal
 https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV" tvg-logo="https://i.imgur.com/xM0HA30.png" tvg-chno="53" group-title="Türkiye TV",Halk TV
