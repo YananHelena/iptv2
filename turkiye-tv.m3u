@@ -51,8 +51,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="Habertürk" tvg-logo="https://i.imgur.com/6Tw3rUp.png" tvg-chno="44" group-title="Türkiye TV",Habertürk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" tvg-logo="https://i.imgur.com/PrxwKDw.png" tvg-chno="45" group-title="Türkiye TV",TGRT Haber
-https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekotürk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65" tvg-chno="46" group-title="Türkiye TV",Ekotürk
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global" tvg-logo="https://i.imgur.com/fu6XeGS.png" tvg-chno="47" group-title="Türkiye TV",Haber Global
@@ -74,7 +72,7 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-name="TRT 3" tvg-logo="https://i.imgur.com/JrWFwBd.png" tvg-chno="56" group-title="Türkiye TV",TRT 3
 #EXTVLCOPT:http-referrer=https://www.trtspor.com.tr/canli-yayin-izle/trt-spor-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Turkey-Curated-IPTV-Builder/3.4)
-https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor
+https://rd-trtradyo1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT Avaz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" tvg-chno="57" group-title="Türkiye TV",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdî" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" tvg-chno="58" group-title="Türkiye TV",TRT Kurdî
