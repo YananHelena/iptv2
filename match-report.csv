@@ -19,7 +19,7 @@ Beyaz TV,BeyazTV.tr,BeyazTV.tr,yes,globetv-5,BEYAZ TV.tr,BEYAZ TV.tr,1.000,50,no
 tv100,TV100.tr,TV100.tr,yes,epgshare-tr3,TV100.tr,TV100,1.000,49,no
 Ülke TV,UlkeTV.tr,UlkeTV.tr,yes,epgshare-tr3,ÜLKE.TV.tr,ÜLKE TV,1.000,70,no
 TVNET,TVNET.tr,TVNET.tr,yes,epgshare-tr3,TVNET.HD.tr,TVNET HD,1.000,153,no
-24 TV,24TV.tr,24TV.tr,yes,epgshare-tr1,24.TV.tr,24 TV,1.000,68,no
+24 TV,24TV.tr,24TV.tr,yes,epgshare-tr1,24.TV.tr,24 TV,1.000,67,no
 NTV,NTV.tr,NTV.tr,yes,epgshare-tr3,NTV.HD.tr,NTV HD,1.000,279,no
 CNN Türk,CNNTurk.tr,CNNTurk.tr,yes,epgshare-tr3,CNN.TÜRK.HD.tr,CNN TÜRK HD,1.000,64,no
 A Para,APara.tr,APara.tr,yes,epgshare-tr3,A.PARA.HD.tr,A PARA HD,1.000,120,no
@@ -55,10 +55,10 @@ TJK TV,TJKTV.tr,TJKTV.tr,no,,,,0.000,0,no
 Sports TV,SportsTV.tr,SportsTV.tr,yes,epgshare-tr3,SPORTS.TV.HD.tr,SPORTS TV HD,1.000,68,no
 TRT Müzik,TRTMuzik.tr,TRTMuzik.tr,yes,epgshare-tr3,TRT.MÜZİK.tr,TRT MÜZİK,1.000,127,no
 TRT Arabi,TRTArabi.tr,TRTArabi.tr,yes,epgshare-tr3,TRT.ARABI.tr,TRT ARABI,1.000,184,no
-CGTN,CGTN.cn,CGTN.cn,yes,epgshare-tr1,CGTN.tr,CGTN,1.000,130,no
+CGTN,CGTN.cn,CGTN.cn,yes,epgshare-tr1,CGTN.tr,CGTN,1.000,133,no
 Euronews,EuronewsEnglish.fr,EuronewsEnglish.fr,yes,epgshare-tr3,EURONEWS.tr,EURONEWS,1.000,367,no
 Bloomberg Television,BloombergTV.us,BloombergTV.us,yes,epgshare-tr3,Bloomberg.tr,Bloomberg,0.930,109,no
-A News,ANews.tr,ANews.tr,yes,epgshare-tr1,A.NEWS.HD.tr,A NEWS HD,1.000,336,no
+A News,ANews.tr,ANews.tr,yes,epgshare-tr3,A.NEWS.HD.tr,A NEWS HD,1.000,331,no
 TRT World,TRTWorld.tr,TRTWorld.tr,yes,epgshare-tr3,TRT.World.HD.tr,TRT World HD,1.000,191,no
 Al Jazeera English,AlJazeera.qa,AlJazeera.qa,yes,epgshare-tr3,AL.JAZEERA.INTERNATIONAL.tr,AL JAZEERA INTERNATIONAL,1.000,151,no
 Al Quran Al Kareem TV,AlQuranAlKareemTV.sa,AlQuranAlKareemTV.sa,yes,globetv-3,Al Quran Al Kareem.tr,Al Quran Al Kareem.tr,0.941,13,no
