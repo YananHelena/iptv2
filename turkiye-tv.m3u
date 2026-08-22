@@ -51,6 +51,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="Habertürk" tvg-logo="https://i.imgur.com/6Tw3rUp.png" tvg-chno="44" group-title="Türkiye TV",Habertürk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" tvg-logo="https://i.imgur.com/PrxwKDw.png" tvg-chno="45" group-title="Türkiye TV",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="Ekotürk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65" tvg-chno="46" group-title="Türkiye TV",Ekotürk
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global" tvg-logo="https://i.imgur.com/fu6XeGS.png" tvg-chno="47" group-title="Türkiye TV",Haber Global
